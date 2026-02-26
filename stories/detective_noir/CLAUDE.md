@@ -72,7 +72,7 @@ These were deliberately planted and should not be removed or explained away:
 
 3. **The philosophical question** — *"Do you ever wonder what it would take to make an ordinary man do something terrible?"* — said by Francois in the office. This is the buried fragment speaking in the only way it can, hiding the truth inside an abstract question aimed at the one man it hopes will understand.
 
-Note: The "Do you ever wonder" line appears *twice* in the story — once foreshadowing in the office scene (currently removed from that section), and once at the climax of the interrogation, placed as Francois's response to Tom's deduction *"You couldn't confess, but part of you needed someone to find out."* **The line currently only appears in the interrogation.** If the user wants to reinstate it in the office scene as foreshadowing, that conversation was had but not actioned.
+Note: The "Do you ever wonder" line appears only once — at the climax of the interrogation, as Francois's response to Tom's deduction *"You couldn't confess, but part of you needed someone to find out."* An earlier draft placed it in the office scene as foreshadowing too, but that version was rejected. The single instance in the interrogation is final.
 
 ---
 
@@ -113,10 +113,10 @@ Readers were confused by the "Francois is two people" concept. The fix was to sh
 
 ---
 
-## Outstanding / Possible Future Work
+## Confirmed Details
 
-- The user has not yet decided whether to reinstate the "Do you ever wonder" line in the office scene as a second instance of foreshadowing.
-- The album in the boombox photo appears to be U2 but the photo quality makes it difficult to confirm with certainty. The user was asked but the session ended before confirmation.
+- **The album is *Achtung Baby* by U2.** Confirmed by the user. Use this name explicitly if it ever needs to be named in the story.
+- **The "Do you ever wonder" line will not be reinstated in the office scene.** It appears only once, in the interrogation. This is final.
 
 ---
 
@@ -125,7 +125,4 @@ Readers were confused by the "Francois is two people" concept. The fix was to sh
 | File | Contents |
 |---|---|
 | `dead_on_arrival_final.md` | Current canonical story — use this |
-| `dead_on_arrival_v2.md` | Previous version — superseded |
-| `dead_on_arrival.md` | Earlier version — superseded |
-| `dead_on_arrival_conversation.md` | Full conversation log |
-| `handoff.md` | This file |
+| `CLAUDE.md` | This file |
