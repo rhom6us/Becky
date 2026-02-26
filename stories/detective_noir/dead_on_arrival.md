@@ -49,7 +49,7 @@ He'd steered clear of anything that smelled like it for months. And something ab
 
 So he said no.
 
-But Francois was persistent. He leaned in, voice low and urgent, chipping away — planting small seeds of doubt, little splinters of argument that lodged themselves just under the skin. *What if the police botch it? What if justice is never served? What if the truth just disappears, like she did?*
+But Francois was persistent. He leaned in, voice low and urgent, chipping away — planting small seeds of doubt, little splinters of argument that lodged themselves just under the skin. *What if the police botch it? What if justice is never served? What if the truth just disappears, like she did?* He paused. Something almost conversational entered his voice. *"It's no secret,"* he said, *"that a conscience can sometimes be a pest. Mine has been keeping me up for three days straight."* His eyes found Tom's again.
 
 Then he stopped. Just for a moment — half a second, maybe less. His face went somewhere else entirely. Not grief, not urgency. Something that looked, just briefly, almost like terror. Then it was gone, and he was back, hands clasped, eyes searching Tom's face like nothing had happened.
 
@@ -141,7 +141,7 @@ So it would have to find another way in.
 
 Francois turned from the window. He was quiet for a moment. Then:
 
-*"Do you ever wonder,"* he said, almost to himself, *"what it would take to make an ordinary man do something terrible? Not greed. Not rage. Something quieter than that. Something that gets in and changes the — "* He paused. Seemed to lose the thread for a moment. Then found it again, or found a different one. *"Something that changes the way a man sees the people around him."*
+*"Do you ever wonder,"* he said, almost to himself, *"what it would take to make an ordinary man do something terrible? Not greed. Not rage. Something quieter than that. Something that gets in and changes the — "* He paused. Seemed to lose the thread for a moment. Then found it again, or found a different one. *"Nothing makes sense. Nothing seems to fit. I know you'd hit out — "* Another pause. Shorter this time. *"Something that changes the way a man sees the people around him."*
 
 Tom looked at him for a long time. It wasn't a denial. It wasn't a confirmation. It was the only answer the situation had left room for.
 
@@ -167,7 +167,7 @@ The scissors.
 
 Tom moved fast. Faster than a man with a zebra on his head had any right to. They collided — Francois lunging, Tom blocking, the scissors clattering sideways as they grappled across the room in a tangle of flannel and stripes and raw desperation.
 
-Francois screamed. Tom held on. They spun. They crashed. The zebra, impossibly, remained on Tom's head throughout.
+Francois screamed — something raw and broken, something between a cry and an answer. *"My sorrows — they learned to swim!"* Tom held on. They spun. They crashed. The zebra, impossibly, remained on Tom's head throughout.
 
 ---
 
@@ -202,6 +202,10 @@ He thought about the instinct that had told him to walk away — twenty years of
 He thought about the fact that he hadn't walked away.
 
 He stopped in the middle of the corridor. Stood very still. Hands in his pockets. Staring at the grey nothing ahead of him.
+
+*Time is a train,* he thought. *Makes the future the past. Leaves you standing in the station.*
+
+He stood there a moment longer. Something in the rhythm of the words — too even, too finished — made him aware he hadn't chosen them. They had simply arrived.
 
 The question arrived slowly, the way a cold front arrives. Not a dramatic thing. Just a change in the air.
 
