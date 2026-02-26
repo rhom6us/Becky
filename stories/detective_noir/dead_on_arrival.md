@@ -10,6 +10,8 @@ What he saw stopped him cold.
 The room had been disturbed. Something was wrong. Something was *deeply, fundamentally wrong* in a way that a man feels in his chest before his brain has caught up. Francois's legs went out from under him. He grabbed the nearest bedpost and held on like a man clinging to a life raft in a black ocean.
 
 > 📸 *[Photo — Stripes the zebra, wrapped desperately around the bedpost, barely holding himself together]*
+>
+> ![Stripes clinging to the bedpost](../../images/600-ice-48005.jpg)
 
 He called the police with trembling fingers.
 
@@ -24,6 +26,8 @@ She was on the floor. Face down. Arms out. Not moving. Not breathing. A stuffed 
 The officers exchanged a glance.
 
 > 📸 *[Photo — Gerald, face down on the carpet, small and still and very much deceased]*
+>
+> ![Gerald face down on the carpet](../../images/600-ice-48006.jpg)
 
 The lead officer snapped his notebook shut. *"We'll file a report,"* he said, in the tone of a man who was already thinking about lunch.
 
@@ -58,6 +62,8 @@ He should have walked away. He knew he should have walked away.
 Tom sat with his fist pressed hard against his chin, eyes fixed on the middle distance. Two alarm systems going off at once. The instinct. The rumors. The shape of the thing. He turned it all over, looking for the angle that made it make sense, looking for the solid ground of reason in a conversation that kept moving the floor on him.
 
 > 📸 *[Photo — Tom, fist to chin, fighting to stay rational while the case gnaws at him from the outside]*
+>
+> ![Tom fist to chin](../../images/600-ice-48004.jpg)
 
 Finally, something gave.
 
@@ -80,6 +86,8 @@ He listened for forty seconds. Then he pressed stop, closed the tray, and stood 
 He didn't press play again.
 
 > 📸 *[Photo — Stripes, arms spread wide on the boombox, lost in the music, already somewhere past the point of no return]*
+>
+> ![Stripes on the boombox](../../images/600-ice-48002.jpg)
 
 The picture became clear. Francois had found the album. Had listened — once, probably, just to see what all the fuss was about. That's how it always started. Just once. And then the music had gotten into him, into the soft tissue behind his eyes, and it had begun its quiet, patient work. Rewriting things. Darkening corners. Turning a reasonable man into something that could look at Gerald — sweet, harmless, innocent Gerald — and decide she knew too much.
 
@@ -100,12 +108,16 @@ He turned to face Tom.
 *"I strangled her."*
 
 > 📸 *[Photo — Stripes's hands locked around Gerald's throat, the act laid bare at last]*
+>
+> ![Stripes strangling Gerald](../../images/600-ice-48007.jpg)
 
 Tom was on his feet before he knew he was standing. Loud, raw, furious. The kind of roar that comes from a man who has spent three days turning over rocks and doesn't like a single thing he found underneath them.
 
 *"WHY? HOW COULD YOU DO THIS? WHAT COULD HAVE POSSIBLY ENTERED YOUR MIND?!"*
 
 > 📸 *[Photo — Tom, mouth thrown open, veins out, Stripes still clinging to his head, both of them fully unraveled]*
+>
+> ![Tom screaming](../../images/600-ice-48001.jpg)
 
 He already knew, of course. He'd pressed play. He'd felt the corruption move through him like cold water — forty seconds of it, quiet and patient and rewriting things. He understood exactly what had entered Francois's mind. He just needed to scream the question into his face until the answer became real.
 
@@ -117,13 +129,13 @@ And then, because he was the kind of detective who couldn't leave a loose thread
 
 Francois said nothing. He turned to the window and stared through it at nothing in particular.
 
-Tom watched him. He thought about the office — the urgency, the arguments, the pressure applied in exactly the right places. He thought about the flash of terror that had crossed Francois's face and vanished before it could be named. He thought about a man who had referred to himself in the third person and hadn't seemed to notice. He thought about forty seconds of music moving through him like cold water and what that same thing, given more time, given *much* more time, might do to the architecture of a mind.
+Tom watched him. He thought about the office — the urgency, the arguments, the pressure applied in exactly the right places. A man in genuine shock didn't argue that well. A man in genuine shock didn't land his points that cleanly. He thought about the flash of terror that had crossed Francois's face and vanished before it could be named — not grief, not guilt, something more like a man catching a glimpse of something inside himself that frightened him. He thought about a man who had referred to himself in the third person and hadn't seemed to notice, as though one part of him didn't fully recognise the other as itself.
 
-And then, slowly, it assembled itself.
+And then he thought about forty seconds of music moving through him like cold water. He thought about what that same thing, given more time, given *much* more time — given enough time to finish what it started — might do to the architecture of a mind. Whether it would hollow a man out all at once, or whether it would take him room by room, leaving some parts intact while it worked on the others.
 
-Not one man sitting across from him in that office. Two. One that had done something unforgivable and felt nothing about it. And somewhere beneath that — smaller, dimmer, running out of time — something that still could.
+And if some part was left intact — smaller, dimmer, running out of time — it would know what had happened. It would need someone to find out. But it couldn't just walk into a police station. The rest of the mind wouldn't allow it.
 
-Something that had found the only door left open to it.
+So it would have to find another way in.
 
 *"You couldn't confess,"* Tom said quietly. *"But part of you needed someone to find out."*
 
@@ -148,6 +160,8 @@ The scissors.
 *Of course it was the scissors.*
 
 > 📸 *[Photo — Stripes, wielding the enormous scissors with the calm of a man who has rehearsed this moment]*
+>
+> ![Stripes wielding scissors](../../images/600-ice-48003.jpg)
 
 ---
 
@@ -196,9 +210,10 @@ The question arrived slowly, the way a cold front arrives. Not a dramatic thing.
 Behind him, the observation window went dark.
 
 > 📸 *[Photo — Stripes, tucked under the white blanket, still and quiet, at the end of everything]*
+>
+> ![Stripes under the blanket](../../images/600-ice-48000.jpg)
 
 ---
-
 *Gerald was buried on a Wednesday. It rained.*
 
 *The album has since been classified.*

@@ -3,24 +3,26 @@
 ## What This Is
 A short story written in detective noir style, built collaboratively over a long session. The story uses a series of scanned family photos from the 90s featuring a stuffed zebra toy, a stuffed ostrich toy, and a boy. The photos have been mapped to specific moments in the narrative.
 
-The canonical latest version of the story is in `dead_on_arrival.md`.
+The canonical latest version of the story is in `dead_on_arrival_final.md`.
 
 ---
 
-## The Photos
+## Image Files
 
-The source images are 8 scanned TIF files named `300us-rest-ice-24000.tif` through `300us-rest-ice-24007.tif` and are located in `../../images`. Here is what each shows and how they are used in the story:
+The source images are located at `../../images/` relative to the story file. They are 8 JPG files named `600-ice-48000.jpg` through `600-ice-48007.jpg`. The story file contains proper markdown image references alongside each photo cue. Always use `.jpg` when referencing these images — not `.jpg`.
+
+The source images are 8 scanned TIF files named `600-ice-48000.jpg` through `600-ice-48007.jpg`. Here is what each shows and how they are used in the story:
 
 | File | Description | Story Role |
 |---|---|---|
-| 24000 | Stripes tucked under a white blanket, peeking out | Final scene — Francois on the table |
-| 24001 | Boy mid-scream, Stripes on his head | Tom's furious outburst after confession |
-| 24002 | Stripes spread-eagle on a boombox, U2 CD visible | The corrupting album is discovered |
-| 24003 | Stripes wielding large scissors | Francois attacks Tom |
-| 24004 | Boy with fist to chin, thoughtful expression, Stripes on head | Tom reluctantly agrees to take the case |
-| 24005 | Stripes clinging to a bedpost | Francois clings to furniture when police arrive |
-| 24006 | Gerald (ostrich) face down on carpet | Gerald found dead |
-| 24007 | Stripes's hands around Gerald's throat | The strangling — shown at moment of confession |
+| 24000.jpg | Stripes tucked under a white blanket, peeking out | Final scene — Francois on the table |
+| 24001.jpg | Boy mid-scream, Stripes on his head | Tom's furious outburst after confession |
+| 24002.jpg | Stripes spread-eagle on a boombox, U2 CD visible | The corrupting album is discovered |
+| 24003.jpg | Stripes wielding large scissors | Francois attacks Tom |
+| 24004.jpg | Boy with fist to chin, thoughtful expression, Stripes on head | Tom reluctantly agrees to take the case |
+| 24005.jpg | Stripes clinging to a bedpost | Francois clings to furniture when police arrive |
+| 24006.jpg | Gerald (ostrich) face down on carpet | Gerald found dead |
+| 24007.jpg | Stripes's hands around Gerald's throat | The strangling — shown at moment of confession |
 
 ---
 
@@ -95,10 +97,25 @@ Note: The "Do you ever wonder" line appears *twice* in the story — once foresh
 
 ---
 
+## Recent Changes
+
+**Image references added**
+All eight photo cues in `dead_on_arrival_final.md` now include proper markdown image references pointing to `../../images/600-ice-4800X.jpg`. The descriptive caption lines are retained alongside each image ref.
+
+**Tom's deduction scene expanded**
+Readers were confused by the "Francois is two people" concept. The fix was to show Tom's deduction step by step rather than summarising it. The new version walks through each fragment of evidence he's collected — the too-clean arguments, the flash of terror, the third-person slip, the forty seconds of music — and builds toward the conclusion visibly. A new image was added: the corruption taking a man *"room by room, leaving some parts intact while it worked on the others."* This sets up the "something left intact" conclusion as a natural next thought rather than a leap. The old version said "slowly, it assembled itself" and moved on — the new version shows the assembly.
+
+---
+
+## Standing Instructions
+
+**Keep this file updated.** After every change to the story or any significant decision, update handoff.md to reflect the current state. A future Claude session should be able to read this file and be fully up to speed without needing to read the conversation history.
+
+---
+
 ## Outstanding / Possible Future Work
 
 - The user has not yet decided whether to reinstate the "Do you ever wonder" line in the office scene as a second instance of foreshadowing.
-- A full file update incorporating the latest round of small fixes (corruption word placement, two alarm systems named) was generated as `dead_on_arrival_final.md` and is considered the canonical version.
 - The album in the boombox photo appears to be U2 but the photo quality makes it difficult to confirm with certainty. The user was asked but the session ended before confirmation.
 
 ---
