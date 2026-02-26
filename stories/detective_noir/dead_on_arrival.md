@@ -49,7 +49,7 @@ He'd steered clear of anything that smelled like it for months. And something ab
 
 So he said no.
 
-But Francois was persistent. He leaned in, voice low and urgent, chipping away — planting small seeds of doubt, little splinters of argument that lodged themselves just under the skin. *What if the police botch it? What if justice is never served? What if the truth just disappears, like she did?*
+But Francois was persistent. He leaned in, voice low and urgent, chipping away — planting small seeds of doubt, little splinters of argument that lodged themselves just under the skin. *What if the police botch it? What if justice is never served? What if the truth just disappears, like she did?* A beat. Then, softer: *Give me one more chance. Just one more chance, and you'll be satisfied.*
 
 Then he stopped. Just for a moment — half a second, maybe less. His face went somewhere else entirely. Not grief, not urgency. Something that looked, just briefly, almost like terror. Then it was gone, and he was back, hands clasped, eyes searching Tom's face like nothing had happened.
 
@@ -107,6 +107,8 @@ He turned to face Tom.
 
 *"I strangled her."*
 
+He looked down at his hands as though seeing them for the first time. *"A little death,"* he said softly, almost to himself. *"No call and no warning."*
+
 > 📸 *[Photo — Stripes's hands locked around Gerald's throat, the act laid bare at last]*
 >
 > ![Stripes strangling Gerald](../../images/600-ice-48007.jpg)
@@ -141,7 +143,7 @@ So it would have to find another way in.
 
 Francois turned from the window. He was quiet for a moment. Then:
 
-*"Do you ever wonder,"* he said, almost to himself, *"what it would take to make an ordinary man do something terrible? Not greed. Not rage. Something quieter than that. Something that gets in and changes the — "* He paused. Seemed to lose the thread for a moment. Then found it again, or found a different one. *"Something that changes the way a man sees the people around him."*
+*"Do you ever wonder,"* he said, almost to himself, *"what it would take to make an ordinary man do something terrible? Not greed. Not rage. Something quieter than that. To touch is to heal — but to hurt is to steal. Something that gets in and changes the — "* He paused. Seemed to lose the thread for a moment. Then found it again, or found a different one. *"Something that changes the way a man sees the people around him."*
 
 Tom looked at him for a long time. It wasn't a denial. It wasn't a confirmation. It was the only answer the situation had left room for.
 
@@ -185,7 +187,7 @@ And smiled.
 
 He lifted one small striped arm and waved — slow, cheerful, with the complete serenity of a man at peace with every single choice he had ever made. Then, holding Tom's gaze, he mouthed words through the glass with great care, making sure each one landed.
 
-*"I don't regret a thing. It was all worth it. I'd do anything — anything — to hear a second of those sweet, sweet tunes just one more time."*
+*"I don't regret a thing. It was all worth it. I'd do anything — anything — to hear a second of those sweet, sweet tunes just one more time."* He held Tom's gaze a moment longer, then mouthed four more words, slow and deliberate: *"Even better than the real thing."*
 
 Tom looked at him for a long moment.
 
@@ -202,6 +204,14 @@ He thought about the instinct that had told him to walk away — twenty years of
 He thought about the fact that he hadn't walked away.
 
 He stopped in the middle of the corridor. Stood very still. Hands in his pockets. Staring at the grey nothing ahead of him.
+
+And then, without deciding to, he thought: *time is a train. Makes the future the past. Leaves you standing in the station, your face pressed up against the glass.*
+
+He didn't move.
+
+Those weren't his words. He knew it the same way you know a foreign coin in your pocket before you look at it — by its weight, by its edge, by the slight wrongness of it against your fingers. He tried to trace the thought back to where it had come from.
+
+Nothing. A gap where the source should be.
 
 The question arrived slowly, the way a cold front arrives. Not a dramatic thing. Just a change in the air.
 
