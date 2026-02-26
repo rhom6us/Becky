@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "word-document-server": {
+      "type": "stdio",
+      "command": "uvx --from office-word-mcp-server word_mcp_server",
+      "args": [],
+      "env": {}
+    },
+    "filesystem-project": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "."
+      ]
+    }
+  }
+}
