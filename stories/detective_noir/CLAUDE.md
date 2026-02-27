@@ -3,7 +3,7 @@
 ## What This Is
 A short story written in detective noir style, built collaboratively over a long session. The story uses a series of scanned family photos from the 90s featuring a stuffed zebra toy, a stuffed ostrich toy, and a boy. The photos have been mapped to specific moments in the narrative.
 
-The canonical latest version of the story is in `dead_on_arrival_final.md`.
+The canonical latest version of the story is in `dead_on_arrival.md`.
 
 ---
 
@@ -100,10 +100,23 @@ Note: The "Do you ever wonder" line appears only once — at the climax of the i
 ## Recent Changes
 
 **Image references added**
-All eight photo cues in `dead_on_arrival_final.md` now include proper markdown image references pointing to `../../images/600-ice-4800X.jpg`. The descriptive caption lines are retained alongside each image ref.
+All eight photo cues in `dead_on_arrival.md` now include proper markdown image references pointing to `../../images/600-ice-4800X.jpg`. The descriptive caption lines are retained alongside each image ref.
 
 **Tom's deduction scene expanded**
 Readers were confused by the "Francois is two people" concept. The fix was to show Tom's deduction step by step rather than summarising it. The new version walks through each fragment of evidence he's collected — the too-clean arguments, the flash of terror, the third-person slip, the forty seconds of music — and builds toward the conclusion visibly. A new image was added: the corruption taking a man *"room by room, leaving some parts intact while it worked on the others."* This sets up the "something left intact" conclusion as a natural next thought rather than a leap. The old version said "slowly, it assembled itself" and moved on — the new version shows the assembly.
+
+**Lyric bleed mechanic added (branch: lyrics-bleed)**
+Characters infected by the album unknowingly speak in its lyrics. Four insertions made to `dead_on_arrival.md`:
+
+1. **Office persuasion scene** — Francois drops a line from *The Fly*: *"It's no secret that a conscience can sometimes be a pest."* Delivered as a casual truism. The corruption speaking its own logic out loud without recognising it as unusual.
+
+2. **"Do you ever wonder" speech** — The Acrobat fragment surfaces inside the second thread Francois finds after losing his place: *"Nothing makes sense. Nothing seems to fit. I know you'd hit out — "* The uncorrupted fragment surfacing briefly before the corruption suppresses it again. Interrupted mid-line.
+
+3. **Fight scene** — Francois's scream is given content: *"My sorrows — they learned to swim!"* (Until the End of the World). The screamed line reads as unhinged in context; on re-read it maps to the psychology — he tried to bury what he felt and it came back up.
+
+4. **Tom's corridor ending** — Tom thinks in Zoo Station lyrics: *"Time is a train. Makes the future the past. Leaves you standing in the station."* He then notices something in the rhythm of the words — *"too even, too finished"* — and registers he did not choose them. This is the moment that shifts the final question from forty seconds to something earlier. The ambiguity between "his thought" and "a lyric" mirrors the ambiguity of the whole final scene.
+
+**What was deliberately left alone:** The final window scene (Francois mouthing words through the glass) contains no lyric. This is intentional — the absence protects the dual-interpretation of that moment. If every prior Francois line has been laced with lyrics, the reader may expect the final words to be too. The fact that they are not is itself a signal. Or it isn't.
 
 ---
 
@@ -124,5 +137,5 @@ Readers were confused by the "Francois is two people" concept. The fix was to sh
 
 | File | Contents |
 |---|---|
-| `dead_on_arrival_final.md` | Current canonical story — use this |
+| `dead_on_arrival.md` | Current canonical story — use this |
 | `CLAUDE.md` | This file |
