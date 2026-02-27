@@ -105,19 +105,15 @@ Then his shoulders dropped.
 
 He turned to face Tom.
 
-*"I strangled her."*
+*"I strangled her. A little death, no call and no warning."*
 
-> 📸 *[Photo — Stripes's hands locked around Gerald's throat, the act laid bare at last]*
->
-> ![Stripes strangling Gerald](../../images/600-ice-48007.jpg)
+![Stripes strangling Gerald](../../images/600-ice-48007.jpg)
 
 Tom was on his feet before he knew he was standing. Loud, raw, furious. The kind of roar that comes from a man who has spent three days turning over rocks and doesn't like a single thing he found underneath them.
 
 *"WHY? HOW COULD YOU DO THIS? WHAT COULD HAVE POSSIBLY ENTERED YOUR MIND?!"*
 
-> 📸 *[Photo — Tom, mouth thrown open, veins out, Stripes still clinging to his head, both of them fully unraveled]*
->
-> ![Tom screaming](../../images/600-ice-48001.jpg)
+![Tom screaming](../../images/600-ice-48001.jpg)
 
 He already knew, of course. He'd pressed play. He'd felt the corruption move through him like cold water — forty seconds of it, quiet and patient and rewriting things. He understood exactly what had entered Francois's mind. He just needed to scream the question into his face until the answer became real.
 
@@ -159,9 +155,7 @@ The scissors.
 
 *Of course it was the scissors.*
 
-> 📸 *[Photo — Stripes, wielding the enormous scissors with the calm of a man who has rehearsed this moment]*
->
-> ![Stripes wielding scissors](../../images/600-ice-48003.jpg)
+![Stripes wielding scissors](../../images/600-ice-48003.jpg)
 
 ---
 
@@ -185,7 +179,7 @@ And smiled.
 
 He lifted one small striped arm and waved — slow, cheerful, with the complete serenity of a man at peace with every single choice he had ever made. Then, holding Tom's gaze, he mouthed words through the glass with great care, making sure each one landed.
 
-*"I don't regret a thing. It was all worth it. I'd do anything — anything — to hear a second of those sweet, sweet tunes just one more time."*
+*"I don't regret a thing. It was all worth it. I'd do anything — anything — to hear a second of those sweet, sweet tunes just one more time."* He held Tom's gaze a moment longer, then mouthed six more words, slow and deliberate: *"Even better than the real thing."*
 
 Tom looked at him for a long moment.
 
@@ -203,15 +197,21 @@ He thought about the fact that he hadn't walked away.
 
 He stopped in the middle of the corridor. Stood very still. Hands in his pockets. Staring at the grey nothing ahead of him.
 
+And then, without deciding to, he thought: *time is a train. Makes the future the past. Leaves you standing in the station, your face pressed up against the glass.*
+
+He didn't move.
+
+Those weren't his words. He knew it the same way you know a foreign coin in your pocket before you look at at it — by its weight, by its edge, by the slight wrongness of it against your fingers. He tried to trace the thought back to where it had come from.
+
+Nothing. A gap where the source should be.
+
 The question arrived slowly, the way a cold front arrives. Not a dramatic thing. Just a change in the air.
 
 *What if forty seconds wasn't where it started?*
 
 Behind him, the observation window went dark.
 
-> 📸 *[Photo — Stripes, tucked under the white blanket, still and quiet, at the end of everything]*
->
-> ![Stripes under the blanket](../../images/600-ice-48000.jpg)
+![Stripes under the blanket](../../images/600-ice-48000.jpg)
 
 ---
 *Gerald was buried on a Wednesday. It rained.*
