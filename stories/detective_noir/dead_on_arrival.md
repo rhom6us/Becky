@@ -9,9 +9,7 @@ What he saw stopped him cold.
 
 The room had been disturbed. Something was wrong. Something was *deeply, fundamentally wrong* in a way that a man feels in his chest before his brain has caught up. Francois's legs went out from under him. He grabbed the nearest bedpost and held on like a man clinging to a life raft in a black ocean.
 
-> 📸 *[Photo — Stripes the zebra, wrapped desperately around the bedpost, barely holding himself together]*
->
-> ![Stripes clinging to the bedpost](../../images/600-ice-48005.jpg)
+![Stripes clinging to the bedpost](../../images/600-ice-48005.jpg)
 
 He called the police with trembling fingers.
 
@@ -25,9 +23,7 @@ She was on the floor. Face down. Arms out. Not moving. Not breathing. A stuffed 
 
 The officers exchanged a glance.
 
-> 📸 *[Photo — Vivian, face down on the carpet, small and still and very much deceased]*
->
-> ![Vivian Plume face down on the carpet](../../images/600-ice-48006.jpg)
+![Vivian Plume face down on the carpet](../../images/600-ice-48006.jpg)
 
 The lead officer snapped his notebook shut. *"We'll file a report,"* he said, in the tone of a man who was already thinking about lunch.
 
@@ -61,9 +57,7 @@ He should have walked away. He knew he should have walked away.
 
 Tom sat with his fist pressed hard against his chin, eyes fixed on the middle distance. Two alarm systems going off at once. The instinct. The rumors. The shape of the thing. He turned it all over, looking for the angle that made it make sense, looking for the solid ground of reason in a conversation that kept moving the floor on him.
 
-> 📸 *[Photo — Tom, fist to chin, fighting to stay rational while the case gnaws at him from the outside]*
->
-> ![Tom fist to chin](../../images/600-ice-48004.jpg)
+![Tom fist to chin](../../images/600-ice-48004.jpg)
 
 Finally, something gave.
 
@@ -85,9 +79,7 @@ He listened for forty seconds. Then he pressed stop, closed the tray, and stood 
 
 He didn't press play again.
 
-> 📸 *[Photo — Stripes, arms spread wide on the boombox, lost in the music, already somewhere past the point of no return]*
->
-> ![Stripes on the boombox](../../images/600-ice-48002.jpg)
+![Stripes on the boombox](../../images/600-ice-48002.jpg)
 
 The picture became clear. Francois had found the album. Had listened — once, probably, just to see what all the fuss was about. That's how it always started. Just once. And then the music had gotten into him, into the soft tissue behind his eyes, and it had begun its quiet, patient work. Rewriting things. Darkening corners. Turning a reasonable man into something that could look at Vivian — sweet, harmless, innocent Vivian — and decide she knew too much.
 
