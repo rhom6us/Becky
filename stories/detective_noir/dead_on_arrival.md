@@ -203,10 +203,6 @@ He thought about the fact that he hadn't walked away.
 
 He stopped in the middle of the corridor. Stood very still. Hands in his pockets. Staring at the grey nothing ahead of him.
 
-*Time is a train,* he thought. *Makes the future the past. Leaves you standing in the station.*
-
-He stood there a moment longer. Something in the rhythm of the words — too even, too finished — made him aware he hadn't chosen them. They had simply arrived.
-
 The question arrived slowly, the way a cold front arrives. Not a dramatic thing. Just a change in the air.
 
 *What if forty seconds wasn't where it started?*
