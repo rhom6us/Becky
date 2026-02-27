@@ -217,3 +217,9 @@ Behind him, the observation window went dark.
 *Let this story serve as a warning.*
 
 **— FIN —**
+
+---
+
+*Written by Thomas Butler*
+*Pictures by Rebecca Stewart*
+*Edited by Ruth-Ann Butler*
