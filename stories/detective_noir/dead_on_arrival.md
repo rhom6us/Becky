@@ -143,7 +143,7 @@ So it would have to find another way in.
 
 Francois turned from the window. He was quiet for a moment. Then:
 
-*"Do you ever wonder,"* he said, almost to himself, *"what it would take to make an ordinary man do something terrible? Not greed. Not rage. Something quieter than that. To touch is to heal — but to hurt is to steal. Something that gets in and changes the — "* He paused. Seemed to lose the thread for a moment. Then found it again, or found a different one. *"Something that changes the way a man sees the people around him."*
+*"Do you ever wonder,"* he said, almost to himself, *"what it would take to make an ordinary man do something terrible? Not greed. Not rage. Something quieter than that. Something that gets in and changes the — "* He paused. Seemed to lose the thread for a moment. Then found it again, or found a different one. *"Something that changes the way a man sees the people around him."*
 
 Tom looked at him for a long time. It wasn't a denial. It wasn't a confirmation. It was the only answer the situation had left room for.
 
