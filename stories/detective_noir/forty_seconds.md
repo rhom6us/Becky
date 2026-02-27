@@ -3,11 +3,11 @@
 
 ---
 
-It was a Monday like any Monday. Grey sky, grey city, grey coffee going cold on the counter. Francois had been away for the weekend — business, he'd say later, though nobody asked twice. He turned his key in the lock, pushed open the door, and stepped inside.
+It was a Monday like any Monday. Grey sky, grey city, grey coffee going cold on the counter. Francois had been away for the weekend — business, he'd say later, though nobody asked twice. He stepped inside.
 
 What he saw stopped him cold.
 
-The room had been disturbed. Something was wrong. Something was *deeply, fundamentally wrong* in a way that a man feels in his chest before his brain has caught up. Francois's legs went out from under him. He grabbed the nearest bedpost and held on like a man clinging to a life raft in a black ocean.
+The room had been disturbed. Something was *fundamentally wrong* in a way that a man feels in his chest before his brain has caught up. Francois's legs went out from under him. He grabbed the nearest bedpost and held on like a man clinging to a life raft in a black ocean.
 
 ![Stripes clinging to the bedpost](../../images/600-ice-48005.jpg)
 
@@ -39,23 +39,23 @@ Tom heard him out without expression. Then he said no.
 
 Francois asked why.
 
-Tom didn't answer that. What he didn't say — what he wouldn't say to a client, or a stranger, or frankly anyone — was that he'd been hearing things for the better part of a year. Whispers, mostly. The kind that travel through the back channels of the city, cop to cop, case to cold case, spoken quietly over bad coffee in rooms with the door closed. Something was going around. Something that got into people. Not a sickness, not exactly — more like a *reorientation.* Men and women who by all accounts had been perfectly ordinary, perfectly decent, until one day they simply weren't anymore. The ones who could still talk afterwards struggled to describe the before and after. The ones who couldn't talk anymore were the ones that kept Tom up at night.
+Tom didn't answer that. What he didn't say — what he wouldn't say to a client, or a stranger, or frankly anyone — was that he'd been hearing things for the better part of a year. Whispers, mostly. The kind that travel through the back channels of the city, cop to cop, case to cold case, spoken quietly over bad coffee in rooms with the door closed. Something was going around. Something that got into people. Not a sickness, not exactly — more like a *reorientation.* Men and women who by all accounts had been perfectly ordinary, perfectly decent, until one day they simply weren't anymore. The ones who could still talk afterwards struggled to describe the before and after. The ones who couldn't talk anymore were the ones that kept Tom up at night. He glanced at Francois — the too-wide eyes, the hands clasped just a little too tight.
 
 He'd steered clear of anything that smelled like it for months. And something about the shape of this case — a senseless death, a man clinging to furniture, eyes that were just slightly too wide — smelled exactly like it.
 
 So he said no.
 
-But Francois was persistent. He leaned in, voice low and urgent, chipping away — planting small seeds of doubt, little splinters of argument that lodged themselves just under the skin. *What if the police botch it? What if justice is never served? What if the truth just disappears, like she did?* He paused. Something almost conversational entered his voice. *"It's no secret,"* he said, *"that a conscience can sometimes be a pest. Mine has been keeping me up for three days straight."* His eyes found Tom's again.
+But Francois was persistent. He leaned in, voice low and urgent, chipping away — planting small seeds of doubt, little splinters of argument that lodged themselves just under the skin — *What if the police botch it? What if justice is never served? What if the truth just disappears, like she did?* He paused. Something almost conversational entered his voice. *"It's no secret,"* he said, *"that a conscience can sometimes be a pest. Mine has been keeping me up for three days straight."* His eyes found Tom's again.
 
 Then he stopped. Just for a moment — half a second, maybe less. His face went somewhere else entirely. Not grief, not urgency. Something that looked, just briefly, almost like terror. Then it was gone, and he was back, hands clasped, eyes searching Tom's face like nothing had happened.
 
-Tom filed it away alongside the other thing that was bothering him — the thing he couldn't name. He'd spent twenty years developing an instinct, and the instinct was making noise. Francois said all the right things in all the right order, and his devastation seemed genuine, and none of that stopped the quiet alarm going off somewhere below Tom's conscious mind. A man in genuine shock didn't argue this well. A man in genuine shock didn't land his points this cleanly. Tom had the distinct and unverifiable sense of being steered.
+Tom filed it away — the thing he couldn't name. He'd spent twenty years developing an instinct, and the instinct was making noise. Francois said all the right things in all the right order, and his devastation seemed genuine, and none of that stopped the quiet alarm going off somewhere below Tom's conscious mind. A man in genuine shock didn't argue this well. A man in genuine shock didn't land his points this cleanly. Tom had the distinct and unverifiable sense of being steered.
 
 He should have walked away. He knew he should have walked away.
 
 *"I just need to know who did this,"* Francois said. *"Francois deserves that much."*
 
-Tom sat with his fist pressed hard against his chin, eyes fixed on the middle distance. Two alarm systems going off at once. The instinct. The rumors. The shape of the thing. He turned it all over, looking for the angle that made it make sense, looking for the solid ground of reason in a conversation that kept moving the floor on him.
+Tom sat with his fist pressed hard against his chin, eyes fixed on the middle distance. Two alarm systems going off at once. The instinct. The rumors. The shape of the thing. He turned it all over, looking for the angle that held, looking for the solid ground of reason in a conversation that kept moving the floor on him.
 
 ![Tom fist to chin](../../images/600-ice-48004.jpg)
 
@@ -83,7 +83,7 @@ He didn't press play again.
 
 ![Stripes on the boombox](../../images/600-ice-48002.jpg)
 
-The picture became clear. Francois had found the album. Had listened — once, probably, just to see what all the fuss was about. That's how it always started. Just once. And then the music had gotten into him, into the soft tissue behind his eyes, and it had begun its quiet, patient work. Rewriting things. Darkening corners. Turning a reasonable man into something that could look at Vivian — sweet, harmless, innocent Vivian — and decide she knew too much.
+The picture became clear. Francois had found the album. Had listened — once, probably, just to see what all the fuss was about. That's how it always started. Just once. And then the music had gotten into him, into the soft tissue behind his eyes, and it had begun its quiet, patient work. Rewriting things. Darkening corners. Turning a reasonable man into something that could look at Vivian — innocent Vivian — and decide she knew too much.
 
 Because she did know. She'd been there when he first listened. She'd seen what it did to him. And a corrupted mind cannot abide a witness.
 
@@ -119,7 +119,7 @@ And then, because he was the kind of detective who couldn't leave a loose thread
 
 Francois said nothing. He turned to the window and stared through it at nothing in particular.
 
-Tom watched him. He thought about the office — the urgency, the arguments, the pressure applied in exactly the right places. A man in genuine shock didn't argue that well. A man in genuine shock didn't land his points that cleanly. He thought about the flash of terror that had crossed Francois's face and vanished before it could be named — not grief, not guilt, something more like a man catching a glimpse of something inside himself that frightened him. He thought about a man who had referred to himself in the third person and hadn't seemed to notice, as though one part of him didn't fully recognise the other as itself.
+Tom watched him. He thought about the office — the urgency, the arguments, the pressure applied in exactly the right places. He'd thought it then. He thought it again now: a man in genuine shock didn't argue that well. A man in genuine shock didn't land his points that cleanly. He thought about the flash of terror that had crossed Francois's face and vanished before it could be named — not grief, not guilt, something more like a man catching a glimpse of something inside himself that frightened him. He thought about a man who had referred to himself in the third person and hadn't seemed to notice, as though one part of him didn't fully recognise the other as itself.
 
 And then he thought about forty seconds of music moving through him like cold water. He thought about what that same thing, given more time, given *much* more time — given enough time to finish what it started — might do to the architecture of a mind. Whether it would hollow a man out all at once, or whether it would take him room by room, leaving some parts intact while it worked on the others.
 
@@ -129,7 +129,7 @@ So it would have to find another way in.
 
 *"You couldn't confess,"* Tom said quietly. *"But part of you needed someone to find out."*
 
-Francois turned from the window. He was quiet for a moment. Then:
+Francois turned from the window. He sat with it a moment. Then:
 
 *"Do you ever wonder,"* he said, almost to himself, *"what it would take to make an ordinary man do something terrible? Not greed. Not rage. Something quieter than that. Something that gets in and changes the — "* He paused. Seemed to lose the thread for a moment. Then found it again, or found a different one. *"Nothing makes sense. Nothing seems to fit. I know you'd hit out if you only knew who to hit."* Another pause. Shorter this time. *"Something that changes the way a man sees the people around him."*
 
@@ -151,25 +151,25 @@ The scissors.
 
 Tom moved fast. Faster than a man with a zebra on his head had any right to. They collided — Francois lunging, Tom blocking, the scissors clattering sideways as they grappled across the room in a tangle of flannel and stripes and raw desperation.
 
-Francois screamed — something raw and broken, something between a cry and an answer. *"My sorrows — they learned to swim!"* Tom held on. They spun. They crashed. The zebra, impossibly, remained on Tom's head throughout.
+Francois screamed — something torn and broken, something between a cry and an answer. *"My sorrows — they learned to swim!"* Tom held on. They spun. They crashed. The zebra, impossibly, remained on Tom's head throughout.
 
 ---
 
 Some time later, Francois lay on a table, strapped at the wrists and ankles.
 
-The room beyond the observation window was small and clinical. A metal stand beside the table. A single overhead light. Tom stood on the other side of the glass, hands in his pockets, watching. He thought about a cornered thing finding a crack. He thought about a last lit room at the end of a long dark corridor, doing the only thing it could with the time it had left.
+The room beyond the observation window was small and clinical. A metal stand beside the table. A single overhead light. Tom stood on the other side of the glass, hands in his pockets, watching. He thought about a cornered thing finding a crack. A last lit room at the end of a long dark corridor, doing the only thing it could with the time it had left.
 
 Vivian was dead. That was real, and it was terrible, and nothing that came after would change it. But the boombox was in an evidence locker, sealed, tagged, going nowhere. The album had been classified. Nobody else would find it on a shelf somewhere and think *just once, just to see.* The corruption ended here, in this room, with this man on this table.
 
-Someone had made sure of that. The question of who — the man, or the thing the music had made of him — was one Tom suspected he'd be turning over for the rest of his life.
+Someone had made sure of that. The question of who — the man, or the thing the music had made of him — was one Tom suspected he'd be turning over.
 
 Francois turned his head. Found Tom's eyes through the glass.
 
 And smiled.
 
-He lifted one small striped arm — as far as the strap would allow, the thin tube taped to the crook of his elbow shifting slightly with the motion — and waved, slow and cheerful, with the complete serenity of a man at peace with every single choice he had ever made. When he spoke, his voice came through the speaker above the glass, flat and close, like a voice in a small room.
+He lifted one small striped arm and waved, slow and cheerful, with the complete serenity of a man at peace with every single choice he had ever made. The strap caught him short; the thin tube taped to the crook of his elbow shifted slightly with the motion. When he spoke, his voice came through the speaker above the glass, flat and close, like a voice in a small room.
 
-*"I don't regret a thing. It was all worth it. I'd do anything — anything — to hear a second of those sweet, sweet tunes just one more time."* His eyes didn't leave Tom's. *"Think of the best thing you know. The best real thing. Hold it in your mind."* A pause. The smile didn't change. *"Even better than the real thing."*
+*"I don't regret a thing. It was all worth it. I'd do anything — anything — to hear that sound again."* His eyes didn't leave Tom's. *"Think of the best thing you know. The best real thing. Hold it in your mind."* A pause. The smile didn't change. *"Even better than the real thing."*
 
 Tom looked at him for a long moment.
 
@@ -181,13 +181,13 @@ Tom turned and walked away down the grey corridor. And as he walked, another tho
 
 But he'd pressed play. Forty seconds. And he'd told himself that was nothing, that he'd stopped in time, that he'd felt it move through him and come out the other side clean.
 
-He thought about the instinct that had told him to walk away — twenty years of detective work making noise he hadn't listened to. He thought about the rumors. Two alarm systems, both going off at once.
+He thought about the instinct that had told him to walk away — twenty years of detective work making noise he hadn't listened to. The rumors. Two alarm systems, both going off at once.
 
 He thought about the fact that he hadn't walked away.
 
 He stopped in the middle of the corridor. Stood very still. Hands in his pockets. Staring at the grey nothing ahead of him.
 
-And then, without deciding to, he thought: *time is a train. Makes the future the past. Leaves you standing in the station, your face pressed up against the glass.*
+And then he thought: *time is a train. Makes the future the past. Leaves you standing in the station, your face pressed up against the glass.*
 
 He didn't move.
 
