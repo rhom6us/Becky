@@ -69,6 +69,8 @@ He would spend a long time afterwards wondering what exactly had moved him. He n
 
 Tom worked the case for three days straight. He turned over every rock, rattled every cage, followed every thread until the threads led somewhere ugly. And they always led somewhere ugly.
 
+Everyone he talked to said she'd been worried about Francois for weeks. Nobody had done anything about it, including her.
+
 He started with the boombox.
 
 It sat on the bed like an altar. A U2 CD loaded in the tray. Tom stared at it for a long moment before he did anything else. Then he pressed play.
@@ -206,7 +208,7 @@ Behind him, the observation window went dark.
 ![Stripes under the blanket](../../images/600-ice-48000.jpg)
 
 ---
-*Vivian Plume was buried on a Wednesday. It rained.*
+*Vivian Plume was buried on a Wednesday. It rained. More people came than had been told to.*
 
 *The album has since been classified.*
 
