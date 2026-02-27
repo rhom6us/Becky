@@ -133,7 +133,7 @@ Francois turned from the window. He was quiet for a moment. Then:
 
 *"Do you ever wonder,"* he said, almost to himself, *"what it would take to make an ordinary man do something terrible? Not greed. Not rage. Something quieter than that. Something that gets in and changes the — "* He paused. Seemed to lose the thread for a moment. Then found it again, or found a different one. *"Nothing makes sense. Nothing seems to fit. I know you'd hit out if you only knew who to hit."* Another pause. Shorter this time. *"Something that changes the way a man sees the people around him."*
 
-Tom looked at him for a long time. It wasn't a denial. It wasn't a confirmation. It was the only answer the situation had left room for.
+Tom looked at him for a long time. Something had snagged, briefly, in the middle of all that — three lines that arrived in a different rhythm than the rest, clipped and even, almost recited. He couldn't place it. It wasn't a denial. It wasn't a confirmation. It was the only answer the situation had left room for.
 
 Something moved behind Francois's eyes — deep and complicated, like a light seen from a very long way away.
 
