@@ -159,9 +159,9 @@ Francois screamed — something raw and broken, something between a cry and an a
 
 ---
 
-Some time later, Francois lay on the table.
+Some time later, Francois lay on a table, strapped at the wrists and ankles.
 
-The room beyond the observation window was small and clinical. Tom stood on the other side of the glass, hands in his pockets, watching. He thought about a cornered thing finding a crack. He thought about a last lit room at the end of a long dark corridor, doing the only thing it could with the time it had left.
+The room beyond the observation window was small and clinical. A metal stand beside the table. A single overhead light. Tom stood on the other side of the glass, hands in his pockets, watching. He thought about a cornered thing finding a crack. He thought about a last lit room at the end of a long dark corridor, doing the only thing it could with the time it had left.
 
 Vivian was dead. That was real, and it was terrible, and nothing that came after would change it. But the boombox was in an evidence locker, sealed, tagged, going nowhere. The album had been classified. Nobody else would find it on a shelf somewhere and think *just once, just to see.* The corruption ended here, in this room, with this man on this table.
 
@@ -171,9 +171,9 @@ Francois turned his head. Found Tom's eyes through the glass.
 
 And smiled.
 
-He lifted one small striped arm and waved — slow, cheerful, with the complete serenity of a man at peace with every single choice he had ever made. Then, holding Tom's gaze, he mouthed words through the glass with great care, making sure each one landed.
+He lifted one small striped arm — as far as the strap would allow, the thin tube taped to the crook of his elbow shifting slightly with the motion — and waved, slow and cheerful, with the complete serenity of a man at peace with every single choice he had ever made. When he spoke, his voice came through the speaker above the glass, flat and close, like a voice in a small room.
 
-*"I don't regret a thing. It was all worth it. I'd do anything — anything — to hear a second of those sweet, sweet tunes just one more time."* He held Tom's gaze a moment longer, then mouthed six more words, slow and deliberate: *"Even better than the real thing."*
+*"I don't regret a thing. It was all worth it. I'd do anything — anything — to hear a second of those sweet, sweet tunes just one more time."* His eyes didn't leave Tom's. *"Think of the best thing you know. The best real thing. Hold it in your mind."* A pause. The smile didn't change. *"Even better than the real thing."*
 
 Tom looked at him for a long moment.
 
