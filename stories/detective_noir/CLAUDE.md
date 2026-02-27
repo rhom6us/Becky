@@ -1,9 +1,9 @@
-# Dead on Arrival — Session Handoff Document
+# Forty Seconds — Session Handoff Document
 
 ## What This Is
 A short story written in detective noir style, built collaboratively over a long session. The story uses a series of scanned family photos from the 90s featuring a stuffed zebra toy, a stuffed ostrich toy, and a boy. The photos have been mapped to specific moments in the narrative.
 
-The canonical latest version of the story is in `dead_on_arrival.md`.
+The canonical latest version of the story is in `forty_seconds.md`.
 
 ---
 
@@ -100,13 +100,13 @@ Note: The "Do you ever wonder" line appears only once — at the climax of the i
 ## Recent Changes
 
 **Image references added**
-All eight photo cues in `dead_on_arrival.md` now include proper markdown image references pointing to `../../images/600-ice-4800X.jpg`. The descriptive caption lines are retained alongside each image ref.
+All eight photo cues in `forty_seconds.md` now include proper markdown image references pointing to `../../images/600-ice-4800X.jpg`. The descriptive caption lines are retained alongside each image ref.
 
 **Tom's deduction scene expanded**
 Readers were confused by the "Francois is two people" concept. The fix was to show Tom's deduction step by step rather than summarising it. The new version walks through each fragment of evidence he's collected — the too-clean arguments, the flash of terror, the third-person slip, the forty seconds of music — and builds toward the conclusion visibly. A new image was added: the corruption taking a man *"room by room, leaving some parts intact while it worked on the others."* This sets up the "something left intact" conclusion as a natural next thought rather than a leap. The old version said "slowly, it assembled itself" and moved on — the new version shows the assembly.
 
 **Lyric bleed mechanic added (branch: lyrics-bleed)**
-Characters infected by the album unknowingly speak in its lyrics. Four insertions made to `dead_on_arrival.md`:
+Characters infected by the album unknowingly speak in its lyrics. Four insertions made to `forty_seconds.md`:
 
 1. **Office persuasion scene** — Francois drops a line from *The Fly*: *"It's no secret that a conscience can sometimes be a pest."* Delivered as a casual truism. The corruption speaking its own logic out loud without recognising it as unusual.
 
@@ -137,5 +137,5 @@ Characters infected by the album unknowingly speak in its lyrics. Four insertion
 
 | File | Contents |
 |---|---|
-| `dead_on_arrival.md` | Current canonical story — use this |
+| `forty_seconds.md` | Current canonical story — use this |
 | `CLAUDE.md` | This file |

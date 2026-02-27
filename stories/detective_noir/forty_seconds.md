@@ -1,4 +1,4 @@
-# **Dead on Arrival**
+# **Forty Seconds**
 ### *A Detective Noir*
 
 ---
