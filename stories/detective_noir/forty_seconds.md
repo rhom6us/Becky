@@ -139,10 +139,6 @@ Something moved behind Francois's eyes — deep and complicated, like a light se
 
 Then it was gone.
 
-He smiled instead — thin, cold, the smile of a man with nothing left to protect.
-
-*"And now that you know,"* he said, *"you have to die too."*
-
 He reached for the nearest weapon.
 
 The scissors.
