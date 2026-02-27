@@ -21,16 +21,16 @@ The source images are 8 scanned TIF files named `600-ice-48000.jpg` through `600
 | 24003.jpg | Stripes wielding large scissors | Francois attacks Tom |
 | 24004.jpg | Boy with fist to chin, thoughtful expression, Stripes on head | Tom reluctantly agrees to take the case |
 | 24005.jpg | Stripes clinging to a bedpost | Francois clings to furniture when police arrive |
-| 24006.jpg | Gerald (ostrich) face down on carpet | Gerald found dead |
-| 24007.jpg | Stripes's hands around Gerald's throat | The strangling — shown at moment of confession |
+| 24006.jpg | Vivian Plume (ostrich) face down on carpet | Vivian Plume found dead |
+| 24007.jpg | Stripes's hands around Vivian Plume's throat | The strangling — shown at moment of confession |
 
 ---
 
 ## Characters
 
-**Francois** — The protagonist/antagonist. A stuffed zebra toy (called "Stripes" in the funny version, "Francois" in the noir). Listened to a corrupting album, murdered Gerald, then hired Tom to investigate. His mind is split — one corrupted part, one last uncorrupted fragment that engineered its own capture.
+**Francois** — The protagonist/antagonist. A stuffed zebra toy (called "Stripes" in the funny version, "Francois" in the noir). Listened to a corrupting album, murdered Vivian Plume, then hired Tom to investigate. His mind is split — one corrupted part, one last uncorrupted fragment that engineered its own capture.
 
-**Gerald** — A stuffed ostrich in a teal collar. The victim. Female. Was present when Francois first listened to the album and witnessed what it did to him. The corrupted Francois decided she knew too much and strangled her. She was *not* floor-dwelling before her murder — that detail was corrected early in the session.
+**Vivian Plume** — A stuffed ostrich in a teal collar. The victim. Female. Was present when Francois first listened to the album and witnessed what it did to him. The corrupted Francois decided she knew too much and strangled her. She was *not* floor-dwelling before her murder — that detail was corrected early in the session.
 
 **PI Tom** — The boy in the photos. Wears a yellow flannel shirt. A weathered, reluctant private detective with twenty years of instinct. Ultimately solves the case.
 
@@ -78,7 +78,7 @@ Note: The "Do you ever wonder" line appears only once — at the climax of the i
 
 ## Things That Were Fixed / Watch Out For
 
-- **Gerald was not floor-dwelling before her murder.** Do not describe her that way in the lead-up to the killing.
+- **Vivian Plume was not floor-dwelling before her murder.** Do not describe her that way in the lead-up to the killing.
 - **The stuffed sheep (Margaret)** appeared in early drafts and was removed. She is gone. Do not reintroduce her.
 - **"Corruption" does not appear in Tom's outburst question.** It appears in his internal answer immediately after. The question is: *"WHY? HOW COULD YOU DO THIS? WHAT COULD HAVE POSSIBLY ENTERED YOUR MIND?!"*
 - **Two "dark nothing" window lines** were fixed — the confession scene uses *"the dark nothing beyond the glass"* and the hiring question scene uses *"stared through it at nothing in particular."*

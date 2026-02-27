@@ -21,13 +21,13 @@ They arrived within the hour — two uniforms, bored on a Monday, expecting a no
 
 They looked.
 
-She was on the floor. Face down. Arms out. Not moving. Not breathing. A stuffed ostrich in a teal collar who went by the name Gerald, and who would never again make anyone's acquaintance.
+She was on the floor. Face down. Arms out. Not moving. Not breathing. A stuffed ostrich in a teal collar who went by the name Vivian Plume, and who would never again make anyone's acquaintance.
 
 The officers exchanged a glance.
 
-> 📸 *[Photo — Gerald, face down on the carpet, small and still and very much deceased]*
+> 📸 *[Photo — Vivian, face down on the carpet, small and still and very much deceased]*
 >
-> ![Gerald face down on the carpet](../../images/600-ice-48006.jpg)
+> ![Vivian Plume face down on the carpet](../../images/600-ice-48006.jpg)
 
 The lead officer snapped his notebook shut. *"We'll file a report,"* he said, in the tone of a man who was already thinking about lunch.
 
@@ -89,7 +89,7 @@ He didn't press play again.
 >
 > ![Stripes on the boombox](../../images/600-ice-48002.jpg)
 
-The picture became clear. Francois had found the album. Had listened — once, probably, just to see what all the fuss was about. That's how it always started. Just once. And then the music had gotten into him, into the soft tissue behind his eyes, and it had begun its quiet, patient work. Rewriting things. Darkening corners. Turning a reasonable man into something that could look at Gerald — sweet, harmless, innocent Gerald — and decide she knew too much.
+The picture became clear. Francois had found the album. Had listened — once, probably, just to see what all the fuss was about. That's how it always started. Just once. And then the music had gotten into him, into the soft tissue behind his eyes, and it had begun its quiet, patient work. Rewriting things. Darkening corners. Turning a reasonable man into something that could look at Vivian — sweet, harmless, innocent Vivian — and decide she knew too much.
 
 Because she did know. She'd been there when he first listened. She'd seen what it did to him. And a corrupted mind cannot abide a witness.
 
@@ -107,7 +107,7 @@ He turned to face Tom.
 
 *"I strangled her. A little death, no call and no warning."*
 
-![Stripes strangling Gerald](../../images/600-ice-48007.jpg)
+![Stripes strangling Vivian Plume](../../images/600-ice-48007.jpg)
 
 Tom was on his feet before he knew he was standing. Loud, raw, furious. The kind of roar that comes from a man who has spent three days turning over rocks and doesn't like a single thing he found underneath them.
 
@@ -169,7 +169,7 @@ Some time later, Francois lay on the table.
 
 The room beyond the observation window was small and clinical. Tom stood on the other side of the glass, hands in his pockets, watching. He thought about a cornered thing finding a crack. He thought about a last lit room at the end of a long dark corridor, doing the only thing it could with the time it had left.
 
-Gerald was dead. That was real, and it was terrible, and nothing that came after would change it. But the boombox was in an evidence locker, sealed, tagged, going nowhere. The album had been classified. Nobody else would find it on a shelf somewhere and think *just once, just to see.* The corruption ended here, in this room, with this man on this table.
+Vivian was dead. That was real, and it was terrible, and nothing that came after would change it. But the boombox was in an evidence locker, sealed, tagged, going nowhere. The album had been classified. Nobody else would find it on a shelf somewhere and think *just once, just to see.* The corruption ended here, in this room, with this man on this table.
 
 Someone had made sure of that. The question of who — the man, or the thing the music had made of him — was one Tom suspected he'd be turning over for the rest of his life.
 
@@ -214,7 +214,7 @@ Behind him, the observation window went dark.
 ![Stripes under the blanket](../../images/600-ice-48000.jpg)
 
 ---
-*Gerald was buried on a Wednesday. It rained.*
+*Vivian Plume was buried on a Wednesday. It rained.*
 
 *The album has since been classified.*
 
