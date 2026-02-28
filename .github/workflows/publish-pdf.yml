@@ -1,0 +1,47 @@
+name: Publish Forty Seconds PDF
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - stories/detective_noir/forty_seconds.md
+      - stories/detective_noir/story-template.typ
+      - .github/workflows/publish-pdf.yml
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install pandoc
+        uses: pandoc/actions/setup@v1
+
+      - name: Install typst
+        uses: typst-community/setup-typst@v4
+
+      - name: Install Liberation fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-liberation
+
+      - name: Generate PDF
+        working-directory: stories/detective_noir
+        run: |
+          pandoc \
+            -f markdown-yaml_metadata_block \
+            forty_seconds.md \
+            -o forty_seconds.pdf \
+            --pdf-engine=typst \
+            --template=story-template.typ
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: forty-seconds-${{ github.run_number }}-${{ github.sha }}
+          name: "Forty Seconds — Build #${{ github.run_number }}"
+          files: stories/detective_noir/forty_seconds.pdf
