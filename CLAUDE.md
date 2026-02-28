@@ -18,7 +18,7 @@ Each story directory should contain a `story-template.typ` Typst template. Stand
 - **Margins:** 0.5 in outside/top/bottom; 1 in inside (0.5 base + 0.5 gutter)
 - **Page numbers:** top of page, outside edge (right on odd pages, left on even)
 - **Font:** sans-serif best for print — Calibri preferred, Segoe UI / Arial as fallback
-- **Font size:** 16pt
+- **Font size:** 14pt
 - **Images:** embed inline; suppress alt-text captions
 - **Cover page:** title, subtitle, author, copyright notice; verso (page 2) blank
 - **Copyright:** © Thomas Butler. All rights reserved.

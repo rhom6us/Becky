@@ -115,7 +115,7 @@ Full line-edit applied to the current draft. Key changes: cut redundant "Somethi
 Fresh line-edit (line-edit-report-2.md) and developmental edit (dev-edit-report.md) generated against the revised draft. Consolidated actionable items in action-items.md (checkbox format).
 
 **PDF generation set up (2026-02-27)**
-story-template.typ created. PDF spec: 5.5×8.5in, Calibri 16pt, gutter margins, outside-edge page numbers, suppressed captions, cover + blank verso, copyright.
+story-template.typ created. PDF spec: 5.5×8.5in, Calibri 14pt, gutter margins, outside-edge page numbers, suppressed captions, cover + blank verso, copyright.
 
 ---
 

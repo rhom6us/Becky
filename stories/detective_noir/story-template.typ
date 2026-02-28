@@ -7,7 +7,7 @@
   #line(start: (20%, 0%), end: (80%, 0%), stroke: 0.5pt + luma(160))
 ]
 
-#set text(font: ("Calibri", "Segoe UI", "Arial"), size: 16pt)
+#set text(font: ("Calibri", "Segoe UI", "Arial"), size: 14pt)
 #set par(leading: 0.9em, spacing: 1.4em)
 #set image(width: 100%)
 
