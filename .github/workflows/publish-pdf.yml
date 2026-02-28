@@ -44,4 +44,6 @@ jobs:
         with:
           tag_name: forty-seconds-${{ github.run_number }}-${{ github.sha }}
           name: "Forty Seconds — Build #${{ github.run_number }}"
-          files: stories/detective_noir/forty_seconds.pdf
+          files: |
+            stories/detective_noir/forty_seconds.pdf
+            stories/detective_noir/forty_seconds.md
