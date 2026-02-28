@@ -39,6 +39,15 @@ jobs:
             --pdf-engine=typst \
             --template=story-template.typ
 
+      - name: Inline images as base64 data URIs
+        working-directory: stories/detective_noir
+        run: |
+          while IFS= read -r file; do
+            b64=$(base64 -w0 "$file")
+            escaped_path=$(echo "$file" | sed 's|[/.]|\\&|g')
+            sed -i "s|${file}|data:image/jpeg;base64,${b64}|g" forty_seconds.md
+          done < <(grep -oP '../../images/[^\)]+' forty_seconds.md | sort -u)
+
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
