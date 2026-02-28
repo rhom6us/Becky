@@ -171,8 +171,8 @@ The `-f markdown-yaml_metadata_block` flag is required — the story's `---` sec
 | `CLAUDE.md` | This file — session handoff |
 | `story-template.typ` | Typst template for PDF generation |
 | `forty_seconds.pdf` | Most recent generated PDF |
-| `line-edit-report.md` | First line-edit report (fully actioned — strikethroughs show completed items) |
-| `line-edit-report-2.md` | Second line-edit report (fresh pass on revised draft) |
-| `dev-edit-report.md` | Developmental edit report (structural/character/arc level) |
-| `action-items.md` | Consolidated actionable issues from both agent reports, checkbox format |
+| `reports/line-edit-report.md` | First line-edit report (fully actioned — strikethroughs show completed items) |
+| `reports/line-edit-report-2.md` | Second line-edit report (fresh pass on revised draft) |
+| `reports/dev-edit-report.md` | Developmental edit report (structural/character/arc level) |
+| `reports/action-items.md` | Consolidated actionable issues from both agent reports, checkbox format |
 | `lyrics/` | Full lyrics for all 12 tracks on *Achtung Baby* — reference for lyric-bleed mechanic |
