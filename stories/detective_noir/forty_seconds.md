@@ -208,6 +208,7 @@ Behind him, the observation window went dark.
 ![Stripes under the blanket](../../images/600-ice-48000.jpg)
 
 ---
+
 *Vivian Plume was buried on a Wednesday. It rained. More people came than had been told to.*
 
 *The album has since been classified.*
@@ -223,5 +224,7 @@ Behind him, the observation window went dark.
 ---
 
 *Written by Thomas Butler*
+
 *Pictures by Rebecca Stewart*
+
 *Edited by Ruth-Ann Butler*

@@ -11,6 +11,9 @@
 #set par(leading: 0.9em, spacing: 1.4em)
 #set image(width: 100%)
 
+// Suppress headings — cover page handles title/subtitle
+#show heading: it => []
+
 // Suppress figure captions — show image only
 #show figure.where(kind: image): it => {
   v(0.5em)
