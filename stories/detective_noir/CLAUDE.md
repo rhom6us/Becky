@@ -16,7 +16,7 @@ The source images are 8 scanned TIF files named `600-ice-48000.jpg` through `600
 | File | Description | Story Role |
 |---|---|---|
 | 24000.jpg | Stripes tucked under a white blanket, peeking out | Final scene — Francois on the table |
-| 24001.jpg | Boy mid-scream, Stripes on his head | Tom's furious outburst after confession |
+| 24001.jpg | Boy mid-scream, Stripes on his head | Tom during the scissors fight — adrenaline scream as Francois attacks |
 | 24002.jpg | Stripes spread-eagle on a boombox, U2 CD visible | The corrupting album is discovered |
 | 24003.jpg | Stripes wielding large scissors | Francois attacks Tom |
 | 24004.jpg | Boy with fist to chin, thoughtful expression, Stripes on head | Tom reluctantly agrees to take the case |
@@ -47,7 +47,7 @@ Francois is not one person by the time he walks into Tom's office — he is two.
 The uncorrupted fragment couldn't overpower the corruption directly. So it found a loophole: it convinced the corrupted mind that hiring Tom was a good idea — that Tom would find the boombox, press play, and become an ally. The corrupted mind agreed. Whether the fragment did this as a deliberate, calculated trick or had simply lost grasp on reality entirely is left permanently ambiguous.
 
 ### The Ambiguity of the Final Scene
-When Francois waves at Tom through the observation window and says *"I don't regret a thing... I'd do anything to hear those sweet sweet tunes just one more time"* — the reader cannot know if this is:
+When Francois waves at Tom through the observation window and says *"I don't regret a thing... I'd do anything — anything — to hear that sound again"* — the reader cannot know if this is:
 - The corruption reveling to the end, or
 - The real Francois performing one last piece of theatre to ensure nobody investigates the boombox further, having successfully gotten it locked away
 
@@ -70,9 +70,9 @@ These were deliberately planted and should not be removed or explained away:
 
 2. **The third-person slip** — Francois says *"Francois deserves that much"* instead of *"I deserve that much."* Tom files it away. It is never remarked upon directly in the scene — the reader has to catch it themselves.
 
-3. **The philosophical question** — *"Do you ever wonder what it would take to make an ordinary man do something terrible?"* — said by Francois in the office. This is the buried fragment speaking in the only way it can, hiding the truth inside an abstract question aimed at the one man it hopes will understand.
+3. **The philosophical question** — *"Do you ever wonder what it would take to make an ordinary man do something terrible?"* — said by Francois during the interrogation, after Tom delivers his deduction and after the scissors fight. This is the buried fragment speaking in the only way it can, hiding the truth inside an abstract question. It is Francois's only response to being correctly named — not a confirmation, not a denial.
 
-Note: The "Do you ever wonder" line appears only once — at the climax of the interrogation, as Francois's response to Tom's deduction *"You couldn't confess, but part of you needed someone to find out."* An earlier draft placed it in the office scene as foreshadowing too, but that version was rejected. The single instance in the interrogation is final.
+Note: The "Do you ever wonder" line appears only once. An earlier draft placed it in the office scene as foreshadowing; that version was rejected. The single instance post-fight is final.
 
 ---
 
@@ -80,10 +80,12 @@ Note: The "Do you ever wonder" line appears only once — at the climax of the i
 
 - **Vivian Plume was not floor-dwelling before her murder.** Do not describe her that way in the lead-up to the killing.
 - **The stuffed sheep (Margaret)** appeared in early drafts and was removed. She is gone. Do not reintroduce her.
-- **"Corruption" does not appear in Tom's outburst question.** It appears in his internal answer immediately after. The question is: *"WHY? HOW COULD YOU DO THIS? WHAT COULD HAVE POSSIBLY ENTERED YOUR MIND?!"*
+- **Tom does not have an all-caps outburst after the confession.** That scene was revised. Tom's response to *"I strangled her"* is a quiet *"Why?"* He already knows the answer. The story resumes from "He already knew, of course."
 - **Two "dark nothing" window lines** were fixed — the confession scene uses *"the dark nothing beyond the glass"* and the hiring question scene uses *"stared through it at nothing in particular."*
 - **The two alarm systems** in Tom's corridor reflection are named explicitly: the instinct and the rumors. Not just "two alarm systems."
 - **Francois does not explain his own split mind.** Tom deduces it. Francois's only response is the "Do you ever wonder" line — not a confirmation, not a denial.
+- **The scissors attack interrupts the deduction, not follows it.** Francois reads Tom's face as Tom completes the deduction internally, and moves before Tom can speak. Tom delivers *"You couldn't confess"* after the fight, straightening up. The "Do you ever wonder" speech follows from there.
+- **"Something moved behind Francois's eyes"** is now the closing beat of the interrogation scene — it follows the "Do you ever wonder" exchange and Tom's reflection on it, then the section break leads to the observation window. It is not a prelude to the scissors attack.
 
 ---
 
@@ -98,6 +100,24 @@ Note: The "Do you ever wonder" line appears only once — at the climax of the i
 ---
 
 ## Recent Changes
+
+**Line-edit pass (2026-02-27)**
+Full line-edit applied to the current draft. Key changes: cut redundant "Something was wrong" opener; reduced "deeply, fundamentally wrong" to "fundamentally wrong"; "sweet, harmless, innocent Vivian" → "innocent Vivian"; broke "He thought about" anaphora pattern; resolved "raw" repetition between Francois and Tom; fixed "make it make sense" stutter; anchored italicised persuasion questions with a dash; broke infodump paragraph with a glance at Francois; cut "without deciding to" before the Zoo Station lyric thought; split the arm-wave sentence; cut "for the rest of his life" from the final turning-over line. Deliberate choices preserved: "quiet and patient" echo, second-person "your fingers," "Loud, raw, furious," the confession lyric. Full report in `line-edit-report.md` (struck through = actioned).
+
+**Confession and scissors scene restructure (2026-02-27)**
+- Tom's all-caps outburst after the confession was replaced with a quiet *"Why?"*. The recovery beat ("Francois waited him out") was removed. The story resumes cleanly at "He already knew, of course."
+- Scissors attack moved to interrupt the deduction (Option B): Francois reads Tom's face as Tom completes his internal reasoning, and attacks before Tom can speak. Tom delivers his conclusion (*"You couldn't confess"*) after the fight, straightening up.
+- Tom screaming image (24001.jpg) relocated from the confession section to the fight section.
+- "Something moved behind Francois's eyes / Then it was gone" moved to after the "Do you ever wonder" exchange — now the scene's closing beat before the observation window, not a prelude to an attack.
+- "sweet, sweet tunes" → "that sound again" in Francois's final window speech.
+
+**Second line-edit pass and dev-edit (2026-02-27)**
+Fresh line-edit (line-edit-report-2.md) and developmental edit (dev-edit-report.md) generated against the revised draft. Consolidated actionable items in action-items.md (checkbox format).
+
+**PDF generation set up (2026-02-27)**
+story-template.typ created. PDF spec: 5.5×8.5in, Calibri 16pt, gutter margins, outside-edge page numbers, suppressed captions, cover + blank verso, copyright.
+
+---
 
 **Image references added**
 All eight photo cues in `forty_seconds.md` now include proper markdown image references pointing to `../../images/600-ice-4800X.jpg`. The descriptive caption lines are retained alongside each image ref.
@@ -133,9 +153,26 @@ Characters infected by the album unknowingly speak in its lyrics. Four insertion
 
 ---
 
+## PDF Generation
+
+Pandoc + Typst. Run from this directory:
+```
+"C:\Program Files\Pandoc\pandoc.exe" -f markdown-yaml_metadata_block forty_seconds.md -o forty_seconds.pdf --pdf-engine=typst --template=story-template.typ
+```
+The `-f markdown-yaml_metadata_block` flag is required — the story's `---` section dividers would otherwise be misread as YAML. `story-template.typ` handles page size, gutter margins, outside-edge page numbers, caption suppression, cover page, and copyright. See the top-level `CLAUDE.md` for the full PDF spec.
+
+---
+
 ## File Index
 
 | File | Contents |
 |---|---|
 | `forty_seconds.md` | Current canonical story — use this |
-| `CLAUDE.md` | This file |
+| `CLAUDE.md` | This file — session handoff |
+| `story-template.typ` | Typst template for PDF generation |
+| `forty_seconds.pdf` | Most recent generated PDF |
+| `line-edit-report.md` | First line-edit report (fully actioned — strikethroughs show completed items) |
+| `line-edit-report-2.md` | Second line-edit report (fresh pass on revised draft) |
+| `dev-edit-report.md` | Developmental edit report (structural/character/arc level) |
+| `action-items.md` | Consolidated actionable issues from both agent reports, checkbox format |
+| `lyrics/` | Full lyrics for all 12 tracks on *Achtung Baby* — reference for lyric-bleed mechanic |
