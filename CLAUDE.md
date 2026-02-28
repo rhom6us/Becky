@@ -10,4 +10,4 @@ Commit changes immediately after finishing a task. Commits must be atomic — sp
 
 ## PDF Generation
 
-Use the `/make-pdf` command. See `.claude/commands/make-pdf.md` for the full spec.
+Handled automatically by the `make-pdf` subagent (`.claude/agents/make-pdf.md`), which runs on Haiku. Invoke explicitly with `/make-pdf` or ask to generate a PDF.

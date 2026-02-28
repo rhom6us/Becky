@@ -1,6 +1,13 @@
+---
+name: make-pdf
+description: Use this agent to generate a PDF from a story markdown file. Invoke when the user asks to generate, create, build, or remake a PDF for a story.
+tools: Bash
+model: haiku
+---
+
 Generate a PDF for a story in this repository.
 
-If $ARGUMENTS is provided, treat it as the story directory name (e.g. `detective_noir`). Otherwise infer the story from context — use the story directory we're currently working in.
+If given a story name, use it. Otherwise infer the story from context — use the story directory currently being worked in.
 
 ## Steps
 
