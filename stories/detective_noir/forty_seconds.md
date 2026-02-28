@@ -69,7 +69,7 @@ He would spend a long time afterwards wondering what exactly had moved him. He n
 
 Tom worked the case for three days straight. He turned over every rock, rattled every cage, followed every thread until the threads led somewhere ugly. And they always led somewhere ugly.
 
-Everyone he talked to said she'd been worried about Francois for weeks. Nobody had done anything about it, including her.
+Everyone he talked to said Vivian had been worried about Francois for weeks. Nobody had done anything about it, including her.
 
 He started with the boombox.
 
