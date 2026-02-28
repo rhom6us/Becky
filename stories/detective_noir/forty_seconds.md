@@ -103,15 +103,13 @@ He turned to face Tom.
 
 ![Stripes strangling Vivian Plume](../../images/600-ice-48007.jpg)
 
-Tom was on his feet before he knew he was standing. Loud, raw, furious. The kind of roar that comes from a man who has spent three days turning over rocks and doesn't like a single thing he found underneath them.
+Tom said nothing. He looked at the man across from him for a long moment.
 
-*"WHY? HOW COULD YOU DO THIS? WHAT COULD HAVE POSSIBLY ENTERED YOUR MIND?!"*
+*"Why?"*
 
-![Tom screaming](../../images/600-ice-48001.jpg)
+He already knew, of course. He'd pressed play. He'd felt the corruption move through him like cold water — forty seconds of it, quiet and patient and rewriting things. He understood exactly what had entered Francois's mind.
 
-He already knew, of course. He'd pressed play. He'd felt the corruption move through him like cold water — forty seconds of it, quiet and patient and rewriting things. He understood exactly what had entered Francois's mind. He just needed to scream the question into his face until the answer became real.
-
-Francois waited him out. And when the room was quiet again, Tom sat back down. Straightened his jacket. Looked at the man across from him.
+Tom looked at the man across from him.
 
 And then, because he was the kind of detective who couldn't leave a loose thread, he asked the question that had been sitting at the back of his mind since the very first day.
 
@@ -127,17 +125,7 @@ And if some part was left intact — smaller, dimmer, running out of time — it
 
 So it would have to find another way in.
 
-*"You couldn't confess,"* Tom said quietly. *"But part of you needed someone to find out."*
-
-Francois turned from the window. He sat with it a moment. Then:
-
-*"Do you ever wonder,"* he said, almost to himself, *"what it would take to make an ordinary man do something terrible? Not greed. Not rage. Something quieter than that. Something that gets in and changes the — "* He paused. Seemed to lose the thread for a moment. Then found it again, or found a different one. *"Nothing makes sense. Nothing seems to fit. I know you'd hit out if you only knew who to hit."* Another pause. Shorter this time. *"Something that changes the way a man sees the people around him."*
-
-Tom looked at him for a long time. Something had snagged, briefly, in the middle of all that — three lines that arrived in a different rhythm than the rest, clipped and even, almost recited. He couldn't place it. It wasn't a denial. It wasn't a confirmation. It was the only answer the situation had left room for.
-
-Something moved behind Francois's eyes — deep and complicated, like a light seen from a very long way away.
-
-Then it was gone.
+Francois turned from the window. He looked at Tom's face. Whatever he saw there, he didn't wait for the sentence that was coming.
 
 He reached for the nearest weapon.
 
@@ -153,6 +141,22 @@ Tom moved fast. Faster than a man with a zebra on his head had any right to. The
 
 Francois screamed — something torn and broken, something between a cry and an answer. *"My sorrows — they learned to swim!"* Tom held on. They spun. They crashed. The zebra, impossibly, remained on Tom's head throughout.
 
+![Tom screaming](../../images/600-ice-48001.jpg)
+
+---
+
+*"You couldn't confess,"* Tom said, straightening up. *"But part of you needed someone to find out."*
+
+Francois said nothing for a moment. Then:
+
+*"Do you ever wonder,"* he said, almost to himself, *"what it would take to make an ordinary man do something terrible? Not greed. Not rage. Something quieter than that. Something that gets in and changes the — "* He paused. Seemed to lose the thread for a moment. Then found it again, or found a different one. *"Nothing makes sense. Nothing seems to fit. I know you'd hit out if you only knew who to hit."* Another pause. Shorter this time. *"Something that changes the way a man sees the people around him."*
+
+Tom looked at him for a long time. Something had snagged, briefly, in the middle of all that — three lines that arrived in a different rhythm than the rest, clipped and even, almost recited. He couldn't place it. It wasn't a denial. It wasn't a confirmation. It was the only answer the situation had left room for.
+
+Something moved behind Francois's eyes — like a light seen from a very long way away.
+
+Then it was gone.
+
 ---
 
 Some time later, Francois lay on a table, strapped at the wrists and ankles.
@@ -161,7 +165,7 @@ The room beyond the observation window was small and clinical. A metal stand bes
 
 Vivian was dead. That was real, and it was terrible, and nothing that came after would change it. But the boombox was in an evidence locker, sealed, tagged, going nowhere. The album had been classified. Nobody else would find it on a shelf somewhere and think *just once, just to see.* The corruption ended here, in this room, with this man on this table.
 
-Someone had made sure of that. The question of who — the man, or the thing the music had made of him — was one Tom suspected he'd be turning over.
+Someone had made sure of that. The question of who — the man, or the thing the music had made of him — was one Tom suspected he'd be turning over for a long time.
 
 Francois turned his head. Found Tom's eyes through the glass.
 

@@ -1,155 +1,172 @@
 # *Forty Seconds* — Developmental Edit Report
 
----
-
-### Scene Inventory
-
-| # | Scene | Goal | Conflict | Change | Position |
-|---|-------|------|----------|--------|----------|
-| 1 | Francois returns home | Establish break in normal world | Discovery of wrongness | Police called | ~0–7% |
-| 2 | Police arrive, Vivian found | Establish the crime | Police inadequacy | Victim named, case defined | ~7–12% |
-| 3 | Tom's office — the hiring | Tom must take the case | Tom's resistance vs Francois's pressure | Tom agrees | ~12–30% |
-| 4 | Investigation — boombox | Understand the death | Tom vs his own contamination | Tom understands the mechanism; is himself exposed | ~30–42% |
-| 5 | Interrogation — confession | Extract the truth | Francois's facade vs Tom's evidence | Confession | ~42–55% |
-| 6 | Tom's outburst | Emotional processing | Tom's fury vs Tom's knowledge | Room quiets; Tom sits down | ~55–60% |
-| 7 | "Why did you hire me?" | Understand the deeper mystery | The two halves of Francois | The split-mind theory; threat issued | ~60–72% |
-| 8 | Scissors fight | Survival | Physical | Francois subdued | ~72–77% |
-| 9 | Observation window | Process what happened | Ambiguity of Francois's nature | Tom turns to his own contamination | ~77–90% |
-| 10 | Corridor + final question | Resolution of Tom's arc | Tom's uncertainty about himself | Question opened, window goes dark | ~90–97% |
-| 11 | Epilogue | Close the case file | — | — | ~97–100% |
-
-**One-sentence premise:** A detective must uncover not only who murdered a witness but why the murderer hired him to do it — before the corrupting music that destroyed the killer claims him too, or the truth that a last uncorrupted fragment of a man engineered his own capture disappears with him.
-
-*(The premise is doing double duty — two mysteries, two protagonists, two resolutions. This is a feature, not a bug, but it's worth knowing it's structurally unusual.)*
+**File reviewed:** `forty_seconds.md`
+**Draft reviewed:** Current canonical version, as of 2026-02-27
 
 ---
 
-### 1. Narrative Architecture and Structural Beats
+## Scene Inventory
 
-**Structural beats are present and functional.** For short fiction, compression is appropriate throughout.
+| # | Scene | Scene Goal | Conflict Present | Situation Change | POV | Position |
+|---|-------|-----------|-----------------|-----------------|-----|----------|
+| 1 | Francois returns home | Establish normal world and its rupture | Discovery of wrongness | Francois incapacitated; calls police | Omniscient/Francois | 0–8% |
+| 2 | Police arrive; Vivian found | Establish the crime and victim | Police dismissiveness vs. gravity of the scene | Francois realises police are inadequate | Omniscient | 8–14% |
+| 3 | Tom's office — the hiring | Francois must convince Tom; Tom must resist | Tom's instinct vs. Francois's pressure; two alarm systems | Tom agrees against his judgment | Close third, Tom | 14–30% |
+| 4 | Investigation — boombox | Understand the mechanism | Tom's exposure to the corruption | Tom reconstructs the murder; is himself contaminated | Close third, Tom | 30–42% |
+| 5 | Interrogation and confession | Extract truth | Francois's facade vs. Tom's evidence | Confession obtained | Close third, Tom | 42–55% |
+| 6 | Tom's outburst | Emotional release | Tom's fury vs. his knowledge | Energy spent; room quiets | Close third, Tom | 55–60% |
+| 7 | "Why did you hire me?" and the split-mind deduction | Understand the deeper mystery | The two Francoises; corruption vs. fragment | Split-mind theory articulated; Francois reaches for scissors | Close third, Tom | 60–72% |
+| 8 | Scissors fight | Physical survival | Violence | Francois subdued | Close third, Tom | 72–77% |
+| 9 | Observation window | Process what happened | Ambiguity of Francois's nature | Tom confronts his own contamination | Close third, Tom | 77–90% |
+| 10 | Corridor and final question | Resolve Tom's arc | Tom vs. his own certainty | "What if forty seconds wasn't where it started?" | Close third, Tom | 90–97% |
+| 11 | Epilogue | Close the case file | None | None | Case-file omniscient | 97–100% |
 
-> **Flag — Inverted climax order**
-> **Location:** The "why did you hire me?" revelation (~60–72%) followed immediately by the scissors fight (~72–77%).
-> **Issue:** The story's intellectual and emotional peak — the split-mind theory — arrives *before* the physical climax, which means the story reaches its highest point and then descends to a fight before rising again to the elegiac observation window.
-> **Effect on the reader:** A gear-grinding quality between the story's best moment and its resolution. The fight can read as an obligation the story has to fulfil after the real climax is already over.
-> **Options:** Leave the fight where it is and lean into the compression (it's currently one paragraph — make it even more perfunctory, so it reads as a deliberate anticlimax); relocate the scissors threat so it interrupts the split-mind revelation rather than following it; or restructure so the physical danger escalates the intellectual stakes rather than following them.
-
----
-
-### 2. Plot Logic and Causality
-
-> **Flag — Tom's motivation to take the case is deliberately unmotivated**
-> **Location:** *"He would spend a long time afterwards wondering what exactly had moved him. He never found a satisfying answer."*
-> **Issue:** The protagonist's first major decision is opaque even to himself.
-> **Effect on the reader:** On a first read, this creates mild unease — why did a careful man ignore every alarm? On a second read it becomes significant: the decision may not have been Tom's. The story is using the unmotivated decision as an early contamination signal.
-> **Note:** This reads as deliberate and controlled. Do not change it. Flag it as a known structural risk that pays off on re-read.
-
-> **Flag — The scissors are unestablished**
-> **Location:** *"He reached for the nearest weapon. The scissors."*
-> **Issue:** The scissors appear when the plot needs them. They were not present in the room earlier.
-> **Effect on the reader:** Minor logic gap. In a more realistic register this would break trust; in this story's noir-absurdist register the scissors carry an almost comic fatalism (*"Of course it was the scissors"*) that the story earns with the line that follows.
-> **Options:** Plant the scissors briefly when Tom first enters the room for the confrontation; or leave them unplanted and trust the *"Of course it was the scissors"* line to seal it.
+**One-sentence premise:** A reluctant detective must solve a murder and discover why the killer hired him, before the same corruption that destroyed the killer finishes what it may have already started in him.
 
 ---
 
-### 3. Character Consistency and Arc
+## 1. Narrative Architecture and Structural Beats
 
-> **Flag — Tom is a reactive protagonist**
-> **Location:** Throughout.
-> **Issue:** The case comes to Tom; the confession comes to Tom; the fight comes to Tom. His one active choice is pressing play.
-> **Effect on the reader:** Tom's arc is entirely internal — revelation, not decision. This is traditional noir (the detective as witness), but it means the story's most important question — *is Tom already corrupted?* — is answered by what happened *to* him rather than by anything he chooses to do.
-> **Note:** The corridor sequence is where Tom finally acts on his own cognition, and it works. The passivity reads as intentional genre architecture. Flag as known risk, not a flaw.
+The beats are present and functional for the story's length. The inciting incident (Francois discovers the body) arrives immediately. The break into Act II (Tom agrees to the case) lands at roughly the right position. The midpoint (boombox discovery and Tom's exposure) injects new energy and raises the stakes from whodunit to existential threat. The crisis (the split-mind deduction and scissors attack) and climax (observation window scene) are present. The resolution (corridor question and epilogue) follows.
 
-> **Flag — Vivian Plume has no presence**
-> **Location:** All scenes. She is described and mourned but never witnessed.
-> **Issue:** The story names her, characterises her warmly, and gives her a specific role (witness, present at the first listening) — which is more than a generic victim — but she has no scenes, no voice, and no relationship we witness.
-> **Effect on the reader:** *"Sweet, harmless, innocent Vivian"* tells the reader how to feel about her loss without earning that feeling. The mourning in the observation window scene (*"Vivian was dead. That was real, and it was terrible"*) asks for grief the story has not fully built.
-> **Options:** A single recalled detail from Tom's investigation — something she owned, something a witness said about her, one image from the scene — could give her specificity without requiring a full scene. It does not need to be much. Even one sentence of particular detail rather than general warmth.
+**Flag — Inverted climax order: intellectual peak precedes physical climax**
 
-> **Flag — Francois's "protagonist" is offstage**
-> **Location:** The entire story.
-> **Issue:** The story's actual protagonist — the uncorrupted fragment of Francois who engineers his own capture — never appears on the page. We only infer him.
-> **Effect on the reader:** The emotional and structural payoff of the split-mind reveal depends on the reader accepting this invisible protagonist retrospectively. The plants (third-person slip, flash of terror) support this, but the protagonist's arc is reconstructed, not experienced.
-> **Note:** This is the story's central structural gamble. It works because the plants are good and the logic is airtight. Do not change it. But know that the story is asking something unusual of its reader.
+- **Location:** The split-mind deduction (scene 7, ~60–72%) followed by the scissors fight (scene 8, ~72–77%).
+- **Issue:** The story's most original and emotionally charged moment — Tom's deduction that an uncorrupted fragment of Francois engineered his own capture — arrives before the physical confrontation. The fight then sits between the intellectual peak and the elegiac observation window.
+- **Effect on the reader:** The fight reads as an obligation rather than an escalation. The reader is already thinking about the deeper questions; a paragraph of physical action interrupts rather than intensifies the story's momentum toward its true climax at the observation window.
+- **Options:** (a) Compress the fight further so it reads as deliberate anticlimax — a single sentence of violence, then cut to "some time later." (b) Have the scissors attack interrupt the split-mind revelation rather than follow it, so the physical danger forces Tom to complete his deduction under pressure. (c) Use the fight to advance Tom's contamination arc — something in how Tom responds physically that carries a signal about what is happening to his mind.
 
 ---
 
-### 4. Continuity and Timeline
+## 2. Plot Logic and Causality
 
-No flags. The story's deliberate vagueness about duration serves the atmosphere. The three-day investigation compressed to the boombox scene is appropriate for the form.
+The causal chain is mostly sound. Event follows event through character logic rather than convenience.
 
----
+**Flag — The scissors are unplanted**
 
-### 5. POV and Perspective
+- **Location:** "He reached for the nearest weapon. The scissors. *Of course it was the scissors.*"
+- **Issue:** The scissors materialise when the plot needs a weapon. There is no earlier mention of scissors in this room.
+- **Effect on the reader:** The line "Of course it was the scissors" works tonally — it carries the fatalism of noir — but it is doing work that a planted detail should have done. The reader trusts the narrator's wry resignation, but on reflection notices the object appeared from nowhere.
+- **Options:** (a) Plant the scissors in the room description when Tom enters for the confrontation — a detail he notices and dismisses. (b) Leave them unplanted and accept the gap; the tonal register arguably earns it here.
 
-> **Flag — Slight register shift in the opening**
-> **Location:** Scenes 1–2 (Francois returns home; police arrive).
-> **Issue:** The first two scenes are told from a slightly more omniscient, observational distance — watching Francois from outside — before the story settles into close third on Tom for the remainder.
-> **Effect on the reader:** Mild. The opening's detachment is appropriate for noir (the genre convention of the omniscient narrator establishing the world before the detective enters). It does create a small re-orientation when Tom takes over as the close POV character.
-> **Options:** Leave as is — the convention earns it. Or tighten the opening's distance so the transition to close-third on Tom is less noticeable.
+**Flag — Tom's three-day investigation is compressed to a single discovery**
 
-No tense inconsistencies. No head-hopping.
+- **Location:** "Tom worked the case for three days straight. He turned over every rock, rattled every cage..." followed immediately by the boombox scene.
+- **Issue:** Three days of investigation reduce to one piece of evidence. The narration tells us Tom worked the case hard, but the only investigative action we witness is pressing play. Additionally, the line "Everyone he talked to said she'd been worried about Francois for weeks" introduces a thread — Vivian's pre-existing concern — that is mentioned once and never developed.
+- **Options:** (a) Cut the "everyone he talked to" line entirely and go straight to the boombox — the compression would be cleaner. (b) Give one specific detail from those interviews that feeds the later deduction. (c) Leave as is; the compression is conventional for the form.
 
----
+**Flag — Tom's decision to take the case is deliberately unmotivated**
 
-### 6. Foreshadowing and Setup/Payoff
-
-The plants are strong throughout:
-- The third-person slip (*"Francois deserves that much"*) ✓
-- The flash of terror on Francois's face ✓
-- Tom pressing play for forty seconds ✓
-- The lyric-bleed lines as contamination signals before the mechanism is explained ✓
-
-> **Flag — "Even better than the real thing" arrives without setup**
-> **Location:** Final window scene — *"he mouthed six more words, slow and deliberate: 'Even better than the real thing.'"*
-> **Issue:** This is the only moment where Francois appears to know he is speaking in lyrics — or where the ambiguity of knowing/not knowing is most acute. It is introduced only in the final scene.
-> **Effect on the reader:** On first read it functions as a parting shot. On reflection, the question of whether Francois is delivering this line deliberately (as a message, a taunt, a last act of communication) or involuntarily (corruption speaking through him to the end) is the story's final ambiguity. But this triple-reading requires the reader to already be asking "does he know?" — and the story hasn't quite asked that question explicitly before this moment.
-> **Options:** Add one earlier moment — possibly in the "do you ever wonder" speech — where Francois shows a flicker of awareness that his own words don't entirely belong to him. Or leave it as is and let the final scene carry all the weight.
+- **Location:** "He would spend a long time afterwards wondering what exactly had moved him. He never found a satisfying answer."
+- **Note:** On re-read, this is the story's first contamination signal — the implication that Tom's decision was not entirely his own. This should not be changed. Flagging as a known controlled risk, not a flaw.
 
 ---
 
-### 7. Pacing
+## 3. Character Consistency and Arc
 
-The story's pacing is tight. The corridor sequence earns its space.
+**Flag — Tom is a reactive protagonist**
 
-> **Flag — The fight is brief between two high-register scenes**
-> *(See also: Flag, Narrative Architecture — Inverted climax order.)*
-> **Location:** *"They collided — Francois lunging, Tom blocking... They spun. They crashed."*
-> **Issue:** One short paragraph of physical action sits between the split-mind revelation (the story's intellectual peak) and the observation window (the story's emotional peak).
-> **Effect on the reader:** The fight reads as a bridge obligation. The reader's attention is already on the bigger questions; the physical struggle interrupts rather than escalates.
-> **Options:** Compress it further and lean into the abruptness; or use the fight to carry additional weight — Tom's own body doing something during the struggle that signals his contamination, so the fight earns its position by advancing his arc.
+- **Location:** Throughout. The case comes to Tom; the confession comes to Tom; the attack comes to Tom.
+- **Note:** Tom functions as witness and interpreter rather than agent — traditional noir architecture. The passivity is the point: Tom may not have been the one making his decisions. The corridor sequence, where Tom's own mind becomes the threat, is the corrective. Flag as known risk, not a flaw.
 
----
+**Flag — Vivian Plume is named and mourned but never witnessed**
 
-### 8. Stakes
+- **Location:** "A stuffed ostrich in a teal collar who went by the name Vivian Plume..." and "Vivian was dead. That was real, and it was terrible."
+- **Issue:** Vivian has a name, a description, and a narrative role, but no voice, no scene, no relationship the reader observes. The observation window's elegy asks for an emotional response the story has not fully built.
+- **Options:** (a) During the investigation, include one specific particular detail about Vivian — something a witness said, something Tom found in the room — that makes her a person rather than a function. Not a flashback; one image. (b) Reduce the elegiac tone around her death to match the reader's actual level of attachment. (c) Leave as is, accepting that the story's emotional weight rests on Tom's arc and the Francois ambiguity.
 
-Tom's personal stakes escalate cleanly: professional case → moral horror → physical threat → existential uncertainty about his own mind. ✓
+**Flag — Francois's uncorrupted fragment is the true protagonist, and he is entirely offstage**
 
-The public stakes (the boombox, the wider reorientation) are established and resolved. ✓
-
-> **Flag — Vivian's stakes are retrospective**
-> **Location:** Throughout.
-> **Issue:** We understand why Vivian was killed (she was a witness) but we feel none of her stakes — what she stood to lose, what she knew and feared.
-> **Effect on the reader:** Connects to the Vivian Plume character flag above. The cost of her death is stated rather than felt.
+- **Location:** Throughout.
+- **Note:** This is the story's central structural gamble, executed well. The offstage protagonist is what makes the story structurally distinctive. The plants are precisely placed; Tom's deduction reconstructs the fragment's arc cleanly. The "Do you ever wonder" speech is the closest the fragment comes to speaking directly, and it is exactly the right amount. Do not change.
 
 ---
 
-### 9. Theme and Thematic Consistency
+## 4. Continuity and Timeline
 
-The central thematic question — *where does a person end and what corrupts them begin?* — is established, developed, and turned back on Tom in the final moment. The structure supports the theme throughout.
+No significant flags. The vague timeline (Monday discovery, three-day investigation, unspecified time to the observation window) serves the noir register.
 
-> **Flag — The epilogue partially explains what it means to protect**
-> **Location:** *"Whether Francois was a villain or the last uncorrupted inch of him saved us all is a question this office is not equipped to answer."*
-> **Issue:** The epilogue names both readings of the story's central ambiguity, which confirms there are two valid interpretations — but a reader who has been paying attention already has this; a reader who hasn't will find the statement clarifying rather than unsettling.
-> **Effect on the reader:** The ambiguity the story has earned is slightly over-explained. The epilogue's case-file register provides enough distance to make this forgivable, but it nudges the reader toward *knowing there is ambiguity* rather than *experiencing it*.
-> **Options:** Cut the "whether Francois was a villain" sentence and let the epilogue end with *"But the boombox stays locked up"* and *"Let this story serve as a warning"* — which say the same thing with more compression. Or leave it as is; the formal register earns more latitude than a close-third narrator would have.
+**Minor note — "Business, he'd say later, though nobody asked twice"**
+
+- **Issue:** Gestures toward a social world that is never populated. Negligible effect — reads as genre convention establishing Francois's isolation through implication.
+
+**POV shift between scenes 1–2 and the rest of the story**
+
+- **Location:** Scenes 1 and 2 are omniscient/Francois-adjacent. From scene 3 onward, close third on Tom.
+- **Note:** The section break coincides with the shift. Transition is smooth and genre-conventional enough to work. Known register shift, not a flaw.
 
 ---
 
-### Overall Assessment
+## 5. Foreshadowing and Setup/Payoff
 
-The story's architecture is genuinely sophisticated. The dual-mystery structure — who did it, and why did the murderer hire the detective — is well-designed, and the split-mind reveal is earned by its plants. The lyric-bleed mechanic adds a contamination layer that functions subtly on a first read and rewards re-reading. The thematic question (where does the person end and the corruption begin) is established, developed, and correctly turned back on Tom in the final moment rather than resolved.
+The foreshadowing architecture is strong. The following plants pay off:
 
-The two highest-priority structural issues: first, the physical climax follows the intellectual climax, creating an energy dip between the story's best moment and its elegiac resolution — the fight's position is worth reconsidering. Second, Vivian Plume is named and mourned but not witnessed — the story asks for grief it hasn't fully built, and a single particular detail from the investigation could close that gap at low cost.
+- **Third-person slip** ("Francois deserves that much") — planted in the hiring scene, paid off in Tom's deduction. Works.
+- **Flash of terror** on Francois's face — planted in the hiring scene, paid off in the deduction. Works.
+- **Forty seconds of play** — planted in the investigation, paid off in the corridor. Works.
+- **Lyric bleed** — planted across four moments (The Fly in the office, Acrobat in the interrogation, Until the End of the World in the fight, Zoo Station in the corridor), paid off cumulatively. Works very well.
+- **Tom's ignored instinct** — planted in the hiring scene, paid off in the corridor. Works.
 
-Do not change: Tom's unmotivated decision to take the case, the absence of explanation for the album's mechanism, the ambiguity of the final window scene, the offstage uncorrupted Francois as the true protagonist. These are all controlled structural risks that serve the story's ends and are what make it interesting.
+**Flag — "Even better than the real thing" arrives with partial setup**
+
+- **Location:** Observation window scene: *"Even better than the real thing."*
+- **Issue:** This is the only lyric where the question of whether Francois *knows* he is speaking in lyrics is most acute. Earlier lyric insertions are framed as unconscious bleed. Here, the line is delivered as a deliberate final statement. The shift from unconscious to possibly deliberate is significant but not fully prepared for.
+- **Options:** (a) In one earlier lyric-bleed moment, have Francois pause very slightly after the lyric — not enough to break the flow, just enough to open the question of awareness. (b) Leave as is. The absence of setup may itself be a feature, mirroring the ambiguity.
+
+**Flag — "Everyone he talked to said she'd been worried" is setup without payoff**
+
+- **Location:** "Everyone he talked to said she'd been worried about Francois for weeks. Nobody had done anything about it, including her."
+- **Issue:** Introduces a thread — Vivian's awareness, her inaction — that is mentioned once and never revisited.
+- **Options:** (a) Pay it off: use Vivian's awareness as part of Tom's deduction — she knew, which means nobody around Tom will intervene either. (b) Cut it.
+
+---
+
+## 6. Pacing
+
+The pacing is tight overall. The corridor sequence earns its length.
+
+**Flag — The fight scene sits as a pacing interruption between two high-register scenes**
+
+- **Location:** Scene 8, the scissors fight.
+- **Issue:** The reader is pulled from intellectual engagement (the deduction) to physical action (the fight) to elegiac reflection (the window) in rapid succession. The fight reads as a bridge obligation rather than something the story needs.
+- **Options:** See Narrative Architecture flag. Same solutions apply. This is the story's most significant pacing issue.
+
+**Flag — The epilogue may extend past the emotional peak**
+
+- **Location:** The italicised epilogue after the corridor sequence.
+- **Issue:** The story's true ending is the corridor. The epilogue then provides closure in case-file register. The line "Whether Francois was a villain or the last uncorrupted inch of him saved us all" names the ambiguity explicitly, which reduces its power.
+- **Options:** (a) Cut the "Whether Francois was a villain" sentence. End on "But the boombox stays locked up. Let this story serve as a warning." (b) Keep the full epilogue — the case-file register provides enough formal distance. (c) Cut the epilogue entirely and end on the final image.
+
+---
+
+## 7. Stakes
+
+Tom's personal stakes escalate cleanly: professional → moral → physical → existential. Each escalation is earned. Well-structured.
+
+**Flag — Vivian's stakes are retrospective**
+
+- **Note:** Connected to the character flag above. We learn what Vivian stood to lose only after she has already lost it. Same solutions apply.
+
+---
+
+## 8. Theme and Thematic Consistency
+
+The central thematic question — *where does the person end and what has corrupted them begin?* — is established in the hiring scene, developed through the boombox and confession scenes, and turned back on Tom in the corridor. The lyric-bleed mechanic is thematically perfect: it literalises the corruption as language that is not your own appearing in your speech and thought, indistinguishable from your own voice.
+
+**Flag — The epilogue's explicit naming of the ambiguity works against the theme**
+
+- **Location:** "Whether Francois was a villain or the last uncorrupted inch of him saved us all is a question this office is not equipped to answer."
+- **Issue:** The story's theme depends on the reader being unable to draw the line between person and corruption. The epilogue names the two poles, slightly domesticating the uncertainty the corridor sequence worked hard to create.
+- **Options:** (a) Cut the sentence. "But the boombox stays locked up. Let this story serve as a warning." says everything necessary. (b) Replace the explicit framing with a detail rather than a thesis. (c) Keep it — judgment call, not a clear error.
+
+---
+
+## Overall Assessment
+
+The story's architecture is genuinely sophisticated for its length and register. The dual-mystery structure resolves into a single thematic question about the boundary between self and corruption, and the lyric-bleed mechanic literalises that theme at the level of language itself. The plants — the third-person slip, the flash of terror, the forty seconds, the lyric fragments — are precisely placed and pay off cleanly. The corridor sequence is the strongest passage in the story.
+
+**Two highest-priority issues:** First, the scissors fight sits between the story's intellectual climax and its emotional climax, creating a pacing interruption that reads as obligation rather than escalation — its position and function are worth reconsidering. Second, Vivian Plume is mourned in language the story has not earned; a single particular detail from the investigation could close the gap between what the narrator asks the reader to feel and what the story has built.
+
+**Lower priority:** The epilogue's explicit naming of the Francois ambiguity slightly domesticates the uncertainty the corridor sequence earns. Cutting the "Whether Francois was a villain" sentence would let the story end with more unresolved tension.
+
+**Do not change:** Tom's unmotivated decision to take the case, the offstage uncorrupted Francois as reconstructed protagonist, the absence of explanation for the album's mechanism, the deliberate absence of lyric-bleed in the final window scene, and the corridor ending's open question. These are the story's defining structural choices, executed with control.
