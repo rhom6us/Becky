@@ -45,6 +45,8 @@
 
 // === BLANK VERSO (back of cover) ===
 #pagebreak()
+#align(center + horizon)[]
+#pagebreak()
 
 // === STORY PAGES ===
 #set page(
