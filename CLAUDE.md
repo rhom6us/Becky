@@ -6,7 +6,7 @@ This is a collection of short stories. The governing principle is that every sto
 
 ## Commits
 
-Commit changes immediately after finishing a task. Commits must be atomic — split them up if needed. Include the prompt(s) that triggered the task in the commit message.
+After finishing a task, ask before committing. Commits must be atomic — split them up if needed. Include the prompt(s) that triggered the task in the commit message.
 
 ## PDF Generation
 
