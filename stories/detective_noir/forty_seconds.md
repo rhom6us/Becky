@@ -45,7 +45,9 @@ He'd steered clear of anything that smelled like it for months. And something ab
 
 So he said no.
 
-But Francois was persistent. He leaned in, voice low and urgent, chipping away — planting small seeds of doubt, little splinters of argument that lodged themselves just under the skin — *What if the police botch it? What if justice is never served? It looks like the sun, but it feels like the rain. What if the truth just disappears, like she did?* He paused. Something almost conversational entered his voice. *"Don't try too hard to think,"* he said. *"Don't think at all."* A pause. *"That's the part I got wrong."* He looked at his hands. *"You get to feel so guilty — when you've got so much for so little."* He seemed to lose himself for a moment. *"Can't shake it."* Then: *"The more you take, the less you feel,"* he said. *"The less you know, the more you believe."* A pause. *"I don't know why I'm telling you that."* His eyes found Tom's again.
+But Francois was persistent. He leaned in, voice low and urgent, chipping away — planting small seeds of doubt, little splinters of argument that lodged themselves just under the skin — *What if the police botch it? What if justice is never served? Where is the hope, and where is the faith? What if the truth just disappears, like she did?*
+
+He paused. When he spoke again, something had shifted — a different register, almost conversational. *"Don't try too hard to think,"* he said. *"Don't think at all. That's the part I got wrong."* He looked at his hands. *"You get to feel so guilty — when you've got so much for so little. Can't shake it."* He seemed to lose himself briefly, then come back somewhere else. *"The more you take, the less you feel. The less you know, the more you believe."* A pause. *"I don't know why I'm telling you that."* His eyes found Tom's again.
 
 Then he stopped. Just for a moment — half a second, maybe less. His face went somewhere else entirely. Not grief, not urgency. Something that looked, just briefly, almost like terror. Then it was gone, and he was back, hands clasped, eyes searching Tom's face like nothing had happened.
 
@@ -151,13 +153,17 @@ Francois screamed — something torn and broken, something between a cry and an 
 
 ---
 
-*"You couldn't confess,"* Tom said, straightening up. *"But part of you needed someone to find out."*
+His legs went out from under him — the second time that week, and this time there was nothing to hold onto. Tom eased him down. Crouched beside him.
 
-Francois said nothing for a moment. Then:
+*"You couldn't confess,"* he said. *"But part of you needed someone to find out."*
 
-*"Do you ever wonder,"* he said, almost to himself, *"what it would take to make an ordinary man do something terrible? Not greed. Not rage. Something quieter than that. Something that gets in and changes the — "* He paused. Seemed to lose the thread for a moment. Then found it again, or found a different one. *"If there's an order in all of this disorder — is it like a tape recorder? Can we rewind it just once more?"* Another pause. Shorter this time. *"Something that changes the way a man sees the people around him."*
+Francois said nothing for a moment.
 
-Tom looked at him for a long time. Something had snagged, briefly, in the middle of all that — three lines that arrived in a different rhythm than the rest, clipped and even, almost recited. He couldn't place it. It wasn't a denial. It wasn't a confirmation. It was the only answer the situation had left room for.
+Then something shifted in him — not grief, not defiance. Something closer to relief. He almost laughed.
+
+*"I'm already gone,"* he said. *"Felt that way all along."*
+
+Tom looked at him for a long time. It wasn't a denial. It wasn't a confirmation. It was the only answer the situation had left room for.
 
 Something moved behind Francois's eyes — like a light seen from a very long way away.
 
@@ -179,7 +185,7 @@ And smiled.
 
 He lifted one small striped arm and waved, slow and cheerful, with the complete serenity of a man at peace with every single choice he had ever made. The strap caught him short; the thin tube taped to the crook of his elbow shifted slightly with the motion. When he spoke, his voice came through the speaker above the glass, flat and close, like a voice in a small room.
 
-*"I don't regret a thing. It was all worth it. I'd do anything — anything — to hear that sound again."* His eyes found Tom's through the glass and stayed there. *"You pressed play,"* he said. *"Forty seconds."* A pause. The smile didn't change. *"Do you feel loved?"*
+*"I don't regret a thing. It was all worth it. I'd do anything — anything — to hear that sound again."* His eyes found Tom's through the glass and stayed there. *"You pressed play,"* he said. *"Forty seconds."* A pause. The smile didn't change. *"There's an insect in your ear,"* he said. *"If you scratch it, it won't disappear."*
 
 Tom looked at him for a long moment.
 

@@ -370,7 +370,7 @@ Every moment where a lyric could naturally enter Francois's mouth, plus the one 
 
 | Position | Decision | Written to story |
 |---|---|---|
-| F1 — What if questions | B ("Do You Feel Loved" — *It looks like the sun, but it feels like the rain*) | ✓ |
+| F1 — What if questions | A ("If God Will Send His Angels" — *So where is the hope, and where is the faith?*) | ✓ |
 | F2 — Persuasion truism | Combined A+B+C reversed (Staring at the Sun → Gone → Last Night on Earth) | ✓ |
 | F3 — Before "Francois deserves that much" | C ("Wake Up Dead Man" — *If there's an order in all of this disorder…*) | ✓ |
 | F4 — Confession | A ("Gone" — *No emotional good night*) | ✓ |
