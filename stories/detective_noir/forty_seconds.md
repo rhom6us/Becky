@@ -57,7 +57,7 @@ The other thing — smaller, harder to name — was the rhythm of some of it. Th
 
 He should have walked away. He knew he should have walked away.
 
-*"Chance is a kind of religion,"* Francois said. *"Where you're damned for plain hard luck."* He shook his head slowly. *"I just need to know who did this. Francois deserves that much."*
+*"I just need to know who did this,"* Francois said. *"Francois deserves that much."*
 
 Tom sat with his fist pressed hard against his chin, eyes fixed on the middle distance. Two alarm systems going off at once. The instinct. The rumors. The shape of the thing. He turned it all over, looking for the angle that held, looking for the solid ground of reason in a conversation that kept moving the floor on him.
 
