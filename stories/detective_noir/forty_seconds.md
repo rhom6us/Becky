@@ -199,11 +199,11 @@ But he'd pressed play. Forty seconds. And he'd told himself that was nothing, th
 
 He thought about the instinct that had told him to walk away — twenty years of detective work making noise he hadn't listened to. The rumors. Two alarm systems, both going off at once.
 
+He thought that *you're not the only one staring at the sun — afraid of what you'd find if you stepped back inside.*
+
 He thought about the fact that he hadn't walked away.
 
-He stopped in the middle of the corridor. Stood very still. Hands in his pockets. Staring at the grey nothing ahead of him.
-
-And then he thought: *you're not the only one staring at the sun — afraid of what you'd find if you stepped back inside.*
+Then he stopped in the middle of the corridor. Stood very still. Hands in his pockets. Staring at the grey nothing ahead of him.
 
 He didn't move.
 
