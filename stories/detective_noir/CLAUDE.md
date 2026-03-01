@@ -125,16 +125,16 @@ All eight photo cues in `forty_seconds.md` now include proper markdown image ref
 **Tom's deduction scene expanded**
 Readers were confused by the "Francois is two people" concept. The fix was to show Tom's deduction step by step rather than summarising it. The new version walks through each fragment of evidence he's collected — the too-clean arguments, the flash of terror, the third-person slip, the forty seconds of music — and builds toward the conclusion visibly. A new image was added: the corruption taking a man *"room by room, leaving some parts intact while it worked on the others."* This sets up the "something left intact" conclusion as a natural next thought rather than a leap. The old version said "slowly, it assembled itself" and moved on — the new version shows the assembly.
 
-**Lyric bleed mechanic added (branch: lyrics-bleed)**
-Characters infected by the album unknowingly speak in its lyrics. Four insertions made to `forty_seconds.md`:
+**Lyric bleed mechanic** (four slots — album corrected from *Achtung Baby* to *Pop*)
+Characters infected by the album unknowingly speak/think in its lyrics. Four insertion points exist in `forty_seconds.md`; the *Achtung Baby* lyrics have been stripped. Slots await *Pop* replacements:
 
-1. **Office persuasion scene** — Francois drops a line from *The Fly*: *"It's no secret that a conscience can sometimes be a pest."* Delivered as a casual truism. The corruption speaking its own logic out loud without recognising it as unusual.
+1. **Office persuasion scene** — Francois drops a casual truism mid-persuasion. (Removed: The Fly. Awaiting Pop replacement.)
 
-2. **"Do you ever wonder" speech** — The Acrobat fragment surfaces inside the second thread Francois finds after losing his place: *"Nothing makes sense. Nothing seems to fit. I know you'd hit out — "* The uncorrupted fragment surfacing briefly before the corruption suppresses it again. Interrupted mid-line.
+2. **"Do you ever wonder" speech** — Mid-speech, Francois loses the thread; the uncorrupted fragment surfaces briefly in a different rhythm before being suppressed. (Removed: Acrobat. Awaiting Pop replacement.)
 
-3. **Fight scene** — Francois's scream is given content: *"My sorrows — they learned to swim!"* (Until the End of the World). The screamed line reads as unhinged in context; on re-read it maps to the psychology — he tried to bury what he felt and it came back up.
+3. **Fight scene** — Francois's scream has lyric content. (Removed: Until the End of the World. Awaiting Pop replacement.)
 
-4. **Tom's corridor ending** — Tom thinks in Zoo Station lyrics: *"Time is a train. Makes the future the past. Leaves you standing in the station."* He then notices something in the rhythm of the words — *"too even, too finished"* — and registers he did not choose them. This is the moment that shifts the final question from forty seconds to something earlier. The ambiguity between "his thought" and "a lyric" mirrors the ambiguity of the whole final scene.
+4. **Tom's corridor ending** — Tom thinks in lyrics, notices they aren't his, can't trace the source. Triggers the final question. (Removed: Zoo Station + recognition passage. Awaiting Pop replacement + restoration of recognition beat.)
 
 **What was deliberately left alone:** The final window scene (Francois mouthing words through the glass) contains no lyric. This is intentional — the absence protects the dual-interpretation of that moment. If every prior Francois line has been laced with lyrics, the reader may expect the final words to be too. The fact that they are not is itself a signal. Or it isn't.
 
@@ -148,7 +148,7 @@ Characters infected by the album unknowingly speak in its lyrics. Four insertion
 
 ## Confirmed Details
 
-- **The album is *Achtung Baby* by U2.** Confirmed by the user. Use this name explicitly if it ever needs to be named in the story.
+- **The album is *Pop* by U2 (1997).** Confirmed by the user (corrected from earlier misidentification as *Achtung Baby*). Use this name explicitly if it ever needs to be named in the story.
 - **The "Do you ever wonder" line will not be reinstated in the office scene.** It appears only once, in the interrogation. This is final.
 
 ---
