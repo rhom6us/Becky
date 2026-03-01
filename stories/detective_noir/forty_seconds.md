@@ -47,9 +47,9 @@ So he said no.
 
 But Francois was persistent. He leaned in, voice low and urgent, chipping away — planting small seeds of doubt, little splinters of argument that lodged themselves just under the skin — *What if the police botch it? What if justice is never served? Where is the hope, and where is the faith? What if the truth just disappears, like she did?*
 
-He paused. When he spoke again, something had shifted — a different register, almost conversational. *"Don't try too hard to think,"* he said. *"Don't think at all. That's the part I got wrong."* He looked at his hands. *"You get to feel so guilty — when you've got so much for so little. Can't shake it."* He seemed to lose himself briefly, then come back somewhere else. *"The more you take, the less you feel. The less you know, the more you believe."* A pause. *"I don't know why I'm telling you that."* His eyes found Tom's again.
+He stopped. *"Don't try too hard to think,"* he said. *"Don't — "* He paused. Seemed to lose it briefly. *"If there's an order in all of this disorder — I just need to know what it is."*
 
-Then he stopped. Just for a moment — half a second, maybe less. His face went somewhere else entirely. Not grief, not urgency. Something that looked, just briefly, almost like terror. Then it was gone, and he was back, hands clasped, eyes searching Tom's face like nothing had happened.
+Then, just for a moment — half a second, maybe less — something crossed his face. Not grief, not urgency. Something that looked, just briefly, almost like terror. Then it was gone, and he was back, hands clasped, eyes searching Tom's face like nothing had happened.
 
 Tom filed it away — the thing he couldn't name. He'd spent twenty years developing an instinct, and the instinct was making noise. Francois said all the right things in all the right order, and his devastation seemed genuine, and none of that stopped the quiet alarm going off somewhere below Tom's conscious mind. A man in genuine shock didn't argue this well. A man in genuine shock didn't land his points this cleanly. Tom had the distinct and unverifiable sense of being steered.
 
