@@ -5,6 +5,19 @@ Every moment where a lyric could naturally enter Francois's mouth, plus the one 
 
 ---
 
+## FINAL STATE — Lyric Bleed Mechanic Complete
+
+All nine positions have been resolved and written to `forty_seconds.md`. The table at the bottom of this document reflects the final decisions. The option listings above are preserved as historical record.
+
+Key departures from the original option set:
+- **F2** was resolved as fragmented speech combining two songs (Staring at the Sun + Wake Up Dead Man), not one of the single-lyric options.
+- **F3** was removed entirely — the line reads plainly without any lyric insertion.
+- **F7** was resolved with "Gone" replacing the entire "Do you ever wonder" paragraph.
+- **F8** was resolved with "Staring at the Sun" rather than the recommended "Do You Feel Loved."
+- **T1** uses "Staring at the Sun," positioned after the "two alarm systems" sentence, prefixed with "He thought that", followed by a beat before the final question.
+
+---
+
 ## F1 — The "What If" Questions *(persuasion scene)*
 
 *Francois chips away at Tom with a run of rhetorical questions. Currently all three are the story's own. A lyric dropped into the sequence — one that sounds like the others — would be invisible on first read.*
@@ -370,15 +383,15 @@ Every moment where a lyric could naturally enter Francois's mouth, plus the one 
 
 | Position | Decision | Written to story |
 |---|---|---|
-| F1 — What if questions | A ("If God Will Send His Angels" — *So where is the hope, and where is the faith?*) | ✓ |
-| F2 — Persuasion truism | Combined A+B+C reversed (Staring at the Sun → Gone → Last Night on Earth) | ✓ |
-| F3 — Before "Francois deserves that much" | C ("Wake Up Dead Man" — *If there's an order in all of this disorder…*) | ✓ |
+| F1 — What if questions | A ("If God Will Send His Angels" — *Where is the hope, and where is the faith?*) | ✓ |
+| F2 — Persuasion truism | Two-lyric fragmented speech: Staring at the Sun ("Don't try too hard to think / Don't —") + Wake Up Dead Man ("If there's an order in all of this disorder — I just need to know what it is.") | ✓ |
+| F3 — Before "Francois deserves that much" | REMOVED — lyric stripped, line reads simply: *"I just need to know who did this," Francois said. "Francois deserves that much."* | ✓ |
 | F4 — Confession | A ("Gone" — *No emotional good night*) | ✓ |
 | F5 — Response to "Why?" | A ("Last Night on Earth" — *She felt the ground was giving way. Better off that way.*) + Tom acknowledgment beat | ✓ |
 | F6 — Fight scream | B ("Gone" — *I'm not coming down, I'm not coming down!*) | ✓ |
-| F7 — Do you ever wonder | A first sentence only ("Wake Up Dead Man" — *If there's an order in all of this disorder —*) | ✓ |
-| F8 — Observation window | A ("Do You Feel Loved" — *Do you feel loved?*) with new setup | ✓ |
-| T1 — Corridor | A ("Staring at the Sun" — *you're not the only one staring at the sun…*) | ✓ |
+| F7 — Post-fight response | "Gone" — *I'm already gone. Felt that way all along.* (replaced the "Do you ever wonder" paragraph entirely) | ✓ |
+| F8 — Observation window | "Staring at the Sun" — *There's an insect in your ear. If you scratch it, it won't disappear.* (replaced "Do you feel loved?") | ✓ |
+| T1 — Corridor | A ("Staring at the Sun" — *you're not the only one staring at the sun — afraid of what you'd find if you stepped back inside.*) — positioned after the "two alarm systems" sentence, prefixed with "He thought that", followed by "He thought about the fact that he hadn't walked away. Then he stopped..." | ✓ |
 
 ---
 ---
