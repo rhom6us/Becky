@@ -147,6 +147,15 @@ Characters infected by the album unknowingly speak/think in its lyrics. Only Fra
 | F8 — Observation window kicker | *"There's an insect in your ear. If you scratch it, it won't disappear."* | Staring at the Sun |
 | T1 — Tom's corridor (Tom notices) | *"you're not the only one staring at the sun — afraid of what you'd find if you stepped back inside."* — arrives mid-thought as "He thought that...", positioned after the "two alarm systems" sentence | Staring at the Sun |
 
+**Used lines by song** (to prevent reuse in future sessions):
+
+- **Gone** (used 3×): *"No emotional good night"* (F4) · *"I'm not coming down, I'm not coming down!"* (F6) · *"I'm already gone / Felt that way all along"* (F7)
+- **Staring at the Sun** (used 3×): *"Don't try too hard to think / Don't think at all"* (F2, partial — cut off mid-sentence) · *"There's an insect in your ear / If you scratch it, it won't disappear"* (F8) · *"you're not the only one staring at the sun — afraid of what you'd find if you stepped back inside"* (T1)
+- **Wake Up Dead Man** (used 1×, partial): Only *"If there's an order in all of this disorder"* — the rest of the lyric (*"is it like a tape recorder? Can we rewind it just once more?"*) has NOT been used.
+- **If God Will Send His Angels** (used 1×): *"Where is the hope, and where is the faith?"*
+- **Last Night on Earth** (used 1×): *"She felt the ground was giving way / Better off that way"*
+- **Discothèque, Do You Feel Loved, If You Wear That Velvet Dress, Miami, Mofo, Please, The Playboy Mansion**: unused — available.
+
 **What was deliberately left alone:** Francois's final words through the observation window (*"I don't regret a thing... I'd do anything to hear that sound again"*) contain no lyric. This protects the dual-interpretation of that moment — whether the corruption is reveling or the real Francois is performing. Do not insert a lyric here.
 
 **Pop lyrics reference:** Full lyrics for all 12 tracks are in `lyrics/`.
