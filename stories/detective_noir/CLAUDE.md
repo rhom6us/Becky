@@ -185,11 +185,28 @@ The `-f markdown-yaml_metadata_block` flag is required — the story's `---` sec
 
 ---
 
+## HTML Generation
+
+`forty_seconds.html` is a semantic HTML version of the story. Specs:
+
+- **Semantic HTML only — no CSS or styles anywhere**
+- `<q>` for dialogue: strip the explicit `"..."` quote marks from content; the browser provides them
+- `<i>` for markdown italics (`*...*`) that are not dialogue
+- `<i><q>...</q></i>` for italicised dialogue (both tags)
+- `<figure><img src="..." alt="...">` for images — no captions
+- Structure: `<article>` wraps everything; `<header>` for title/subtitle; `<section>` per chapter; `<hr>` for `---` section breaks; `<footer>` for credits
+- Footnote refs inline: `<sup><a href="#fn-name">N</a></sup>`
+- Footnote definitions: `<section id="footnotes"><ol>` with `<li id="fn-name">Song Name</li>`
+- Footnotes numbered by order of first appearance in text (1=If God Will Send His Angels, 2=Staring at the Sun, 3=Wake Up Dead Man, 4=Gone, 5=Last Night on Earth)
+
+---
+
 ## File Index
 
 | File | Contents |
 |---|---|
 | `forty_seconds.md` | Current canonical story — use this |
+| `forty_seconds.html` | Semantic HTML version (no CSS) |
 | `CLAUDE.md` | This file — session handoff |
 | `story-template.typ` | Typst template for PDF generation |
 | `forty_seconds.pdf` | Most recent generated PDF |
