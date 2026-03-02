@@ -45,9 +45,9 @@ He'd steered clear of anything that smelled like it for months. And something ab
 
 So he said no.
 
-But Francois was persistent. He leaned in, voice low and urgent, chipping away — planting small seeds of doubt, little splinters of argument that lodged themselves just under the skin — *What if the police botch it? What if justice is never served? Where is the hope, and where is the faith? What if the truth just disappears, like she did?*
+But Francois was persistent. He leaned in, voice low and urgent, chipping away — planting small seeds of doubt, little splinters of argument that lodged themselves just under the skin — *What if the police botch it? What if justice is never served? Where is the hope, and where is the faith?*[^angels] *What if the truth just disappears, like she did?*
 
-He stopped. *"Don't try too hard to think,"* he said. *"Don't — "* He paused. Seemed to lose it briefly. *"If there's an order in all of this disorder — I just need to know what it is."*
+He stopped. *"Don't try too hard to think,"* he said. *"Don't — "*[^staring] He paused. Seemed to lose it briefly. *"If there's an order in all of this disorder — I just need to know what it is."*[^wake]
 
 Then, just for a moment — half a second, maybe less — something crossed his face. Not grief, not urgency. Something that looked, just briefly, almost like terror. Then it was gone, and he was back, hands clasped, eyes searching Tom's face like nothing had happened.
 
@@ -103,7 +103,7 @@ Then his shoulders dropped.
 
 He turned to face Tom.
 
-*"I strangled her. No emotional good night."*
+*"I strangled her. No emotional good night."*[^gone]
 
 ![Stripes strangling Vivian Plume](../../images/600-ice-48007.jpg)
 
@@ -111,7 +111,7 @@ Tom said nothing. He looked at the man across from him for a long moment.
 
 *"Why?"*
 
-Francois looked at the window. *"She felt the ground was giving way,"* he said simply. *"Better off that way."*
+Francois looked at the window. *"She felt the ground was giving way,"* he said simply. *"Better off that way."*[^lastnight]
 
 Tom looked at him for a moment. The answer had the shape of something rehearsed — too finished, arrived too easily. He filed it next to the other things he couldn't name.
 
@@ -147,7 +147,7 @@ The scissors.
 
 Tom moved fast. Faster than a man with a zebra on his head had any right to. They collided — Francois lunging, Tom blocking, the scissors clattering sideways as they grappled across the room in a tangle of flannel and stripes and raw desperation.
 
-Francois screamed — something torn and broken, something between a cry and an answer. *"I'm not coming down, I'm not coming down!"* Tom held on. They spun. They crashed. The zebra, impossibly, remained on Tom's head throughout.
+Francois screamed — something torn and broken, something between a cry and an answer. *"I'm not coming down, I'm not coming down!"*[^gone] Tom held on. They spun. They crashed. The zebra, impossibly, remained on Tom's head throughout.
 
 ![Tom screaming](../../images/600-ice-48001.jpg)
 
@@ -161,7 +161,7 @@ Francois said nothing for a moment.
 
 Then something shifted in him — not grief, not defiance. Something closer to relief. He almost laughed.
 
-*"I'm already gone,"* he said. *"Felt that way all along."*
+*"I'm already gone,"* he said. *"Felt that way all along."*[^gone]
 
 Tom looked at him for a long time. It wasn't a denial. It wasn't a confirmation. It was the only answer the situation had left room for.
 
@@ -185,7 +185,7 @@ And smiled.
 
 He lifted one small striped arm and waved, slow and cheerful, with the complete serenity of a man at peace with every single choice he had ever made. The strap caught him short; the thin tube taped to the crook of his elbow shifted slightly with the motion. When he spoke, his voice came through the speaker above the glass, flat and close, like a voice in a small room.
 
-*"I don't regret a thing. It was all worth it. I'd do anything — anything — to hear that sound again."* His eyes found Tom's through the glass and stayed there. *"You pressed play,"* he said. *"Forty seconds."* A pause. The smile didn't change. *"There's an insect in your ear,"* he said. *"If you scratch it, it won't disappear."*
+*"I don't regret a thing. It was all worth it. I'd do anything — anything — to hear that sound again."* His eyes found Tom's through the glass and stayed there. *"You pressed play,"* he said. *"Forty seconds."* A pause. The smile didn't change. *"There's an insect in your ear,"* he said. *"If you scratch it, it won't disappear."*[^staring]
 
 Tom looked at him for a long moment.
 
@@ -199,7 +199,7 @@ But he'd pressed play. Forty seconds. And he'd told himself that was nothing, th
 
 He thought about the instinct that had told him to walk away — twenty years of detective work making noise he hadn't listened to. The rumors. Two alarm systems, both going off at once.
 
-He thought that *you're not the only one staring at the sun — afraid of what you'd find if you stepped back inside.*
+He thought that *you're not the only one staring at the sun — afraid of what you'd find if you stepped back inside.*[^staring]
 
 He thought about the fact that he hadn't walked away.
 
@@ -240,3 +240,11 @@ Behind him, the observation window went dark.
 *Pictures by Rebecca Stewart*
 
 *Edited by Ruth-Ann Butler*
+
+---
+
+[^angels]: If God Will Send His Angels
+[^staring]: Staring at the Sun
+[^wake]: Wake Up Dead Man
+[^gone]: Gone
+[^lastnight]: Last Night on Earth
