@@ -23,8 +23,3 @@ This is that story.
 Better late than never.
 
 Some would say.
-
----
-
-*Pictures by Rebecca Stewart, 1997.*
-*Story by Thomas Butler, 2025.*
