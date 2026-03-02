@@ -9,20 +9,18 @@ The canonical latest version of the story is in `forty_seconds.md`.
 
 ## Image Files
 
-The source images are located at `../../images/` relative to the story file. They are 8 JPG files named `600-ice-48000.jpg` through `600-ice-48007.jpg`. The story file contains proper markdown image references alongside each photo cue. Always use `.jpg` when referencing these images — not `.jpg`.
-
-The source images are 8 scanned TIF files named `600-ice-48000.jpg` through `600-ice-48007.jpg`. Here is what each shows and how they are used in the story:
+The source images are located at `../../images/` relative to the story file. They are 8 JPG files named `600-ice-48000.jpg` through `600-ice-48007.jpg`. Always use this exact naming convention when referencing images.
 
 | File | Description | Story Role |
 |---|---|---|
-| 24000.jpg | Stripes tucked under a white blanket, peeking out | Final scene — Francois on the table |
-| 24001.jpg | Boy mid-scream, Stripes on his head | Tom during the scissors fight — adrenaline scream as Francois attacks |
-| 24002.jpg | Stripes spread-eagle on a boombox, U2 CD visible | The corrupting album is discovered |
-| 24003.jpg | Stripes wielding large scissors | Francois attacks Tom |
-| 24004.jpg | Boy with fist to chin, thoughtful expression, Stripes on head | Tom reluctantly agrees to take the case |
-| 24005.jpg | Stripes clinging to a bedpost | Francois clings to furniture when police arrive |
-| 24006.jpg | Vivian Plume (ostrich) face down on carpet | Vivian Plume found dead |
-| 24007.jpg | Stripes's hands around Vivian Plume's throat | The strangling — shown at moment of confession |
+| 600-ice-48000.jpg | Stripes tucked under a white blanket, peeking out | Final scene — Francois on the table |
+| 600-ice-48001.jpg | Boy mid-scream, Stripes on his head | Tom during the scissors fight |
+| 600-ice-48002.jpg | Stripes spread-eagle on a boombox, U2 CD visible | The corrupting album is discovered |
+| 600-ice-48003.jpg | Stripes wielding large scissors | Francois attacks Tom |
+| 600-ice-48004.jpg | Boy with fist to chin, thoughtful expression, Stripes on head | Tom reluctantly agrees to take the case |
+| 600-ice-48005.jpg | Stripes clinging to a bedpost | Francois clings to furniture when police arrive |
+| 600-ice-48006.jpg | Vivian Plume (ostrich) face down on carpet | Vivian Plume found dead |
+| 600-ice-48007.jpg | Stripes's hands around Vivian Plume's throat | The strangling — shown at moment of confession |
 
 ---
 
@@ -70,9 +68,7 @@ These were deliberately planted and should not be removed or explained away:
 
 2. **The third-person slip** — Francois says *"Francois deserves that much"* instead of *"I deserve that much."* Tom files it away. It is never remarked upon directly in the scene — the reader has to catch it themselves.
 
-3. **The philosophical question** — *"Do you ever wonder what it would take to make an ordinary man do something terrible?"* — said by Francois during the interrogation, after Tom delivers his deduction and after the scissors fight. This is the buried fragment speaking in the only way it can, hiding the truth inside an abstract question. It is Francois's only response to being correctly named — not a confirmation, not a denial.
-
-Note: The "Do you ever wonder" line appears only once. An earlier draft placed it in the office scene as foreshadowing; that version was rejected. The single instance post-fight is final.
+3. **"Something moved behind Francois's eyes"** — After Tom delivers his deduction and Francois responds with the lyric bleed ("I'm already gone. Felt that way all along."), the closing beat of the interrogation scene is: *"Something moved behind Francois's eyes — like a light seen from a very long way away. Then it was gone."* This is the last flicker of the uncorrupted fragment before the section break. It is deliberate and should not be removed.
 
 ---
 
@@ -83,9 +79,9 @@ Note: The "Do you ever wonder" line appears only once. An earlier draft placed i
 - **Tom does not have an all-caps outburst after the confession.** That scene was revised. Tom's response to *"I strangled her"* is a quiet *"Why?"* He already knows the answer. The story resumes from "He already knew, of course."
 - **Two "dark nothing" window lines** were fixed — the confession scene uses *"the dark nothing beyond the glass"* and the hiring question scene uses *"stared through it at nothing in particular."*
 - **The two alarm systems** in Tom's corridor reflection are named explicitly: the instinct and the rumors. Not just "two alarm systems."
-- **Francois does not explain his own split mind.** Tom deduces it. Francois's only response is the "Do you ever wonder" line — not a confirmation, not a denial.
-- **The scissors attack interrupts the deduction, not follows it.** Francois reads Tom's face as Tom completes the deduction internally, and moves before Tom can speak. Tom delivers *"You couldn't confess"* after the fight, straightening up. The "Do you ever wonder" speech follows from there.
-- **"Something moved behind Francois's eyes"** is now the closing beat of the interrogation scene — it follows the "Do you ever wonder" exchange and Tom's reflection on it, then the section break leads to the observation window. It is not a prelude to the scissors attack.
+- **Francois does not explain his own split mind.** Tom deduces it. Francois's only response to being correctly named is the lyric bleed: *"I'm already gone. Felt that way all along."* Tom notes it was neither a denial nor a confirmation. He says nothing else.
+- **The scissors attack interrupts the deduction, not follows it.** Francois reads Tom's face as Tom completes the deduction internally, and moves before Tom can speak. Tom delivers *"You couldn't confess"* after the fight, crouched beside Francois (not "straightening up" — his legs gave out).
+- **"Something moved behind Francois's eyes"** is the closing beat of the interrogation scene — it follows the "I'm already gone" exchange, then the section break leads to the observation window. It is not a prelude to the scissors attack.
 
 ---
 
@@ -100,6 +96,16 @@ Note: The "Do you ever wonder" line appears only once. An earlier draft placed i
 ---
 
 ## Recent Changes
+
+**Lyric bleed overhaul and prose revisions (2026-03-01)**
+Album corrected from *Achtung Baby* to *Pop* (1997). All Achtung Baby lyrics files replaced with Pop lyrics. All lyric-bleed positions redesigned from scratch using Pop source material. Full option history in `reports/lyric-options.md`. Key structural changes in this session:
+- Fight scene ending added: Francois's legs give out (callback to the bedpost moment in the opening), Tom eases him down and crouches beside him before delivering the deduction line.
+- Terror-flash paragraph tightened: "his face went somewhere else entirely" → "something crossed his face" — distinguishes it from the speech-fragmentation beat immediately before it.
+- "Do you ever wonder" paragraph removed entirely. Post-fight response is now the Gone lyric bleed: *"I'm already gone. Felt that way all along."*
+- F2 replaced: three-lyric combined speech → shorter fragmented two-lyric version (Staring at the Sun + Wake Up Dead Man). Francois loses the thread mid-sentence.
+- F3 lyric ("Chance is a kind of religion") removed. Line now reads plainly.
+- Tom's T1 lyric bleed repositioned earlier in the corridor section (after "two alarm systems" sentence) so the recognition arrives with more delay.
+- Persuasion paragraph split into two and tightened.
 
 **Line-edit pass (2026-02-27)**
 Full line-edit applied to the current draft. Key changes: cut redundant "Something was wrong" opener; reduced "deeply, fundamentally wrong" to "fundamentally wrong"; "sweet, harmless, innocent Vivian" → "innocent Vivian"; broke "He thought about" anaphora pattern; resolved "raw" repetition between Francois and Tom; fixed "make it make sense" stutter; anchored italicised persuasion questions with a dash; broke infodump paragraph with a glance at Francois; cut "without deciding to" before the Zoo Station lyric thought; split the arm-wave sentence; cut "for the rest of his life" from the final turning-over line. Deliberate choices preserved: "quiet and patient" echo, second-person "your fingers," "Loud, raw, furious," the confession lyric. Full report in `line-edit-report.md` (struck through = actioned).
@@ -125,18 +131,34 @@ All eight photo cues in `forty_seconds.md` now include proper markdown image ref
 **Tom's deduction scene expanded**
 Readers were confused by the "Francois is two people" concept. The fix was to show Tom's deduction step by step rather than summarising it. The new version walks through each fragment of evidence he's collected — the too-clean arguments, the flash of terror, the third-person slip, the forty seconds of music — and builds toward the conclusion visibly. A new image was added: the corruption taking a man *"room by room, leaving some parts intact while it worked on the others."* This sets up the "something left intact" conclusion as a natural next thought rather than a leap. The old version said "slowly, it assembled itself" and moved on — the new version shows the assembly.
 
-**Lyric bleed mechanic added (branch: lyrics-bleed)**
-Characters infected by the album unknowingly speak in its lyrics. Four insertions made to `forty_seconds.md`:
+**Lyric bleed mechanic — COMPLETE** (album: *Pop* by U2, 1997)
 
-1. **Office persuasion scene** — Francois drops a line from *The Fly*: *"It's no secret that a conscience can sometimes be a pest."* Delivered as a casual truism. The corruption speaking its own logic out loud without recognising it as unusual.
+Characters infected by the album unknowingly speak/think in its lyrics. Only Francois bleeds lyrics, except for one bleed at the very end where Tom notices. All positions are finalised and written to the story. Full option history and status table in `reports/lyric-options.md`.
 
-2. **"Do you ever wonder" speech** — The Acrobat fragment surfaces inside the second thread Francois finds after losing his place: *"Nothing makes sense. Nothing seems to fit. I know you'd hit out — "* The uncorrupted fragment surfacing briefly before the corruption suppresses it again. Interrupted mid-line.
+| Position | Lyric | Song |
+|---|---|---|
+| F1 — Rhetorical questions (persuasion) | *"Where is the hope, and where is the faith?"* — slipped into the what-if run | If God Will Send His Angels |
+| F2 — Mid-persuasion (fragmented speech) | *"Don't try too hard to think. Don't —"* [loses thread] *"If there's an order in all of this disorder — I just need to know what it is."* | Staring at the Sun + Wake Up Dead Man |
+| F3 — Before third-person slip | REMOVED — line reads plainly without lyric | — |
+| F4 — Confession elaboration | *"No emotional good night."* | Gone |
+| F5 — Response to "Why?" | *"She felt the ground was giving way. Better off that way."* | Last Night on Earth |
+| F6 — Fight scream | *"I'm not coming down, I'm not coming down!"* | Gone |
+| F7 — Post-fight response to deduction | *"I'm already gone. Felt that way all along."* | Gone |
+| F8 — Observation window kicker | *"There's an insect in your ear. If you scratch it, it won't disappear."* | Staring at the Sun |
+| T1 — Tom's corridor (Tom notices) | *"you're not the only one staring at the sun — afraid of what you'd find if you stepped back inside."* — arrives mid-thought as "He thought that...", positioned after the "two alarm systems" sentence | Staring at the Sun |
 
-3. **Fight scene** — Francois's scream is given content: *"My sorrows — they learned to swim!"* (Until the End of the World). The screamed line reads as unhinged in context; on re-read it maps to the psychology — he tried to bury what he felt and it came back up.
+**Used lines by song** (to prevent reuse in future sessions):
 
-4. **Tom's corridor ending** — Tom thinks in Zoo Station lyrics: *"Time is a train. Makes the future the past. Leaves you standing in the station."* He then notices something in the rhythm of the words — *"too even, too finished"* — and registers he did not choose them. This is the moment that shifts the final question from forty seconds to something earlier. The ambiguity between "his thought" and "a lyric" mirrors the ambiguity of the whole final scene.
+- **Gone** (used 3×): *"No emotional good night"* (F4) · *"I'm not coming down, I'm not coming down!"* (F6) · *"I'm already gone / Felt that way all along"* (F7)
+- **Staring at the Sun** (used 3×): *"Don't try too hard to think / Don't think at all"* (F2, partial — cut off mid-sentence) · *"There's an insect in your ear / If you scratch it, it won't disappear"* (F8) · *"you're not the only one staring at the sun — afraid of what you'd find if you stepped back inside"* (T1)
+- **Wake Up Dead Man** (used 1×, partial): Only *"If there's an order in all of this disorder"* — the rest of the lyric (*"is it like a tape recorder? Can we rewind it just once more?"*) has NOT been used.
+- **If God Will Send His Angels** (used 1×): *"Where is the hope, and where is the faith?"*
+- **Last Night on Earth** (used 1×): *"She felt the ground was giving way / Better off that way"*
+- **Discothèque, Do You Feel Loved, If You Wear That Velvet Dress, Miami, Mofo, Please, The Playboy Mansion**: unused — available.
 
-**What was deliberately left alone:** The final window scene (Francois mouthing words through the glass) contains no lyric. This is intentional — the absence protects the dual-interpretation of that moment. If every prior Francois line has been laced with lyrics, the reader may expect the final words to be too. The fact that they are not is itself a signal. Or it isn't.
+**What was deliberately left alone:** Francois's final words through the observation window (*"I don't regret a thing... I'd do anything to hear that sound again"*) contain no lyric. This protects the dual-interpretation of that moment — whether the corruption is reveling or the real Francois is performing. Do not insert a lyric here.
+
+**Pop lyrics reference:** Full lyrics for all 12 tracks are in `lyrics/`.
 
 ---
 
@@ -148,8 +170,8 @@ Characters infected by the album unknowingly speak in its lyrics. Four insertion
 
 ## Confirmed Details
 
-- **The album is *Achtung Baby* by U2.** Confirmed by the user. Use this name explicitly if it ever needs to be named in the story.
-- **The "Do you ever wonder" line will not be reinstated in the office scene.** It appears only once, in the interrogation. This is final.
+- **The album is *Pop* by U2 (1997).** Confirmed by the user (corrected from earlier misidentification as *Achtung Baby*). Use this name explicitly if it ever needs to be named in the story.
+- **The "Do you ever wonder" paragraph no longer exists in the story.** It was removed entirely. Francois's post-fight response to Tom's deduction is the Gone lyric bleed: *"I'm already gone. Felt that way all along."* Do not reinstate the "Do you ever wonder" line in any scene.
 
 ---
 
@@ -175,4 +197,4 @@ The `-f markdown-yaml_metadata_block` flag is required — the story's `---` sec
 | `reports/line-edit-report-2.md` | Second line-edit report (fresh pass on revised draft) |
 | `reports/dev-edit-report.md` | Developmental edit report (structural/character/arc level) |
 | `reports/action-items.md` | Consolidated actionable issues from both agent reports, checkbox format |
-| `lyrics/` | Full lyrics for all 12 tracks on *Achtung Baby* — reference for lyric-bleed mechanic |
+| `lyrics/` | Full lyrics for all 12 tracks on *Pop* (U2, 1997) — reference for lyric-bleed mechanic |

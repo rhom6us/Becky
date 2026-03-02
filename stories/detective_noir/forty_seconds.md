@@ -45,11 +45,15 @@ He'd steered clear of anything that smelled like it for months. And something ab
 
 So he said no.
 
-But Francois was persistent. He leaned in, voice low and urgent, chipping away — planting small seeds of doubt, little splinters of argument that lodged themselves just under the skin — *What if the police botch it? What if justice is never served? What if the truth just disappears, like she did?* He paused. Something almost conversational entered his voice. *"It's no secret,"* he said, *"that a conscience can sometimes be a pest. Mine has been keeping me up for three days straight."* His eyes found Tom's again.
+But Francois was persistent. He leaned in, voice low and urgent, chipping away — planting small seeds of doubt, little splinters of argument that lodged themselves just under the skin — *What if the police botch it? What if justice is never served? Where is the hope, and where is the faith? What if the truth just disappears, like she did?*
 
-Then he stopped. Just for a moment — half a second, maybe less. His face went somewhere else entirely. Not grief, not urgency. Something that looked, just briefly, almost like terror. Then it was gone, and he was back, hands clasped, eyes searching Tom's face like nothing had happened.
+He stopped. *"Don't try too hard to think,"* he said. *"Don't — "* He paused. Seemed to lose it briefly. *"If there's an order in all of this disorder — I just need to know what it is."*
+
+Then, just for a moment — half a second, maybe less — something crossed his face. Not grief, not urgency. Something that looked, just briefly, almost like terror. Then it was gone, and he was back, hands clasped, eyes searching Tom's face like nothing had happened.
 
 Tom filed it away — the thing he couldn't name. He'd spent twenty years developing an instinct, and the instinct was making noise. Francois said all the right things in all the right order, and his devastation seemed genuine, and none of that stopped the quiet alarm going off somewhere below Tom's conscious mind. A man in genuine shock didn't argue this well. A man in genuine shock didn't land his points this cleanly. Tom had the distinct and unverifiable sense of being steered.
+
+The other thing — smaller, harder to name — was the rhythm of some of it. The phrasing. Every so often Francois would say something and it would scan differently — like he was receiving the words rather than choosing them. Too even. A little too complete. Like a line from a song, almost — like it had a life before the conversation that needed it. Tom filed that one away too, without knowing what to do with it.
 
 He should have walked away. He knew he should have walked away.
 
@@ -99,13 +103,17 @@ Then his shoulders dropped.
 
 He turned to face Tom.
 
-*"I strangled her. A little death, no call and no warning."*
+*"I strangled her. No emotional good night."*
 
 ![Stripes strangling Vivian Plume](../../images/600-ice-48007.jpg)
 
 Tom said nothing. He looked at the man across from him for a long moment.
 
 *"Why?"*
+
+Francois looked at the window. *"She felt the ground was giving way,"* he said simply. *"Better off that way."*
+
+Tom looked at him for a moment. The answer had the shape of something rehearsed — too finished, arrived too easily. He filed it next to the other things he couldn't name.
 
 He already knew, of course. He'd pressed play. He'd felt the corruption move through him like cold water — forty seconds of it, quiet and patient and rewriting things. He understood exactly what had entered Francois's mind.
 
@@ -139,19 +147,23 @@ The scissors.
 
 Tom moved fast. Faster than a man with a zebra on his head had any right to. They collided — Francois lunging, Tom blocking, the scissors clattering sideways as they grappled across the room in a tangle of flannel and stripes and raw desperation.
 
-Francois screamed — something torn and broken, something between a cry and an answer. *"My sorrows — they learned to swim!"* Tom held on. They spun. They crashed. The zebra, impossibly, remained on Tom's head throughout.
+Francois screamed — something torn and broken, something between a cry and an answer. *"I'm not coming down, I'm not coming down!"* Tom held on. They spun. They crashed. The zebra, impossibly, remained on Tom's head throughout.
 
 ![Tom screaming](../../images/600-ice-48001.jpg)
 
 ---
 
-*"You couldn't confess,"* Tom said, straightening up. *"But part of you needed someone to find out."*
+His legs went out from under him — the second time that week, and this time there was nothing to hold onto. Tom eased him down. Crouched beside him.
 
-Francois said nothing for a moment. Then:
+*"You couldn't confess,"* he said. *"But part of you needed someone to find out."*
 
-*"Do you ever wonder,"* he said, almost to himself, *"what it would take to make an ordinary man do something terrible? Not greed. Not rage. Something quieter than that. Something that gets in and changes the — "* He paused. Seemed to lose the thread for a moment. Then found it again, or found a different one. *"Nothing makes sense. Nothing seems to fit. I know you'd hit out if you only knew who to hit."* Another pause. Shorter this time. *"Something that changes the way a man sees the people around him."*
+Francois said nothing for a moment.
 
-Tom looked at him for a long time. Something had snagged, briefly, in the middle of all that — three lines that arrived in a different rhythm than the rest, clipped and even, almost recited. He couldn't place it. It wasn't a denial. It wasn't a confirmation. It was the only answer the situation had left room for.
+Then something shifted in him — not grief, not defiance. Something closer to relief. He almost laughed.
+
+*"I'm already gone,"* he said. *"Felt that way all along."*
+
+Tom looked at him for a long time. It wasn't a denial. It wasn't a confirmation. It was the only answer the situation had left room for.
 
 Something moved behind Francois's eyes — like a light seen from a very long way away.
 
@@ -173,7 +185,7 @@ And smiled.
 
 He lifted one small striped arm and waved, slow and cheerful, with the complete serenity of a man at peace with every single choice he had ever made. The strap caught him short; the thin tube taped to the crook of his elbow shifted slightly with the motion. When he spoke, his voice came through the speaker above the glass, flat and close, like a voice in a small room.
 
-*"I don't regret a thing. It was all worth it. I'd do anything — anything — to hear that sound again."* His eyes didn't leave Tom's. *"Think of the best thing you know. The best real thing. Hold it in your mind."* A pause. The smile didn't change. *"Even better than the real thing."*
+*"I don't regret a thing. It was all worth it. I'd do anything — anything — to hear that sound again."* His eyes found Tom's through the glass and stayed there. *"You pressed play,"* he said. *"Forty seconds."* A pause. The smile didn't change. *"There's an insect in your ear,"* he said. *"If you scratch it, it won't disappear."*
 
 Tom looked at him for a long moment.
 
@@ -187,15 +199,15 @@ But he'd pressed play. Forty seconds. And he'd told himself that was nothing, th
 
 He thought about the instinct that had told him to walk away — twenty years of detective work making noise he hadn't listened to. The rumors. Two alarm systems, both going off at once.
 
+He thought that *you're not the only one staring at the sun — afraid of what you'd find if you stepped back inside.*
+
 He thought about the fact that he hadn't walked away.
 
-He stopped in the middle of the corridor. Stood very still. Hands in his pockets. Staring at the grey nothing ahead of him.
-
-And then he thought: *time is a train. Makes the future the past. Leaves you standing in the station, your face pressed up against the glass.*
+Then he stopped in the middle of the corridor. Stood very still. Hands in his pockets. Staring at the grey nothing ahead of him.
 
 He didn't move.
 
-Those weren't his words. He knew it the same way you know a foreign coin in your pocket before you look at at it — by its weight, by its edge, by the slight wrongness of it against your fingers. He tried to trace the thought back to where it had come from.
+Those weren't his words. He knew it the same way you know a foreign coin in your pocket before you look at it — by its weight, by its edge, by the slight wrongness of it against your fingers. He tried to trace the thought back to where it had come from.
 
 Nothing. A gap where the source should be.
 

@@ -6,11 +6,11 @@
 
 ## Structure and Pacing
 
-- [ ] **Scissors fight position** — The fight sits between the story's intellectual peak (split-mind deduction) and emotional peak (observation window), reading as obligation rather than escalation. Options: (a) compress to a single sentence of violence; (b) have the scissors attack interrupt the deduction rather than follow it; (c) use the fight to advance Tom's contamination arc.
+- [x] **Scissors fight position** — The fight sits between the story's intellectual peak (split-mind deduction) and emotional peak (observation window), reading as obligation rather than escalation. Options: (a) compress to a single sentence of violence; (b) have the scissors attack interrupt the deduction rather than follow it; (c) use the fight to advance Tom's contamination arc. *Done: Option B applied (attack interrupts deduction); fight ending added — Francois's legs give out (callback to bedpost opening), Tom eases him down and crouches beside him.*
 
 - [ ] **Scissors are unplanted** — The scissors appear from nowhere. Option: plant them when Tom first enters the room for the confrontation — a detail he notices and dismisses.
 
-- [ ] **Infodump beat position** — The mid-paragraph interrupting beat (Tom glancing at Francois) was added but arrives late. Consider moving it earlier in the paragraph so the interior breaks sooner.
+- [x] **Infodump beat position** — The mid-paragraph interrupting beat (Tom glancing at Francois) was added but arrives late. Consider moving it earlier in the paragraph so the interior breaks sooner. *Done: persuasion paragraph restructured and split into two paragraphs; the break now lands earlier.*
 
 - [ ] **"Whether Francois was a villain..."** — The epilogue's explicit naming of both poles of the ambiguity slightly domesticates the uncertainty the corridor sequence earns. Consider cutting the sentence; "But the boombox stays locked up. Let this story serve as a warning." does the work with more compression.
 
@@ -28,9 +28,9 @@
 
 - [ ] **"Impossible to know. That was the point."** — Explains the story's central ambiguity to a reader who has already understood it. Consider cutting both sentences and leaving the preceding paragraph ("The corruption, reveling to the end. Or a man who had found the only door left open to him...") to close on its own contradiction.
 
-- [ ] **"deep and complicated, like a light seen from a very long way away"** — The two adjectives tell what the simile shows. Cut "deep and complicated" and open directly on the simile.
+- [x] **"deep and complicated, like a light seen from a very long way away"** — The two adjectives tell what the simile shows. Cut "deep and complicated" and open directly on the simile. *Done: now reads "like a light seen from a very long way away" — adjectives gone.*
 
-- [ ] **"The kind of roar that comes from a man who has spent three days..."** — Explains the emotional source of the roar after the action has already shown it. Consider cutting and trusting the roar.
+- [x] **"The kind of roar that comes from a man who has spent three days..."** — Explains the emotional source of the roar after the action has already shown it. Consider cutting and trusting the roar. *Done: current text reads "something torn and broken, something between a cry and an answer" — no explanation of the emotional source.*
 
 ---
 
@@ -64,7 +64,7 @@
 
 ## Dialogue Mechanics
 
-- [ ] **"almost to himself"** tag on Francois's "Do you ever wonder" speech — Names the emotional quality of the delivery rather than showing it. Replace with an action beat.
+- [x] **"almost to himself"** tag on Francois's "Do you ever wonder" speech — Names the emotional quality of the delivery rather than showing it. Replace with an action beat. *Done: the "Do you ever wonder" speech has been removed entirely and replaced with the Gone lyric bleed ("I'm already gone. Felt that way all along.").*
 
 - [ ] **"Seemed to lose the thread for a moment"** — Filter construction underplays the moment (the uncorrupted fragment surfacing and being suppressed). Render as a visible pause or physical detail rather than the narrator's inference.
 
@@ -74,8 +74,8 @@
 
 ## Questions for the Author (Require Decision Before Action)
 
-- [ ] **"no call and no warning"** (the confession) — Is this deliberate lyric-bleed? If yes, should it register as a faint wrongness to Tom, consistent with the mechanic? If it's incidental idiom, no action needed.
+- [x] **"no call and no warning"** (the confession) — Is this deliberate lyric-bleed? If yes, should it register as a faint wrongness to Tom, consistent with the mechanic? If it's incidental idiom, no action needed. *Resolved: the confession line has changed. Current text: "No emotional good night." (Gone, Pop) — a deliberate lyric-bleed. The "no call and no warning" question is moot.*
 
-- [ ] **"Even better than the real thing"** — The only lyric where Francois may *know* he is speaking in lyrics. Should an earlier moment open the question of his awareness, or does the absence of setup serve the ambiguity?
+- [x] **"Even better than the real thing"** — The only lyric where Francois may *know* he is speaking in lyrics. Should an earlier moment open the question of his awareness, or does the absence of setup serve the ambiguity? *Resolved: that lyric no longer appears in the story. The window speech now uses "There's an insect in your ear / If you scratch it, it won't disappear" (Discotheque, Pop). Question is moot.*
 
 - [ ] **"man in genuine shock" repetition** — The corridor instance is now framed ("He'd thought it then. He thought it again now") but the two instances remain verbatim. Should the second instance vary (add one new detail) or lean fully into verbatim repetition as Tom's circular compulsion?
