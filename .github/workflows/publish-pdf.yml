@@ -6,6 +6,7 @@ on:
     paths:
       - stories/detective_noir/forty_seconds.md
       - stories/detective_noir/story-template.typ
+      - stories/detective_noir/cover.png
       - .github/workflows/publish-pdf.yml
 
 jobs:
@@ -35,6 +36,23 @@ jobs:
           pandoc \
             -f markdown-yaml_metadata_block \
             forty_seconds.md \
+            -o forty_seconds_with_refs.pdf \
+            --pdf-engine=typst \
+            --template=story-template.typ
+
+      - name: Generate no-lyrics PDF
+        working-directory: stories/detective_noir
+        run: |
+          python3 -c "
+          import re, pathlib
+          md = pathlib.Path('forty_seconds.md').read_text()
+          md = re.sub(r'\[\^[^\]]+\]', '', md)
+          md = re.sub(r'^\[\^[^\]]+\]:.*\n?', '', md, flags=re.MULTILINE)
+          pathlib.Path('forty_seconds_no_lyrics.md').write_text(md)
+          "
+          pandoc \
+            -f markdown-yaml_metadata_block \
+            forty_seconds_no_lyrics.md \
             -o forty_seconds.pdf \
             --pdf-engine=typst \
             --template=story-template.typ
@@ -60,4 +78,6 @@ jobs:
           name: "Forty Seconds — Build #${{ github.run_number }}"
           files: |
             stories/detective_noir/forty_seconds.pdf
+            stories/detective_noir/forty_seconds_with_refs.pdf
             stories/detective_noir/forty_seconds.md
+            stories/detective_noir/cover.png
