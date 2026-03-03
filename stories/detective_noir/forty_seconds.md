@@ -53,7 +53,7 @@ Then, just for a moment — half a second, maybe less — something crossed his 
 
 Tom filed it away — the thing he couldn't name. He'd spent twenty years developing an instinct, and the instinct was making noise. Francois said all the right things in all the right order, and his devastation seemed genuine, and none of that stopped the quiet alarm going off somewhere below Tom's conscious mind. A man in genuine shock didn't argue this well. A man in genuine shock didn't land his points this cleanly. Tom had the distinct and unverifiable sense of being steered.
 
-The other thing — smaller, harder to name — was the rhythm of some of it. The phrasing. Every so often Francois would say something and it would scan differently — like he was receiving the words rather than choosing them. Too even. A little too complete. Like a line from a song, almost — like it had a life before the conversation that needed it. Tom filed that one away too, without knowing what to do with it.
+The other thing — smaller, harder to name — was the rhythm of some of it. The phrasing. Every so often Francois would say something and it would scan differently — like he was receiving the words rather than choosing them. Too even. A little too complete. Like a line from a song, almost — like it had a life before the conversation that needed it.
 
 He should have walked away. He knew he should have walked away.
 
@@ -71,7 +71,7 @@ He would spend a long time afterwards wondering what exactly had moved him. He n
 
 ---
 
-Tom worked the case for three days straight. He turned over every rock, rattled every cage, followed every thread until the threads led somewhere ugly. And they always led somewhere ugly.
+Tom worked the case for three days straight. He followed every thread until the threads led somewhere ugly. And they always led somewhere ugly.
 
 Everyone he talked to said Vivian had been worried about Francois for weeks. Nobody had done anything about it, including her. He went through her things on the second day. Expecting nothing. What he found was a folded piece of paper in her desk drawer — not a diary, not a letter. A list. Eight or nine lines in her handwriting, each one something Francois had said. No dates. No context. Just the words, because the words had been strange enough to write down. Most of them Tom couldn't place. But near the bottom, underlined twice, with a question mark beside it: *You know you're chewing bubble gum.*[^discotheque]
 
@@ -113,7 +113,7 @@ He turned to face Tom.
 
 ![Stripes strangling Vivian Plume](../../images/600-ice-48007.jpg)
 
-Tom said nothing. He looked at the man across from him for a long moment.
+Tom said nothing.
 
 *"Why?"*
 
@@ -122,8 +122,6 @@ Francois looked at the window. *"She felt the ground was giving way,"* he said s
 Tom looked at him for a moment. The answer had the shape of something rehearsed — too finished, arrived too easily. He filed it next to the other things he couldn't name.
 
 He already knew, of course. He'd pressed play. He'd felt the corruption move through him like cold water — forty seconds of it, quiet and patient and rewriting things. He understood exactly what had entered Francois's mind.
-
-Tom looked at the man across from him.
 
 And then, because he was the kind of detective who couldn't leave a loose thread, he asked the question that had been sitting at the back of his mind since the very first day.
 
@@ -193,7 +191,7 @@ He lifted one small striped arm and waved, slow and cheerful, with the complete 
 
 *"I don't regret a thing. It was all worth it. I'd do anything — anything — to hear that sound again."* His eyes found Tom's through the glass and stayed there. *"You pressed play,"* he said. *"Forty seconds."* A pause. The smile didn't change. *"There's an insect in your ear,"* he said. *"If you scratch it, it won't disappear."*[^staring]
 
-Tom looked at him for a long moment.
+Tom looked at him until he was done looking.
 
 The corruption, reveling to the end. Or a man who had found the only door left open to him, walked through it, and needed Tom to believe the corruption had been in charge the whole time.
 
@@ -205,9 +203,9 @@ But he'd pressed play. Forty seconds. And he'd told himself that was nothing, th
 
 He thought about the instinct that had told him to walk away — twenty years of detective work making noise he hadn't listened to. The rumors. Two alarm systems, both going off at once.
 
-He thought that *you're not the only one staring at the sun — afraid of what you'd find if you stepped back inside.*[^staring]
+He thought *you're not the only one staring at the sun — afraid of what you'd find if you stepped back inside.*[^staring]
 
-He thought about the fact that he hadn't walked away.
+He thought: he had not walked away.
 
 Then he stopped in the middle of the corridor. Stood very still. Hands in his pockets. Staring at the grey nothing ahead of him.
 
