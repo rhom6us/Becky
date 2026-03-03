@@ -73,11 +73,17 @@ He would spend a long time afterwards wondering what exactly had moved him. He n
 
 Tom worked the case for three days straight. He turned over every rock, rattled every cage, followed every thread until the threads led somewhere ugly. And they always led somewhere ugly.
 
-Everyone he talked to said Vivian had been worried about Francois for weeks. Nobody had done anything about it, including her.
+Everyone he talked to said Vivian had been worried about Francois for weeks. Nobody had done anything about it, including her. He went through her things on the second day. Expecting nothing. What he found was a folded piece of paper in her desk drawer — not a diary, not a letter. A list. Eight or nine lines in her handwriting, each one something Francois had said. No dates. No context. Just the words, because the words had been strange enough to write down. Most of them Tom couldn't place. But near the bottom, underlined twice, with a question mark beside it: *You know you're chewing bubble gum.*[^discotheque]
+
+He looked at it for a long time. He thought about a woman writing down the things her partner said because they had started to frighten her — not knowing why, not knowing what to do with the list once she had it. He thought about the better part of a year he'd spent listening to the city whisper about something that rewrote people quietly, patiently, until one day the words coming out of their mouths weren't theirs anymore.
+
+He folded the paper and put it in his pocket.
 
 He started with the boombox.
 
-It sat on the bed like an altar. A U2 CD loaded in the tray. Tom stared at it for a long moment before he did anything else. Then he pressed play.
+It sat on the bed like an altar. A U2 CD loaded in the tray. Tom stood over it for a long moment. He'd been avoiding anything that smelled like this for months. He knew what the boombox was. He knew what the boombox had done. He knew what pressing play would mean.
+
+His hand moved before he'd decided.
 
 He listened for forty seconds. Then he pressed stop, closed the tray, and stood very still for a long moment.
 
@@ -243,6 +249,7 @@ Behind him, the observation window went dark.
 
 ---
 
+[^discotheque]: Discothèque
 [^angels]: If God Will Send His Angels
 [^staring]: Staring at the Sun
 [^wake]: Wake Up Dead Man
