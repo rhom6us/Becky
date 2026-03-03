@@ -3,11 +3,7 @@
 
 ---
 
-It was a Monday like any Monday. Grey sky, grey city, grey coffee going cold on the counter. Francois had been away for the weekend — business, he'd say later, though nobody asked twice. He stepped inside.
-
-What he saw stopped him cold.
-
-The room had been disturbed. Something was *fundamentally wrong* in a way that a man feels in his chest before his brain has caught up. Francois's legs went out from under him. He grabbed the nearest bedpost and held on like a man clinging to a life raft in a black ocean.
+It was a Monday like any Monday. Grey sky, grey city, grey coffee going cold on the counter. Francois had been away for the weekend — business, he'd say later, though nobody asked twice. He stepped inside. He looked at the door to the next room. Something was *fundamentally wrong* in a way that a man feels in his chest before his brain has caught up. Francois's legs went out from under him. He grabbed the nearest bedpost and held on like a man clinging to a life raft in a black ocean.
 
 ![Stripes clinging to the bedpost](../../images/600-ice-48005.jpg)
 
@@ -73,13 +69,13 @@ He would spend a long time afterwards wondering what exactly had moved him. He n
 
 Tom worked the case for three days straight. He followed every thread until the threads led somewhere ugly. And they always led somewhere ugly.
 
-Everyone he talked to said Vivian had been worried about Francois for weeks. Nobody had done anything about it, including her. He went through her things on the second day. Expecting nothing. What he found was a folded piece of paper in her desk drawer — not a diary, not a letter. A list. Eight or nine lines in her handwriting, each one something Francois had said. No dates. No context. Just the words, because the words had been strange enough to write down. Most of them Tom couldn't place. But near the bottom, underlined twice, with a question mark beside it: *You know you're chewing bubble gum.*[^discotheque]
+Everyone he talked to said Vivian had been worried about Francois for weeks. Nobody had done anything about it, including her. He went through the rooms on the second day. The bed with its missing occupant. A teal collar on the floor by the desk. Scissors. A coffee cup. Three days of unopened mail. Expecting nothing. What he found was a folded piece of paper in her desk drawer — not a diary, not a letter. A list. Eight or nine lines in her handwriting, each one something Francois had said. No dates. No context. Just the words, because the words had been strange enough to write down. Most of them Tom couldn't place. But near the bottom, underlined twice, with a question mark beside it: *You know you're chewing bubble gum.*[^discotheque]
 
 He looked at it for a long time. He thought about a woman writing down the things her partner said because they had started to frighten her — not knowing why, not knowing what to do with the list once she had it. He thought about the better part of a year he'd spent listening to the city whisper about something that rewrote people quietly, patiently, until one day the words coming out of their mouths weren't theirs anymore.
 
 He folded the paper and put it in his pocket.
 
-He started with the boombox.
+He turned to the boombox.
 
 It sat on the bed like an altar. A U2 CD loaded in the tray. Tom stood over it for a long moment. He'd been avoiding anything that smelled like this for months. He knew what the boombox was. He knew what the boombox had done. He knew what pressing play would mean.
 
@@ -229,9 +225,7 @@ Behind him, the observation window went dark.
 
 *The album has since been classified.*
 
-*Whether Francois was a villain or the last uncorrupted inch of him saved us all is a question this office is not equipped to answer.*
-
-*But the boombox stays locked up.*
+*The boombox stays locked up.*
 
 *Let this story serve as a warning.*
 
