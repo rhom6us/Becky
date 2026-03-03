@@ -97,6 +97,9 @@ These were deliberately planted and should not be removed or explained away:
 
 ## Recent Changes
 
+**Investigation scene expanded (2026-03-02)**
+The summary investigation section has been replaced with a dramatised beat. Tom finds a folded list in Vivian's desk drawer — words she'd written down because Francois had started saying things that frightened her. Most entries he can't place. One — *"You know you're chewing bubble gum"* (Discothèque, F0) — is underlined twice with a question mark. This is what sends him to the boombox. The press-play moment is also revised: Tom's hand moves before he's decided (Option F — body acting before mind ratifies). This makes the boombox discovery feel earned and gives Vivian specificity and agency.
+
 **Lyric bleed overhaul and prose revisions (2026-03-01)**
 Album corrected from *Achtung Baby* to *Pop* (1997). All Achtung Baby lyrics files replaced with Pop lyrics. All lyric-bleed positions redesigned from scratch using Pop source material. Full option history in `reports/lyric-options.md`. Key structural changes in this session:
 - Fight scene ending added: Francois's legs give out (callback to the bedpost moment in the opening), Tom eases him down and crouches beside him before delivering the deduction line.
@@ -137,6 +140,7 @@ Characters infected by the album unknowingly speak/think in its lyrics. Only Fra
 
 | Position | Lyric | Song |
 |---|---|---|
+| F0 — Vivian's list (investigation) | *"You know you're chewing bubble gum."* — written down by Vivian, found by Tom in her desk drawer | Discothèque |
 | F1 — Rhetorical questions (persuasion) | *"Where is the hope, and where is the faith?"* — slipped into the what-if run | If God Will Send His Angels |
 | F2 — Mid-persuasion (fragmented speech) | *"Don't try too hard to think. Don't —"* [loses thread] *"If there's an order in all of this disorder — I just need to know what it is."* | Staring at the Sun + Wake Up Dead Man |
 | F3 — Before third-person slip | REMOVED — line reads plainly without lyric | — |
@@ -154,7 +158,8 @@ Characters infected by the album unknowingly speak/think in its lyrics. Only Fra
 - **Wake Up Dead Man** (used 1×, partial): Only *"If there's an order in all of this disorder"* — the rest of the lyric (*"is it like a tape recorder? Can we rewind it just once more?"*) has NOT been used.
 - **If God Will Send His Angels** (used 1×): *"Where is the hope, and where is the faith?"*
 - **Last Night on Earth** (used 1×): *"She felt the ground was giving way / Better off that way"*
-- **Discothèque, Do You Feel Loved, If You Wear That Velvet Dress, Miami, Mofo, Please, The Playboy Mansion**: unused — available.
+- **Discothèque** (used 1×): *"You know you're chewing bubble gum"* (F0 — Vivian's list, found during investigation)
+- **Do You Feel Loved, If You Wear That Velvet Dress, Miami, Mofo, Please, The Playboy Mansion**: unused — available.
 
 **What was deliberately left alone:** Francois's final words through the observation window (*"I don't regret a thing... I'd do anything to hear that sound again"*) contain no lyric. This protects the dual-interpretation of that moment — whether the corruption is reveling or the real Francois is performing. Do not insert a lyric here.
 

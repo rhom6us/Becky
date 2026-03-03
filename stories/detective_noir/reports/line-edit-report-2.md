@@ -1,213 +1,203 @@
-# *Forty Seconds* — Line-Edit Report (Pass 2)
+# Line Edit Report 2 — *Forty Seconds*
 
-**File reviewed:** `forty_seconds.md`
-**Draft reviewed:** Current canonical version, as of 2026-02-27
-
-*Note: A prior line-edit report exists at `line-edit-report.md`. Many of its flags have been actioned (shown as strikethrough). This report is a fresh pass against the revised draft.*
-
----
-
-## 1. Sentence Structure and Flow
-
-**Quote:** *"Not moving. Not breathing. A stuffed ostrich in a teal collar who went by the name Vivian Plume, and who would never again make anyone's acquaintance."*
-Issue: Three fragments lead beautifully into the fourth sentence — but the fourth sentence's relative clauses ("who went by... and who would never again") create a long trailing tail that dilutes the impact of the reveal.
-Why it matters: The rhythm built by the staccato fragments is working; the noun phrase that finally names Vivian needs to arrive cleanly, not wobble on two "who" clauses.
-Direction: Consider closing after the name — or cutting one of the clauses — so the sentence doesn't lose momentum at its most charged moment.
+**Author:** Thomas Butler
+**Editor:** Stage 2 (Line Edit), Second Pass
+**Date:** 2026-03-03
+**Draft reviewed:** `stories/detective_noir/forty_seconds.md` (post-copy-edit canonical version)
+**Preceding reports:** `reports/line-edit-report.md` (Pass 1, fully actioned), `reports/copy-edit-report.md`, `reports/proofread-report.md`
 
 ---
 
-**Quote:** *"He turned over every rock, rattled every cage, followed every thread until the threads led somewhere ugly. And they always led somewhere ugly."*
-Issue: "Led somewhere ugly" repeats across two consecutive sentences. If intentional (grinding exhaustion, noir fatalism), the echo needs a slightly longer gap between the two instances to let the second land with force. If accidental, vary the second instance.
-Direction: A question for the author: deliberate or accidental?
+## Scope of This Pass
+
+This report is a targeted second line-edit pass on the current canonical draft. It does not re-examine anything actioned in the first line-edit pass. Two issues referred by the developmental editor (Pass 5) are treated as priorities. The remainder is a fresh-eye pass through all eight domains against the post-copy-edit text.
+
+**Locked choices — not flagged in this pass:**
+- All lyric-bleed lines at positions F0–F8 and T1 (footnoted throughout)
+- Dual ambiguity (Francois / Tom) — never resolved
+- Flash of terror passage
+- Third-person slip ("Francois deserves that much")
+- "Quiet and patient" / "quietly, patiently" echo density — author aware, dev-edit Pass 5
+- "A man in genuine shock" repetition — explicit callback, flagged by line 128 itself ("He'd thought it then. He thought it again now")
+- Legs-gave-out callback
+- Grey motif
+- Pocket thread
+- "Tom looked at him" progression
+- "Filed it away" progression
+- Zebra on Tom's head throughout fight
+- Second-person "your fingers" in corridor
+- Tom's quiet "Why?" — confession restraint
+- Epilogue — final form, do not touch
 
 ---
 
-**Quote:** *"Tom sat with his fist pressed hard against his chin, eyes fixed on the middle distance. Two alarm systems going off at once. The instinct. The rumors. The shape of the thing."*
-Issue: "The shape of the thing" is a weaker fragment than "The instinct" and "The rumors" because it is abstract where the others are concrete nouns.
-Why it matters: The final fragment releases pressure the sequence has built.
-Direction: Either make "The shape of the thing" more concrete, or cut it — the rhythm of two crisp nouns is already complete.
+## Part 1 — Priority Flags: Developmental Editor Referrals
 
 ---
 
-**Quote:** *"He thought about a cornered thing finding a crack. A last lit room at the end of a long dark corridor, doing the only thing it could with the time it had left."*
-Issue: Two metaphors in immediate succession for the same idea (the uncorrupted Francois acting within constraint). The second re-states the first in different terms rather than building on it.
-Why it matters: Double metaphors at close range cancel rather than amplify; the reader begins comparing images rather than inhabiting them.
-Direction: Choose one image and commit. The lit room at the end of the corridor is the stronger of the two.
+### DE-REF-1 — Cold water simile in close proximity (lines 120 / 130)
+
+> **Line 120:** *"He'd felt the corruption move through him like cold water — forty seconds of it, quiet and patient and rewriting things."*
+>
+> **Line 130:** *"And then he thought about forty seconds of music moving through him like cold water."*
+
+**Issue:** The identical simile — "move / moving through him like cold water" — appears twice within ten lines. The only substitutions are "music" as subject and the gerund inflection. The image, temperature, and rhythm are unchanged.
+
+**Why it matters:** The first instance earns its simile fully — it is the moment Tom confirms the corruption is real and has entered him. "Cold water" is exactly right: quiet, invasive, without violence. The second instance, ten lines later, is structurally doing different work (Tom reconstructing the sensation to understand what Francois experienced across a much longer exposure), but lands at the same register. The reader's eye catches the repetition and the second moment loses some of the analytical force it needs to carry, arriving at a familiar sensation rather than a new inference.
+
+**Direction:** Line 130 does not need to restate the simile. The reader holds the sensation from line 120; "forty seconds of music moving through him" already performs the recall. Consider dropping the simile at line 130 — the sentence works without it, and the image remains active from ten lines prior. If the echo is wanted as a motif (the same cold water, now imagined flowing through Francois), consider modulating it on the return — changing the scale, the duration, or the temperature — so it registers as a development of the image rather than a restatement.
 
 ---
 
-**Quote:** *"He stopped in the middle of the corridor. Stood very still. Hands in his pockets. Staring at the grey nothing ahead of him."*
-Issue: Four fragments in a row, each parallel — but "Staring at the grey nothing ahead of him" is longer than the three before it and breathes slightly when it could stay held.
-Direction: Minor calibration note, not a priority flag.
+### DE-REF-2 — "Smelled like it / smelled like this" near-duplication (lines 40 / 80)
+
+> **Line 40:** *"He'd steered clear of anything that smelled like it for months."*
+>
+> **Line 80:** *"He'd been avoiding anything that smelled like this for months."*
+
+**Issue:** The two sentences share identical structure, identical rhythm, and near-identical phrasing. The substitutions — "steered clear of" for "avoiding," "like it" for "like this" — do not change the meaning, the register, or the emotional weight. "For months" is identical.
+
+**Why it matters:** Unlike the story's other echoes, which modulate on return, this near-duplication arrives unchanged. More pressingly: line 80 is a structurally significant moment — Tom standing over the boombox, naming his own avoidance at the exact instant he is about to violate it. That tension deserves a sentence with its own weight. Currently it borrows its phrasing from a less consequential moment forty lines earlier.
+
+**Direction:** Line 80 can lean on the reader's memory of line 40. The avoidance backstory is established; what line 80 needs to carry is the present weight of the decision. The "for months" clause at line 80 is now redundant — the reader already has it. Consider cutting or restructuring line 80 so the sentence arrives at the present moment: the recognition, the knowing, the hand that moves before the mind ratifies. "Steered clear of" is the colder, more deliberate verb — consider whether the stronger word belongs on the return. These are directions, not prescriptions; the author's instinct should govern the specific form.
 
 ---
 
-## 2. Passive Voice
-
-**Quote:** *"The room had been disturbed."* / *"The album had been classified."* / *"The boombox was in an evidence locker, sealed, tagged, going nowhere."*
-Issue: All passive constructions — actor withheld.
-Direction: All confirmed as deliberate choices. The faceless authority is more unsettling than a named one. No action needed.
+## Part 2 — Domain Findings
 
 ---
 
-## 3. Filter Words
-
-**Quote:** *"What he saw stopped him cold."*
-Issue: "What he saw" interposes a filter between reader and discovery. The sentence creates an expectation (a described object) that the next paragraph delays — it describes Francois's state, not the thing seen.
-Direction: Consider cutting the filter line and opening directly on the room; or keep it only if what Francois sees is then described directly.
+### Domain 1 — Sentence Structure and Flow
 
 ---
 
-**Quote:** *"Something that looked, just briefly, almost like terror."*
-Issue: "Looked... like" is a mild filter — the narrator labelling Francois's expression rather than rendering it. Here the obliqueness is appropriate to the story's ambiguity.
-Direction: A question rather than a hard flag. If the distance is deliberate (protecting the mystery), no action needed. If the emotion could be rendered more physiologically without naming it, it might land with more force.
+> **Lines 80 and 84:** *"Tom stood over it for a long moment."* [...] *"stood very still for a long moment."*
+
+**Issue:** "A long moment" appears twice within five lines — once in the approach to the boombox (line 80), once in the stillness after pressing stop (line 84).
+
+**Why it matters:** "A long moment" is borderline filler in any single use. Used twice in the same scene, it compounds: the two beats of stillness blur together when they should be distinct. The first is anticipation; the second is confirmation. They want different qualities.
+
+**Direction:** One instance should be cut or replaced. The second (line 84, after pressing stop — the confirmation moment) carries more weight and should probably survive. The first (line 80) could lose the phrase entirely: the stillness before a decision is already implied by "He turned to the boombox" and its altar-like description.
 
 ---
 
-**Quote:** *"hadn't seemed to notice"*
-Issue: "Seemed to notice" hedges what the reader has already directly witnessed — Francois said "Francois deserves that much" and manifestly did not notice.
-Direction: Consider "hadn't noticed" — the qualifier is not needed.
+> **Line 44:** *"chipping away — planting small seeds of doubt, little splinters of argument that lodged themselves just under the skin"*
+
+**Issue:** The dash introduces two separate images for the same action: "seeds of doubt" and "splinters of argument." Both are metaphors for incremental persuasion; they sit in the same clause competing for the same space.
+
+**Why it matters:** "Chipping away" is a strong verb that needs no illustration. "Small seeds of doubt" is a cliché; "splinters of argument that lodged themselves just under the skin" is fresher and more specific. Placing them together dilutes both.
+
+**Direction:** Choose one image, or cut the elaboration. If the elaboration is kept, "splinters of argument that lodged themselves just under the skin" earns its place; "small seeds of doubt" does not.
 
 ---
 
-## 4. Word Choice and Repetition
+> **Line 52:** *"Like a line from a song, almost — like it had a life before the conversation that needed it."*
 
-**Quote:** *"planting small seeds of doubt, little splinters of argument"*
-Issue: "Small" and "little" are redundant modifiers — seeds and splinters are already small by nature. The modifiers soften rather than intensify.
-Direction: Cut "small" and "little" — "seeds of doubt, splinters of argument" is stronger and preserves the accumulation rhythm.
+**Issue:** The final clause inverts at its end. "A life before the conversation that needed it" reads on first pass as "a life that the conversation needed" before the reader reconstructs the intended meaning: "a life that existed before the conversation required it." The syntax is recoverable but produces a half-second stumble.
 
----
+**Why it matters:** This is the sharpest observation Tom makes about Francois in the hiring scene — the lyric-bleed, felt before it can be named. The sentence should land cleanly.
 
-**Quote:** *"quiet and patient"* (boombox paragraph) and *"quiet, patient"* (corridor)
-Issue: The echo was confirmed as intentional in the prior report. Noting it as a standing confirmation the author should know is there.
-Direction: No action needed. The author should simply know close readers will catch it.
+**Direction:** Restructure the relative clause so the temporal relationship is unambiguous on first read. One direction: "a life that predated the conversation it arrived in." The exact form is for the author to find.
 
 ---
 
-**Quote:** *"a long moment"*
-Issue: Appears three times: Tom staring at the boombox, Tom looking at Francois after the confession, and the corridor. The construction recurs at each beat of stilled consideration.
-Why it matters: Three near-identical instances makes the phrase feel like a drafting habit rather than a tonal signature.
-Direction: Vary at least one instance. The boombox moment ("stood very still for a long moment") is the most important — protect that one and vary the others.
+### Domain 2 — Passive Voice
+
+No actionable passive voice issues found. The one notable construction — *"The album had been censored"* (line 178) — deliberately withholds its agent. Retain as is.
 
 ---
 
-**Quote:** *"something between a cry and an answer"*
-Issue: "An answer" is unexpected and genuinely striking — the scream as both question and answer. Strong word choice.
-Direction: No flag. A passage to protect.
+### Domain 3 — Filter Words
 
 ---
 
-## 5. Showing vs. Telling
+> **Lines 128–130:** Five instances of "He thought about" across two consecutive paragraphs.
 
-**Quote:** *"Tom was on his feet before he knew he was standing."*
-Issue: Excellent — the action outrunning the will, rendered physically.
-Direction: No flag. Do not qualify or supplement this line.
+**Issue / Question:** The first four are anaphoric — the deduction accumulating piece by piece — and function well as a structural device. The fifth ("He thought about what that same thing... might do to the architecture of a mind") continues the anaphora but is also the sentence carrying DE-REF-1. Raised as a question: if DE-REF-1 is addressed and line 130 shortened, the fifth instance will be lighter and the accumulation may feel resolved naturally. Revisit after addressing DE-REF-1.
 
 ---
 
-**Quote:** *"The kind of roar that comes from a man who has spent three days turning over rocks and doesn't like a single thing he found underneath them."*
-Issue: This explains the emotional source of the roar after the action has already shown it. The capitalised dialogue and the line above have done the work.
-Why it matters: The explanation arrives after the fact and slightly diminishes what it's explaining.
-Direction: Consider cutting the explanatory sentence and trusting the roar. The source of the fury has been established across three days of narrative.
+### Domain 4 — Word Choice and Repetition
+
+*(DE-REF-1 and DE-REF-2 handled in Part 1. Additional findings:)*
 
 ---
 
-**Quote:** *"Impossible to know. That was the point."*
-Issue: Both sentences tell the reader the theme of the preceding passage. "Impossible to know" is redundant — the final-window passage has already made this so. "That was the point" is the story explaining its own ambiguity.
-Why it matters: The ambiguity is well-constructed; spelling it out risks condescension toward a reader who has clearly been following closely.
-Direction: Consider cutting both sentences. The preceding paragraph ("The corruption, reveling to the end. Or a man who had found the only door left open to him...") closes on its own contradiction and the reader can be left there.
+> **Line 80:** *"He knew what the boombox was. He knew what the boombox had done. He knew what pressing play would mean."*
+
+**Issue / Question:** "Boombox" appears in adjacent sentences of the same anaphoric triple. The triple "He knew" is likely intentional emphasis. But "boombox" repeated in sentences 1 and 2 of the same construction is unnecessary — the second sentence already has an established subject.
+
+**Direction:** Raising as a question. If the anaphora is intentional, substituting a pronoun in the second instance ("He knew what it had done") preserves the rhythm while removing the word echo. Author should confirm intent.
 
 ---
 
-**Quote:** *"Something moved behind Francois's eyes — deep and complicated, like a light seen from a very long way away."*
-Issue: "Deep and complicated" names the quality of the thing rather than rendering it. The simile that follows is doing the actual work and is strong. The two adjectives preceding it are surplus.
-Direction: Cut "deep and complicated" and open directly on the simile: "Something moved behind Francois's eyes — like a light seen from a very long way away."
+### Domain 5 — Showing vs. Telling
 
 ---
 
-## 6. Dialogue Mechanics
+> **Line 162:** *"Then something shifted in him — not grief, not defiance. Something closer to relief. He almost laughed."*
 
-**Quote:** *"'We'll file a report,' he said, in the tone of a man who was already thinking about lunch."*
-Issue: The image of the man thinking about lunch is strong, but reaches it slowly.
-Direction: Minor. Consider: "in the tone of a man already thinking about lunch." Cutting "who was" saves two syllables.
+**Issue:** "Something closer to relief" names the emotion directly. The negatives ("not grief, not defiance") are doing good showing-by-elimination work. "He almost laughed" on the very next line already renders the relief in the body.
 
----
-
-**Quote:** *"'I strangled her. A little death, no call and no warning.'"*
-Issue: "No call and no warning" is a U2 lyric (*I Will Follow*), which would make it lyric-bleed. However, this is the only confession-scene lyric instance that passes without Tom registering any wrongness — the other lyric-bleeds are identified either by Tom's ear or in retrospect.
-Direction: A question for the author: is this deliberate lyric-bleed in the confession? If so, should it faintly register as a wrongness to maintain consistency with the mechanic? If it's incidental (the phrase exists in common idiom), no action needed.
+**Direction:** Consider cutting "Something closer to relief." If "not grief, not defiance. He almost laughed." carries the moment without the named bridge, the telling is redundant.
 
 ---
 
-**Quote:** *"'Do you ever wonder,' he said, almost to himself..."*
-Issue: "Almost to himself" names the emotional quality of the delivery rather than showing it. In a story that renders most emotional beats physically, this is a mild inconsistency.
-Direction: Consider replacing the tag qualifier with an action beat that conveys the inwardness without naming it.
+### Domain 6 — Dialogue Mechanics
+
+No issues found. Clean throughout.
 
 ---
 
-**Quote:** *"He paused. Seemed to lose the thread for a moment. Then found it again, or found a different one."*
-Issue: "Seemed to lose the thread" — filter construction, naming Francois's apparent cognitive state. Given that this moment is the uncorrupted fragment surfacing and being suppressed mid-sentence, the clinical observation underplays it.
-Direction: Consider rendering this as a visible pause or physical register rather than an inference about Francois's thought process. What does Francois do in that gap?
+### Domain 7 — Pacing
 
 ---
 
-## 7. Pacing at the Sentence and Paragraph Level
+> **Line 38 (the city-whispers paragraph)**
 
-**Quote:** *"What he didn't say — what he wouldn't say to a client, or a stranger, or frankly anyone — was that he'd been hearing things for the better part of a year..."* (the full backstory paragraph)
-Issue: This flag was raised in the prior report. The current draft has a mid-paragraph interrupting beat added (Tom glancing at Francois). The beat helps but arrives late in the paragraph; the block remains the story's most infodump-adjacent passage.
-Direction: The addition is an improvement. If further revision is wanted, consider whether the glance-at-Francois beat could arrive slightly earlier — midway through rather than near the end — to break the interior sooner.
+**Note / Question:** Approximately 130 words without a break. The run-on quality may be intentional — the information is withheld, held in a long breath. Raised as a question rather than a flag. If any air is wanted, the seam between *"The ones who couldn't talk anymore were the ones that kept Tom up at night"* and the glance at Francois is the natural place for it. Author's call; the paragraph works as written.
 
 ---
 
-**Quote:** Boombox sequence: *"He started with the boombox... He listened for forty seconds... So it was true... He didn't press play again."*
-Issue: The best-paced sequence in the story. Five short paragraphs, each doing one thing.
-Direction: No flag. A passage to protect and hold as a model.
+### Domain 8 — Voice Consistency
 
 ---
 
-**Quote:** *"He'd thought it then. He thought it again now: a man in genuine shock didn't argue that well. A man in genuine shock didn't land his points that cleanly."*
-Issue: The framing ("He'd thought it then. He thought it again now") acknowledges the repetition of the "man in genuine shock" construction from the hiring scene — but acknowledging a repetition is not the same as resolving it. The two instances remain structurally identical.
-Why it matters: If the second instance is going to repeat the first verbatim, the framing alone may not be enough to make it feel earned rather than mechanical.
-Direction: Either vary the second instance so it adds something — one new detail, one extension — or lean fully into the verbatim repetition as Tom's circular thinking and mark it more explicitly as compulsion rather than recollection.
+> **Line 148:** *"a tangle of flannel and stripes and raw desperation"*
+
+**Issue / Question:** "Raw desperation" is a register shift within the fight scene, which is managing the tonal balance between noir and absurdism. Not necessarily wrong — the scene is both absurd and genuinely frightening, and "raw desperation" reminds the reader that real stakes are underneath the comedy. But if the intent is to keep the tonal balance tilted toward dry control, "raw" carries enough emotional elevation to tip that balance.
+
+**Direction:** Raising as a question rather than a flag. The author should confirm whether "raw desperation" is the intended register, or whether the fight's closing energy wants a drier word.
 
 ---
 
-**Quote:** *"The strap caught him short; the thin tube taped to the crook of his elbow shifted slightly with the motion."*
-Issue: "Shifted slightly" is the clinical detail that reveals the execution setting. "Slightly" weakens it.
-Direction: Cut "slightly." The tube shifts or it doesn't; the understatement of "shifted" alone is more clinical.
+## Continuity Note
 
----
+> **Line 6:** *"Something was* deeply, fundamentally wrong..."*
 
-**Quote:** *"The question arrived slowly, the way a cold front arrives. Not a dramatic thing. Just a change in the air."*
-Issue: "Not a dramatic thing. Just a change in the air." explains the simile that precedes it. The simile didn't need explaining — all three attempts are making the same point.
-Direction: Cut either the simile or the two fragments, not both. Each is complete on its own.
-
----
-
-## 8. Voice Consistency
-
-**Quote:** *"A darker one. One that had stared into the abyss long enough that the abyss had started leaving him voicemails."*
-Issue: Deliberate register break — the only broad laugh in the story. Earned and effective.
-Direction: No flag. A passage to protect.
-
----
-
-**Quote:** *"by its weight, by its edge, by the slight wrongness of it against your fingers"*
-Issue: The single second-person "your fingers" remains the only direct reader address in the story. The prior report confirmed this as a deliberate singular touch. Noting it as standing confirmed.
-Direction: No action needed.
-
----
-
-**Quote:** *"'Francois deserves that much.'"* (the third-person slip)
-Issue: Confirmed deliberate — a planted foreshadowing element. Works invisibly on first read; pays off on second.
-Direction: No flag. Do not qualify, explain, or remark on this line in narration.
+The session handoff (CLAUDE.md, "Line-edit pass 2026-02-27") records that the first line-edit reduced "deeply, fundamentally wrong" to "fundamentally wrong." The current draft retains "deeply, fundamentally wrong." This may mean the change was not applied, or was rolled back. If the retention is intentional, no action needed. If it is an oversight from the prior pass, the fix is deletion of "deeply, " from line 6. Flagging for author confirmation only.
 
 ---
 
 ## Overall Assessment
 
-The revised draft is tighter than its predecessor across almost every area the prior report flagged. The boombox sequence remains the story's best-paced passage; the corridor sequence earns its length; the voice is controlled throughout.
+*Forty Seconds* arrives at this second pass in strong condition. **The two DE referrals are the priorities:** the cold water simile at line 130 is the more impactful — it lands inside the story's most complex paragraph, and the repetition slightly deadens a moment that should resonate fully. The "smelled like it/this" near-duplication at line 80 is the more straightforwardly correctable — line 80 needs its own weight, and the "for months" backstory is already in the reader's possession from line 40. Beyond those two: the doubled "a long moment" in the boombox scene (lines 80 and 84) is a small, clean fix with a notable effect on a pivotal scene. The showing/telling flag at line 162 is mild and may resolve itself if the lyric-bleed that follows is felt to carry the moment.
 
-**Three most impactful areas to address:** First, the infodump paragraph introducing Tom's history with the corruption now has an interrupting beat — but the beat arrives late in the paragraph and the block is still the story's primary pacing resistance point. Second, "Impossible to know. That was the point." explains the story's central ambiguity to a reader who has already understood it; cutting both sentences would leave the observation window's preceding paragraph to close on its own contradiction. Third, "deep and complicated, like a light seen from a very long way away" — the two adjectives are telling what the simile is showing; cutting them would let the simile arrive clean.
+---
 
-**Minor but worth confirming:** Whether "no call and no warning" in the confession is intended lyric-bleed; whether the "man in genuine shock" repetition in the corridor should be varied or more explicitly marked as circular compulsion; and whether "The shape of the thing" as the third fragment in the fist-to-chin sequence is doing as much work as the two before it.
+## Summary of Priorities
+
+**1. Cold water simile — DE-REF-1 (lines 120 / 130) — highest priority.**
+Drop or modulate the simile at line 130. The image is already in the room from line 120; the second instance should lean on it, not restate it.
+
+**2. "Smelled like it/this" near-duplication — DE-REF-2 (lines 40 / 80) — high priority.**
+Line 80 is a structurally important moment borrowing its phrasing from a less consequential one. Cut "for months" at minimum; consider restructuring around the present-tense weight of the decision.
+
+**3. "A long moment" repeated within five lines (lines 80 / 84) — medium priority.**
+Cut or replace the first instance (line 80). The second (line 84, confirmation) is the one worth keeping.
+
+**4. "Chipping away" double image (line 44) — medium priority.**
+Cut "small seeds of doubt." Keep "splinters of argument that lodged themselves just under the skin."
+
+**5. "Something closer to relief" — showing/telling (line 162) — low-to-medium priority.**
+"He almost laughed" already does this work. Consider cutting the named bridge.
