@@ -34,8 +34,6 @@
 #align(center + horizon)[
   #v(1fr)
   #text(size: 42pt, weight: "bold", tracking: 1pt)[Forty Seconds]
-  #v(0.4em)
-  #text(size: 20pt, style: "italic", weight: "regular")[A Detective Noir]
   #v(3fr)
   #text(size: 13pt)[Thomas Butler]
   #v(0.6em)

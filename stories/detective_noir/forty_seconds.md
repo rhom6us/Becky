@@ -1,5 +1,4 @@
 # **Forty Seconds**
-### *A Detective Noir*
 
 ---
 
