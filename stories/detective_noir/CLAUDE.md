@@ -88,7 +88,7 @@ These were deliberately planted and should not be removed or explained away:
 ## Tone and Style Notes
 
 - Classic detective noir. Dry, spare, slightly sardonic narration.
-- Photo cues are formatted as: `> 📸 *[Photo — description]*`
+- Images use standard markdown: `![alt text](../../images/600-ice-4800X.jpg)`
 - The execution scene is never named as such. The reader infers it entirely.
 - The story ends with four italicised lines and the sign-off *"Let this story serve as a warning."*
 - The zebra remaining on Tom's head throughout the fight is a running gag that should be preserved.
@@ -200,9 +200,7 @@ The `-f markdown-yaml_metadata_block` flag is required — the story's `---` sec
 - `<i>` for markdown italics (`*...*`), including italicised dialogue — preserve the `"..."` quote marks as literal characters
 - `<figure><img src="..." alt="...">` for images — no captions
 - Structure: `<article>` wraps everything; `<header>` for title/subtitle; `<section>` per chapter; `<hr>` for `---` section breaks; `<footer>` for credits
-- Footnote refs inline: `<sup><a href="#fn-name">N</a></sup>`
-- Footnote definitions: `<section id="footnotes"><ol>` with `<li id="fn-name">Song Name</li>`
-- Footnotes numbered by order of first appearance in text (1=If God Will Send His Angels, 2=Staring at the Sun, 3=Wake Up Dead Man, 4=Gone, 5=Last Night on Earth)
+- **No lyric refs** — do not include footnote/superscript references for lyric bleeds, and do not include a Sources section
 
 ---
 
@@ -211,12 +209,10 @@ The `-f markdown-yaml_metadata_block` flag is required — the story's `---` sec
 | File | Contents |
 |---|---|
 | `forty_seconds.md` | Current canonical story — use this |
-| `forty_seconds.html` | Semantic HTML version (no CSS) |
+| `forty_seconds.html` | Semantic HTML version (no CSS) — generated from `.md`, gitignored |
 | `CLAUDE.md` | This file — session handoff |
 | `story-template.typ` | Typst template for PDF generation |
-| `forty_seconds.pdf` | Most recent generated PDF |
-| `reports/line-edit-report.md` | First line-edit report (fully actioned — strikethroughs show completed items) |
-| `reports/line-edit-report-2.md` | Second line-edit report (fresh pass on revised draft) |
-| `reports/dev-edit-report.md` | Developmental edit report (structural/character/arc level) |
-| `reports/action-items.md` | Consolidated actionable issues from both agent reports, checkbox format |
+| `back_cover.md` | Back cover copy |
+| `dead_on_arrival_conversation.md` | Early collaborative conversation that produced the story |
+| `cover/` | Cover art assets |
 | `lyrics/` | Full lyrics for all 12 tracks on *Pop* (U2, 1997) — reference for lyric-bleed mechanic |
