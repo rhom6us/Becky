@@ -192,12 +192,12 @@ The `-f markdown-yaml_metadata_block` flag is required — the story's `---` sec
 
 ## HTML Generation
 
+**`forty_seconds.html` is generated from `forty_seconds.md`. Never edit the HTML file directly — all story edits go to the `.md` file. Only regenerate the HTML after the `.md` is updated.**
+
 `forty_seconds.html` is a semantic HTML version of the story. Specs:
 
 - **Semantic HTML only — no CSS or styles anywhere**
-- `<q>` for dialogue: strip the explicit `"..."` quote marks from content; the browser provides them
-- `<i>` for markdown italics (`*...*`) that are not dialogue
-- `<i><q>...</q></i>` for italicised dialogue (both tags)
+- `<i>` for markdown italics (`*...*`), including italicised dialogue — preserve the `"..."` quote marks as literal characters
 - `<figure><img src="..." alt="...">` for images — no captions
 - Structure: `<article>` wraps everything; `<header>` for title/subtitle; `<section>` per chapter; `<hr>` for `---` section breaks; `<footer>` for credits
 - Footnote refs inline: `<sup><a href="#fn-name">N</a></sup>`

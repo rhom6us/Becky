@@ -100,6 +100,8 @@ The conclusion was impossible. Tom ran the logic again. And again. Same answer, 
 
 He went back to Francois.
 
+---
+
 The interrogation was quiet at first. Tom laid out what he knew, piece by piece, watching Francois's face for the cracks. They came slowly, then all at once. Francois looked out the window at the dark nothing beyond the glass.
 
 Then his shoulders dropped.
