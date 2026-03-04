@@ -11,8 +11,13 @@
 #set par(leading: 0.9em, spacing: 1.4em)
 #set image(width: 100%)
 
-// Suppress headings — cover page handles title/subtitle
-#show heading: it => []
+// Suppress level-1 headings (title); render level-2 as centered italic chapter headers
+#show heading.where(level: 1): it => []
+#show heading.where(level: 2): it => [
+  #v(1.2em)
+  #align(center)[#text(size: 11pt, style: "italic", weight: "regular")[#it.body]]
+  #v(0.8em)
+]
 
 // Suppress figure captions — show image only
 #show figure.where(kind: image): it => {
@@ -35,7 +40,11 @@
   #v(1fr)
   #text(size: 42pt, weight: "bold", tracking: 1pt)[Forty Seconds]
   #v(3fr)
-  #text(size: 13pt)[Thomas Butler]
+  #text(size: 11pt)[Written by Thomas Butler]
+  #v(0.3em)
+  #text(size: 11pt)[Pictures by Rebecca Stewart]
+  #v(0.3em)
+  #text(size: 11pt)[Edited by Ruth-Ann Butler]
   #v(0.6em)
   #text(size: 10pt, fill: luma(120))[© Thomas Butler. All rights reserved.]
   #v(1fr)

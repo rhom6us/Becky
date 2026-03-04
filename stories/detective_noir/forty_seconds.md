@@ -1,8 +1,14 @@
 # **Forty Seconds**
 
----
+*Written by Thomas Butler*
 
-It was a Monday like any Monday. Grey sky, grey city, grey coffee going cold on the counter. Francois had been away for the weekend — business, he'd say later, though nobody asked twice. He stepped inside. He looked at the door to the next room. Something was *deeply, fundamentally wrong* in a way that a man feels in his chest before his brain has caught up. Francois's legs went out from under him. He grabbed the nearest bedpost and held on like a man clinging to a life raft in a black ocean.
+*Pictures by Rebecca Stewart*
+
+*Edited by Ruth-Ann Butler*
+
+## I
+
+It was a Monday like any Monday. 1997. Grey sky, grey city, grey coffee going cold on the counter. Francois had been away for the weekend — business, he'd say later, though nobody asked twice. He stepped inside. He looked at the door to the next room. Something was *deeply, fundamentally wrong* in a way that a man feels in his chest before his brain has caught up. Francois's legs went out from under him. He grabbed the nearest bedpost and held on like a man clinging to a life raft in a black ocean.
 
 ![Stripes clinging to the bedpost](../../images/600-ice-48005.jpg)
 
@@ -28,7 +34,7 @@ There was only one man.
 
 PI Tom.
 
----
+## II
 
 Tom heard him out without expression. Then he said no.
 
@@ -62,9 +68,7 @@ Finally, something gave.
 
 *"Fine,"* he said. *"But I do this my way."*
 
-He would spend a long time afterwards wondering what exactly had moved him. He never found a satisfying answer.
-
----
+## III
 
 Tom worked the case for three days straight. He followed every thread until the threads led somewhere ugly. And they always led somewhere ugly.
 
@@ -142,7 +146,7 @@ The scissors.
 
 ![Stripes wielding scissors](../../images/600-ice-48003.jpg)
 
----
+## IV
 
 Tom moved fast. Faster than a man with a zebra on his head had any right to. They collided — Francois lunging, Tom blocking, the scissors clattering sideways as they grappled across the room in a tangle of flannel and stripes and raw desperation.
 
@@ -168,7 +172,7 @@ Something moved behind Francois's eyes — like a light seen from a very long wa
 
 Then it was gone.
 
----
+## V
 
 Some time later, Francois lay on a table, strapped at the wrists and ankles.
 
@@ -218,7 +222,7 @@ Behind him, the observation window went dark.
 
 ![Stripes under the blanket](../../images/600-ice-48000.jpg)
 
----
+## VI
 
 *Vivian Plume was buried on a Wednesday. It rained.*
 
@@ -228,15 +232,9 @@ Behind him, the observation window went dark.
 
 **— FIN —**
 
----
+## Sources
 
-*Written by Thomas Butler*
-
-*Pictures by Rebecca Stewart*
-
-*Edited by Ruth-Ann Butler*
-
----
+*All songs from* Pop *by U2 (1997).*
 
 [^angels]: If God Will Send His Angels
 [^staring]: Staring at the Sun
