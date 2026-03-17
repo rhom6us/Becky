@@ -3,3 +3,4 @@ stories/detective_noir/forty_seconds.html
 .vscode/settings.json
 .claude/worktrees/
 **/~*.docx
+**/~*.tmp
