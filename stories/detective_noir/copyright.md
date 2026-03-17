@@ -1,0 +1,30 @@
+FORTY SECONDS
+
+Copyright &copy; 2025 Thomas Butler. All rights reserved.
+
+Published by Disposable Camera Press, a division of We'll-Get-To-It-Eventually Publishing Group, LLC.
+
+No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embedded in critical reviews and certain other noncommercial uses permitted by copyright law. Also except by Becky, who has been waiting twenty-eight years and has earned the right to do whatever she wants with it.
+
+This is a work of fiction. Any resemblance to actual persons, living or dead, is purely coincidental. Any resemblance to actual stuffed animals, living or dead, is less coincidental. The zebra knows what he did.
+
+No stuffed animals were harmed in the making of this book. One stuffed ostrich was harmed in the making of this book. We are sorry about Vivian.
+
+The U2 album *Pop* (1997) is referenced in this story. The author wishes to clarify that listening to it does not, to his knowledge, cause corruption, madness, or murder. It does, however, cause you to have opinions about U2, which is arguably worse.
+
+Originally commissioned: Summer 1997
+Delivery date: 2025
+The author maintains this is still within a reasonable timeframe.
+
+First Edition, 2025
+
+ISBN 978-0-000000-00-0 (paperback)
+ISBN 978-0-000000-00-1 (disposable camera, 27 exposures used, 0 remaining)
+
+Library of Congress Cataloging-in-Publication Data has not been applied for because the Library of Congress has enough problems.
+
+Printed in the United States of America on paper that, unlike the promise that produced this book, did not take three decades to materialize.
+
+10 9 8 7 6 5 4 3 2 1
+
+(The "1" is doing a lot of heavy lifting.)
