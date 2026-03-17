@@ -46,7 +46,7 @@ He'd steered clear of anything that smelled like it for months. And something ab
 
 So he said no.
 
-But Francois was persistent. He leaned in, voice low and urgent, chipping away — planting small seeds of doubt, little splinters of argument that lodged themselves just under the skin — *What if the police botch it? What if justice is never served? Where is the hope, and where is the faith?*[^angels] *What if the truth just disappears, like she did?*
+But Francois was persistent. He leaned in, voice low and urgent, chipping away — planting small seeds of doubt, little splinters of argument that lodged themselves just under the skin — "What if the police botch it? What if justice is never served? Where is the hope, and where is the faith? What if the truth just disappears, like she did?"[^angels]
 
 He stopped. "Don't try too hard to think," he said. "Don't —"[^staring] He paused. Seemed to lose it briefly. "If there's an order in all of this disorder — I just need to know what it is."[^wake]
 

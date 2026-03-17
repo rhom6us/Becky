@@ -200,7 +200,7 @@ The `-f markdown-yaml_metadata_block` flag is required — the story's `---` sec
 - `<i>` for markdown italics (`*...*`), including italicised dialogue — preserve the `"..."` quote marks as literal characters
 - `<figure><img src="..." alt="...">` for images — no captions
 - Structure: `<article>` wraps everything; `<header>` for title/subtitle; `<section>` per chapter; `<hr>` for `---` section breaks; `<footer>` for credits
-- **No lyric refs** — do not include footnote/superscript references for lyric bleeds, and do not include a Sources section
+- **No refs or Sources** — strip all `[^footnote]` markers; do not include a Sources section. The HTML never has footnote references of any kind.
 
 ---
 
