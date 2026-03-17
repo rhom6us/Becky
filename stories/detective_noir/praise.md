@@ -1,0 +1,34 @@
+## Advance Praise for *Forty Seconds*
+
+"A haunting meditation on corruption, identity, and the consequences of pressing play. Also, a zebra strangles an ostrich. I have never read anything like this, and I mean that in every possible sense."
+— *The New York Times Book Review*
+
+"Butler delivers a masterclass in noir tension. The fact that every character is a stuffed animal somehow makes it more unsettling, not less."
+— *Kirkus Reviews*
+
+"Forty Seconds asks the question every great detective novel must: who did it, and why? It then asks a second question, which is: why is the zebra still on his head? That question is never answered. I docked a star."
+— *Publishers Weekly*
+
+"I was asked to take a look at this. Just a look. That was six drafts ago."
+— *The Author's Mother*
+
+"Gripping. Taut. Unflinching. These are all words that describe books that are not about stuffed animals photographed with a disposable camera in 1997, and yet here we are."
+— *The Washington Post*
+
+"The most anticipated release of the summer. And the fall. And the winter. And twenty-seven more years after that."
+— *Entertainment Weekly*
+
+"I did ask for this. I just didn't think it would take twenty-eight years."
+— *Becky*
+
+"Butler has crafted a villain so compelling, so psychologically complex, that you forget he is fourteen inches tall and filled with polyester fiberfill. The twist at the end left me staring at my own stuffed animals with suspicion."
+— *The Guardian*
+
+"Do NOT press play."
+— *Vivian Plume*
+
+"A searing work of noir fiction that takes the genre's oldest convention — the case that walks through the door — and makes it literal, in the sense that the case is a stuffed zebra and it does, technically, walk through a door. Essential reading."
+— *The Atlantic*
+
+"I'd do anything — *anything* — to read this book again."
+— *Francois*
