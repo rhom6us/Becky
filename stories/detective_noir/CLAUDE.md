@@ -1,15 +1,63 @@
 # Forty Seconds — Session Handoff Document
 
 ## What This Is
-A short story written in detective noir style, built collaboratively over a long session. The story uses a series of scanned family photos from the 90s featuring a stuffed zebra toy, a stuffed ostrich toy, and a boy. The photos have been mapped to specific moments in the narrative.
+A short story written in detective noir style, built collaboratively over multiple sessions. The story uses 8 scanned family photos from 1997 featuring a stuffed zebra toy, a stuffed ostrich toy, and a boy. The photos have been mapped to specific moments in the narrative.
 
-The canonical latest version of the story is in `forty_seconds.md`.
+The canonical latest version of the story is in `11.forty_seconds.md`.
+
+---
+
+## File Index
+
+All book content files are prefixed with a page number indicating assembly order. Odd numbers = recto (right of fold). Gaps indicate blank pages.
+
+| File | Contents |
+|---|---|
+| `01.praise.md` | Advance praise / fake blurbs |
+| `03.half_title.md` | Title only — first page reader sees |
+| `04.also_by.md` | Fake bibliography (verso of half title) |
+| `05.title_page.md` | Title, author, photographer, publisher |
+| `06.copyright.md` | Copyright page (verso of title page) |
+| `07.dedication.md` | *For Becky, obviously.* |
+| `09.epigraph.md` | Evidence locker tag (in-universe) |
+| `11.forty_seconds.md` | The story |
+| `91.acknowledgements.md` | Back matter — Mom & Becky |
+| `93.permissions.md` | Lyric credits with scene locations and page placeholders |
+| `95.about_the_author.md` | Author bio with 1997 photo (48004) |
+| `97.colophon.md` | Production details |
+| `99.back_cover.md` | Back cover copy |
+| `styles.md` | Full typography, margins, and Word style specs |
+| `CLAUDE.md` | This file — session handoff |
+| `story-template.typ` | Typst template for PDF generation |
+| `dead_on_arrival_conversation.md` | Early collaborative conversation that produced the story |
+| `cover/` | Cover art assets |
+| `lyrics/` | Full lyrics for all 12 tracks on *Pop* (U2, 1997) — reference for lyric-bleed mechanic |
+
+---
+
+## Physical Specs
+
+- **Trim size:** 5.5 × 8.5 inches (letter folded in half)
+- **Binding:** Saddle stitch two-up, folded, glued
+- **Content paper:** 24lb bond
+- **Cover:** Photo paper, folded and wrapped around content block; outside edge trimmed
+- **Estimated page count:** ~44 pages (22 sheets)
+- **Full typography specs:** `styles.md`
+
+---
+
+## Credits
+
+- **Written by:** Thomas Butler
+- **Photographs by:** Rebecca Stewart (Becky), 1997, disposable camera
+- **Edited by:** Ruth-Ann Butler (the author's mother, who insists she was asked to edit, not "just take a look")
+- **Publisher:** Disposable Camera Press (fictional)
 
 ---
 
 ## Image Files
 
-The source images are located at `../../images/` relative to the story file. They are 8 JPG files named `600-ice-48000.jpg` through `600-ice-48007.jpg`. Always use this exact naming convention when referencing images.
+The source images are located at `../../images/` relative to the story file. They are 8 JPG files named `600-ice-48000.jpg` through `600-ice-48007.jpg`.
 
 | File | Description | Story Role |
 |---|---|---|
@@ -17,7 +65,7 @@ The source images are located at `../../images/` relative to the story file. The
 | 600-ice-48001.jpg | Boy mid-scream, Stripes on his head | Tom during the scissors fight |
 | 600-ice-48002.jpg | Stripes spread-eagle on a boombox, U2 CD visible | The corrupting album is discovered |
 | 600-ice-48003.jpg | Stripes wielding large scissors | Francois attacks Tom |
-| 600-ice-48004.jpg | Boy with fist to chin, thoughtful expression, Stripes on head | Tom reluctantly agrees to take the case |
+| 600-ice-48004.jpg | Boy with fist to chin, thoughtful expression, Stripes on head | Tom reluctantly agrees to take the case; also used in About the Author |
 | 600-ice-48005.jpg | Stripes clinging to a bedpost | Francois clings to furniture when police arrive |
 | 600-ice-48006.jpg | Vivian Plume (ostrich) face down on carpet | Vivian Plume found dead |
 | 600-ice-48007.jpg | Stripes's hands around Vivian Plume's throat | The strangling — shown at moment of confession |
@@ -28,7 +76,7 @@ The source images are located at `../../images/` relative to the story file. The
 
 **Francois** — The protagonist/antagonist. A stuffed zebra toy (called "Stripes" in the funny version, "Francois" in the noir). Listened to a corrupting album, murdered Vivian Plume, then hired Tom to investigate. His mind is split — one corrupted part, one last uncorrupted fragment that engineered its own capture.
 
-**Vivian Plume** — A stuffed ostrich in a teal collar. The victim. Female. Was present when Francois first listened to the album and witnessed what it did to him. The corrupted Francois decided she knew too much and strangled her. She was *not* floor-dwelling before her murder — that detail was corrected early in the session.
+**Vivian Plume** — A stuffed ostrich in a teal collar. The victim. Female. Was present when Francois first listened to the album and witnessed what it did to him. The corrupted Francois decided she knew too much and strangled her. She was *not* floor-dwelling before her murder.
 
 **PI Tom** — The boy in the photos. Wears a yellow flannel shirt. A weathered, reluctant private detective with twenty years of instinct. Ultimately solves the case.
 
@@ -60,9 +108,7 @@ This implies Tom may have been exposed to the corruption earlier than he ever re
 
 ---
 
-## Foreshadowing Elements (Already In The Story)
-
-These were deliberately planted and should not be removed or explained away:
+## Foreshadowing Elements (Do Not Remove)
 
 1. **The flash of terror** — When Francois is pleading with Tom in the office, his face briefly shows something that looks like terror before snapping back. This is the uncorrupted fragment surfacing momentarily.
 
@@ -76,12 +122,13 @@ These were deliberately planted and should not be removed or explained away:
 
 - **Vivian Plume was not floor-dwelling before her murder.** Do not describe her that way in the lead-up to the killing.
 - **The stuffed sheep (Margaret)** appeared in early drafts and was removed. She is gone. Do not reintroduce her.
-- **Tom does not have an all-caps outburst after the confession.** That scene was revised. Tom's response to *"I strangled her"* is a quiet *"Why?"* He already knows the answer. The story resumes from "He already knew, of course."
+- **Tom does not have an all-caps outburst after the confession.** Tom's response to *"I strangled her"* is a quiet *"Why?"* The story resumes from "He already knew, of course."
 - **Two "dark nothing" window lines** were fixed — the confession scene uses *"the dark nothing beyond the glass"* and the hiring question scene uses *"stared through it at nothing in particular."*
-- **The two alarm systems** in Tom's corridor reflection are named explicitly: the instinct and the rumors. Not just "two alarm systems."
-- **Francois does not explain his own split mind.** Tom deduces it. Francois's only response to being correctly named is the lyric bleed: *"I'm already gone. Felt that way all along."* Tom notes it was neither a denial nor a confirmation. He says nothing else.
-- **The scissors attack interrupts the deduction, not follows it.** Francois reads Tom's face as Tom completes the deduction internally, and moves before Tom can speak. Tom delivers *"You couldn't confess"* after the fight, crouched beside Francois (not "straightening up" — his legs gave out).
-- **"Something moved behind Francois's eyes"** is the closing beat of the interrogation scene — it follows the "I'm already gone" exchange, then the section break leads to the observation window. It is not a prelude to the scissors attack.
+- **The two alarm systems** in Tom's corridor reflection are named explicitly: the instinct and the rumors.
+- **Francois does not explain his own split mind.** Tom deduces it. Francois's only response is the lyric bleed: *"I'm already gone. Felt that way all along."*
+- **The scissors attack interrupts the deduction, not follows it.** Francois reads Tom's face as Tom completes the deduction internally, and moves before Tom can speak. Tom delivers *"You couldn't confess"* after the fight, crouched beside Francois.
+- **"Something moved behind Francois's eyes"** is the closing beat of the interrogation scene, not a prelude to the scissors attack.
+- **The "Do you ever wonder" paragraph no longer exists.** Do not reinstate it.
 
 ---
 
@@ -92,91 +139,36 @@ These were deliberately planted and should not be removed or explained away:
 - The execution scene is never named as such. The reader infers it entirely.
 - The story ends with four italicised lines and the sign-off *"Let this story serve as a warning."*
 - The zebra remaining on Tom's head throughout the fight is a running gag that should be preserved.
+- Francois's final observation window speech contains no lyric. This protects the dual-interpretation. Do not insert a lyric here.
 
 ---
 
-## Recent Changes
+## Lyric Bleed Mechanic — COMPLETE
 
-**Investigation scene expanded (2026-03-02)**
-The summary investigation section has been replaced with a dramatised beat. Tom finds a folded list in Vivian's desk drawer — words she'd written down because Francois had started saying things that frightened her. Most entries he can't place. One — *"You know you're chewing bubble gum"* (Discothèque, F0) — is underlined twice with a question mark. This is what sends him to the boombox. The press-play moment is also revised: Tom's hand moves before he's decided (Option F — body acting before mind ratifies). This makes the boombox discovery feel earned and gives Vivian specificity and agency.
-
-**Lyric bleed overhaul and prose revisions (2026-03-01)**
-Album corrected from *Achtung Baby* to *Pop* (1997). All Achtung Baby lyrics files replaced with Pop lyrics. All lyric-bleed positions redesigned from scratch using Pop source material. Full option history in `reports/lyric-options.md`. Key structural changes in this session:
-- Fight scene ending added: Francois's legs give out (callback to the bedpost moment in the opening), Tom eases him down and crouches beside him before delivering the deduction line.
-- Terror-flash paragraph tightened: "his face went somewhere else entirely" → "something crossed his face" — distinguishes it from the speech-fragmentation beat immediately before it.
-- "Do you ever wonder" paragraph removed entirely. Post-fight response is now the Gone lyric bleed: *"I'm already gone. Felt that way all along."*
-- F2 replaced: three-lyric combined speech → shorter fragmented two-lyric version (Staring at the Sun + Wake Up Dead Man). Francois loses the thread mid-sentence.
-- F3 lyric ("Chance is a kind of religion") removed. Line now reads plainly.
-- Tom's T1 lyric bleed repositioned earlier in the corridor section (after "two alarm systems" sentence) so the recognition arrives with more delay.
-- Persuasion paragraph split into two and tightened.
-
-**Line-edit pass (2026-02-27)**
-Full line-edit applied to the current draft. Key changes: cut redundant "Something was wrong" opener; reduced "deeply, fundamentally wrong" to "fundamentally wrong"; "sweet, harmless, innocent Vivian" → "innocent Vivian"; broke "He thought about" anaphora pattern; resolved "raw" repetition between Francois and Tom; fixed "make it make sense" stutter; anchored italicised persuasion questions with a dash; broke infodump paragraph with a glance at Francois; cut "without deciding to" before the Zoo Station lyric thought; split the arm-wave sentence; cut "for the rest of his life" from the final turning-over line. Deliberate choices preserved: "quiet and patient" echo, second-person "your fingers," "Loud, raw, furious," the confession lyric. Full report in `line-edit-report.md` (struck through = actioned).
-
-**Confession and scissors scene restructure (2026-02-27)**
-- Tom's all-caps outburst after the confession was replaced with a quiet *"Why?"*. The recovery beat ("Francois waited him out") was removed. The story resumes cleanly at "He already knew, of course."
-- Scissors attack moved to interrupt the deduction (Option B): Francois reads Tom's face as Tom completes his internal reasoning, and attacks before Tom can speak. Tom delivers his conclusion (*"You couldn't confess"*) after the fight, straightening up.
-- Tom screaming image (24001.jpg) relocated from the confession section to the fight section.
-- "Something moved behind Francois's eyes / Then it was gone" moved to after the "Do you ever wonder" exchange — now the scene's closing beat before the observation window, not a prelude to an attack.
-- "sweet, sweet tunes" → "that sound again" in Francois's final window speech.
-
-**Second line-edit pass and dev-edit (2026-02-27)**
-Fresh line-edit (line-edit-report-2.md) and developmental edit (dev-edit-report.md) generated against the revised draft. Consolidated actionable items in action-items.md (checkbox format).
-
-**PDF generation set up (2026-02-27)**
-story-template.typ created. PDF spec: 5.5×8.5in, Calibri 14pt, gutter margins, outside-edge page numbers, suppressed captions, cover + blank verso, copyright.
-
----
-
-**Image references added**
-All eight photo cues in `forty_seconds.md` now include proper markdown image references pointing to `../../images/600-ice-4800X.jpg`. The descriptive caption lines are retained alongside each image ref.
-
-**Tom's deduction scene expanded**
-Readers were confused by the "Francois is two people" concept. The fix was to show Tom's deduction step by step rather than summarising it. The new version walks through each fragment of evidence he's collected — the too-clean arguments, the flash of terror, the third-person slip, the forty seconds of music — and builds toward the conclusion visibly. A new image was added: the corruption taking a man *"room by room, leaving some parts intact while it worked on the others."* This sets up the "something left intact" conclusion as a natural next thought rather than a leap. The old version said "slowly, it assembled itself" and moved on — the new version shows the assembly.
-
-**Lyric bleed mechanic — COMPLETE** (album: *Pop* by U2, 1997)
-
-Characters infected by the album unknowingly speak/think in its lyrics. Only Francois bleeds lyrics, except for one bleed at the very end where Tom notices. All positions are finalised and written to the story. Full option history and status table in `reports/lyric-options.md`.
+Album: *Pop* by U2 (1997). Characters infected by the album unknowingly speak/think in its lyrics. Only Francois bleeds lyrics, except for one bleed at the very end where Tom notices. Full lyrics for all 12 tracks are in `lyrics/`.
 
 | Position | Lyric | Song |
 |---|---|---|
-| F0 — Vivian's list (investigation) | *"You know you're chewing bubble gum."* — written down by Vivian, found by Tom in her desk drawer | Discothèque |
-| F1 — Rhetorical questions (persuasion) | *"Where is the hope, and where is the faith?"* — slipped into the what-if run | If God Will Send His Angels |
-| F2 — Mid-persuasion (fragmented speech) | *"Don't try too hard to think. Don't —"* [loses thread] *"If there's an order in all of this disorder — I just need to know what it is."* | Staring at the Sun + Wake Up Dead Man |
-| F3 — Before third-person slip | REMOVED — line reads plainly without lyric | — |
+| F0 — Vivian's list (investigation) | *"You know you're chewing bubble gum."* | Discothèque |
+| F1 — Rhetorical questions (persuasion) | *"Where is the hope, and where is the faith?"* | If God Will Send His Angels |
+| F2 — Mid-persuasion (fragmented speech) | *"Don't try too hard to think. Don't —"* / *"If there's an order in all of this disorder — I just need to know what it is."* | Staring at the Sun + Wake Up Dead Man |
 | F4 — Confession elaboration | *"No emotional good night."* | Gone |
 | F5 — Response to "Why?" | *"She felt the ground was giving way. Better off that way."* | Last Night on Earth |
 | F6 — Fight scream | *"I'm not coming down, I'm not coming down!"* | Gone |
 | F7 — Post-fight response to deduction | *"I'm already gone. Felt that way all along."* | Gone |
 | F8 — Observation window kicker | *"There's an insect in your ear. If you scratch it, it won't disappear."* | Staring at the Sun |
-| T1 — Tom's corridor (Tom notices) | *"you're not the only one staring at the sun — afraid of what you'd find if you stepped back inside."* — arrives mid-thought as "He thought that...", positioned after the "two alarm systems" sentence | Staring at the Sun |
+| T1 — Tom's corridor (Tom notices) | *"you're not the only one staring at the sun — afraid of what you'd find if you stepped back inside."* | Staring at the Sun |
 
-**Used lines by song** (to prevent reuse in future sessions):
-
-- **Gone** (used 3×): *"No emotional good night"* (F4) · *"I'm not coming down, I'm not coming down!"* (F6) · *"I'm already gone / Felt that way all along"* (F7)
-- **Staring at the Sun** (used 3×): *"Don't try too hard to think / Don't think at all"* (F2, partial — cut off mid-sentence) · *"There's an insect in your ear / If you scratch it, it won't disappear"* (F8) · *"you're not the only one staring at the sun — afraid of what you'd find if you stepped back inside"* (T1)
-- **Wake Up Dead Man** (used 1×, partial): Only *"If there's an order in all of this disorder"* — the rest of the lyric (*"is it like a tape recorder? Can we rewind it just once more?"*) has NOT been used.
-- **If God Will Send His Angels** (used 1×): *"Where is the hope, and where is the faith?"*
-- **Last Night on Earth** (used 1×): *"She felt the ground was giving way / Better off that way"*
-- **Discothèque** (used 1×): *"You know you're chewing bubble gum"* (F0 — Vivian's list, found during investigation)
-- **Do You Feel Loved, If You Wear That Velvet Dress, Miami, Mofo, Please, The Playboy Mansion**: unused — available.
-
-**What was deliberately left alone:** Francois's final words through the observation window (*"I don't regret a thing... I'd do anything to hear that sound again"*) contain no lyric. This protects the dual-interpretation of that moment — whether the corruption is reveling or the real Francois is performing. Do not insert a lyric here.
-
-**Pop lyrics reference:** Full lyrics for all 12 tracks are in `lyrics/`.
+**Unused songs (available):** Do You Feel Loved, If You Wear That Velvet Dress, Miami, Mofo, Please, The Playboy Mansion.
 
 ---
 
-## Standing Instructions
+## Epigraph
 
-**Keep this file updated.** After every change to the story or any significant decision, update handoff.md to reflect the current state. A future Claude session should be able to read this file and be fully up to speed without needing to read the conversation history.
+The epigraph is an in-universe evidence locker tag, not a lyric:
 
----
-
-## Confirmed Details
-
-- **The album is *Pop* by U2 (1997).** Confirmed by the user (corrected from earlier misidentification as *Achtung Baby*). Use this name explicitly if it ever needs to be named in the story.
-- **The "Do you ever wonder" paragraph no longer exists in the story.** It was removed entirely. Francois's post-fight response to Tom's deduction is the Gone lyric bleed: *"I'm already gone. Felt that way all along."* Do not reinstate the "Do you ever wonder" line in any scene.
+> *Contents: one boombox, one compact disc. Status: sealed. Do not press play.*
+> — Evidence locker tag, City PD, 1997
 
 ---
 
@@ -184,35 +176,24 @@ Characters infected by the album unknowingly speak/think in its lyrics. Only Fra
 
 Pandoc + Typst. Run from this directory:
 ```
-"C:\Program Files\Pandoc\pandoc.exe" -f markdown-yaml_metadata_block forty_seconds.md -o forty_seconds.pdf --pdf-engine=typst --template=story-template.typ
+"C:\Program Files\Pandoc\pandoc.exe" -f markdown-yaml_metadata_block 11.forty_seconds.md -o "Forty Seconds.pdf" --pdf-engine=typst --template=story-template.typ
 ```
-The `-f markdown-yaml_metadata_block` flag is required — the story's `---` section dividers would otherwise be misread as YAML. `story-template.typ` handles page size, gutter margins, outside-edge page numbers, caption suppression, cover page, and copyright. See the top-level `CLAUDE.md` for the full PDF spec.
+Note: This generates the story only, not the full book with front/back matter. Full book assembly is done in Adobe InDesign / Microsoft Word per `styles.md`.
 
 ---
 
 ## HTML Generation
 
-**`forty_seconds.html` is generated from `forty_seconds.md`. Never edit the HTML file directly — all story edits go to the `.md` file. Only regenerate the HTML after the `.md` is updated.**
+**`forty_seconds.html` is generated from `11.forty_seconds.md`. Never edit the HTML file directly.**
 
-`forty_seconds.html` is a semantic HTML version of the story. Specs:
-
-- **Semantic HTML only — no CSS or styles anywhere**
-- `<i>` for markdown italics (`*...*`), including italicised dialogue — preserve the `"..."` quote marks as literal characters
-- `<figure><img src="..." alt="...">` for images — no captions
-- Structure: `<article>` wraps everything; `<header>` for title/subtitle; `<section>` per chapter; `<hr>` for `---` section breaks; `<footer>` for credits
-- **No refs or Sources** — strip all `[^footnote]` markers; do not include a Sources section. The HTML never has footnote references of any kind.
+Specs:
+- Semantic HTML only — no CSS or styles
+- `<i>` for markdown italics, `<figure><img>` for images (no captions)
+- `<article>` wraps everything; `<section>` per chapter; `<hr>` for section breaks
+- Strip all `[^footnote]` markers; no Sources section
 
 ---
 
-## File Index
+## Standing Instructions
 
-| File | Contents |
-|---|---|
-| `forty_seconds.md` | Current canonical story — use this |
-| `forty_seconds.html` | Semantic HTML version (no CSS) — generated from `.md`, gitignored |
-| `CLAUDE.md` | This file — session handoff |
-| `story-template.typ` | Typst template for PDF generation |
-| `back_cover.md` | Back cover copy |
-| `dead_on_arrival_conversation.md` | Early collaborative conversation that produced the story |
-| `cover/` | Cover art assets |
-| `lyrics/` | Full lyrics for all 12 tracks on *Pop* (U2, 1997) — reference for lyric-bleed mechanic |
+**Keep this file updated.** After every change to the story or any significant decision, update this file. A future Claude session should be able to read this file and be fully up to speed without needing to read the conversation history.
