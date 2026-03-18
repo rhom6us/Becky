@@ -102,42 +102,42 @@ Formatting is applied exclusively through named Word styles — no direct/inline
 
 ## Page-by-Page Formatting
 
-### 01 — Advance Praise (recto, no page number)
+### 01 — Advance Praise (odd, no page number)
 - Header: Section Header style
 - Blurbs: Blurb Quote style; attributions: Blurb Attribution style
-- Can overflow to verso (page 2)
+- Can overflow to even (page 2)
 
-### 03 — Half Title (recto, no page number)
+### 03 — Half Title (odd, no page number)
 - "Forty Seconds": Half Title style
 - Positioned in upper third of page; nothing else on this page
 
-### 04 — Also By (verso, no page number)
+### 04 — Also By (even, no page number)
 - Header: Section Header style
 - Category headers: Also By Category style; titles: Also By Title style; annotations: Also By Annotation style
 
-### 05 — Title Page (recto, no page number)
+### 05 — Title Page (odd, no page number)
 - "Forty Seconds": Half Title style
 - "Thomas Butler": Title Author style
 - "Photographs by Rebecca Stewart": Title Photo Credit style
 - "Disposable Camera Press": Publisher style
 
-### 06 — Copyright (verso, no page number)
+### 06 — Copyright (even, no page number)
 - All text: Copyright style
 
-### 07 — Dedication (recto, no page number)
+### 07 — Dedication (odd, no page number)
 - *For Becky, obviously.*: Dedication style
 - Centered horizontally, positioned in upper third
 
-### 08 — Blank (verso)
+### 08 — Blank (even)
 
-### 09 — Epigraph (recto, no page number)
+### 09 — Epigraph (odd, no page number)
 - Quote: Epigraph Quote style
-- "— U2, 'Mofo'": Epigraph Attribution style
+- "— Evidence locker tag, City PD, 1997": Epigraph Attribution style
 - Upper third of page
 
-### 10 — Blank (verso)
+### 10 — Blank (even)
 
-### 11+ — Story (recto start, page numbers begin)
+### 11+ — Story (odd start, page numbers begin)
 
 - Chapter numbers: Chapter Number style. No page number on chapter-opening pages.
 - Body text: Normal style; italics: Emphasis style.
@@ -158,7 +158,7 @@ Formatting is applied exclusively through named Word styles — no direct/inline
 
 #### Image placement (main story)
 
-Odd pages are recto (right of fold); even pages are verso (left of fold).
+Odd pages are odd (right of fold); even pages are even (left of fold).
 
 | Image | File | Placement |
 |-------|------|-----------|
@@ -171,22 +171,22 @@ Odd pages are recto (right of fold); even pages are verso (left of fold).
 | Boy mid-scream, zebra on head | `600-ice-48001.jpg` | Top of even page (page begins with image); *"Francois's legs went out from under him — the second time that week"* follows on same page |
 | Zebra tucked under blanket | `600-ice-48000.jpg` | Full odd page after *"Nobody else would find it on a shelf somewhere and think just once, just to see."* |
 
-### 91 — Acknowledgements (recto, page number)
+### 91 — Acknowledgements (odd, page number)
 - Header: Section Header style
 - Body: Normal style
 
-### 93 — Permissions (recto, page number)
+### 93 — Permissions (odd, page number)
 - Header: Section Header style
 - Intro paragraph: Normal style
 - Entries: Permissions Lyric style + Permissions Attribution style
-- Can overflow to verso
+- Can overflow to even
 
-### 95 — About the Author (recto, page number)
+### 95 — About the Author (odd, page number)
 - Header: Section Header style
 - Author photo: centered, max 60% of text block width
 - Bio text: About Author style
 
-### 97 — Colophon (recto, page number)
+### 97 — Colophon (odd, page number)
 - Header: Section Header style
 - Text: Colophon style
 
