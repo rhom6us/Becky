@@ -97,6 +97,22 @@ These were deliberately planted and should not be removed or explained away:
 
 ## Recent Changes
 
+**Story doubled in length (2026-03-16)**
+Story expanded from ~246 lines (~2500 words) to ~484 lines (~8400 words). All existing content preserved exactly. Expansion areas:
+
+- **Section 1:** Deepened opening atmosphere (city fever, Francois's return); expanded police-arrival scene with more detail.
+- **Section 2:** Added Tom's backstory and psychology (department departure, 20-year career); expanded city rumors with two new named cases (the schoolteacher's blackboard moment, the butcher in circles, the city records woman); added Tom noticing the lyric-rhythm pattern via the schoolteacher's wife; expanded the moment after "Fine" with Tom at the window reconsidering; added beat after Francois leaves explaining Tom's decision-making pattern.
+- **Section 3 (investigation):** Added Day 1 beat (police file, precinct contact warning: *didn't come back looking the same*); expanded neighbor interview (Vivian asking about the music); added Vivian's colleague Birdie's *not yet* scene; added bar scene with barman and unplaceable coin; added Tom's doorstep visit to Francois before interrogation (Francois echoes *not yet*); expanded Tom's walk back with city atmosphere; expanded boombox aftermath (Tom testing himself, "He almost believed it"); expanded post-conclusion beat (Tom has never worked a case like this); expanded interrogation with Tom laying out evidence to Francois; added Francois describing the corruption in his own words.
+- **Section 3 (interrogation/confession):** Added interior monologue after "Why?" (silence, the purpose of saying things aloud).
+- **Section 4:** Added Tom's floor monologue (leg-give-out, what the fragment's gambit cost); added reflection on Vivian and the fragment as parallel witnesses.
+- **Section 5:** Expanded observation window pre-wave section (Tom on rooms that are easy to clean; Vivian being more careful than him; the barman's coin; the contact's warning); added corridor counting (Twelve. Thirteen. Twenty.); added "solved vs resolved" beat; added Tom thinking about all the ordinary certain people.
+- **Section 5 (corridor):** Added "He waited for himself to start moving again"; expanded "not yet" as a foreign phrase in Tom's mind — a door he doesn't remember opening.
+- **New lyric bleeds:** Please (F9 — city atmosphere, September streets capsizing, line 139); The Playboy Mansion (F10 — Francois in interrogation, "Don't know if I can hold on / wait that long," lines 247/251). Both have footnotes added to Sources.
+
+**Lyric bleed table updated** — see below.
+
+---
+
 **Investigation scene expanded (2026-03-02)**
 The summary investigation section has been replaced with a dramatised beat. Tom finds a folded list in Vivian's desk drawer — words she'd written down because Francois had started saying things that frightened her. Most entries he can't place. One — *"You know you're chewing bubble gum"* (Discothèque, F0) — is underlined twice with a question mark. This is what sends him to the boombox. The press-play moment is also revised: Tom's hand moves before he's decided (Option F — body acting before mind ratifies). This makes the boombox discovery feel earned and gives Vivian specificity and agency.
 
@@ -150,6 +166,8 @@ Characters infected by the album unknowingly speak/think in its lyrics. Only Fra
 | F7 — Post-fight response to deduction | *"I'm already gone. Felt that way all along."* | Gone |
 | F8 — Observation window kicker | *"There's an insect in your ear. If you scratch it, it won't disappear."* | Staring at the Sun |
 | T1 — Tom's corridor (Tom notices) | *"you're not the only one staring at the sun — afraid of what you'd find if you stepped back inside."* — arrives mid-thought as "He thought that...", positioned after the "two alarm systems" sentence | Staring at the Sun |
+| F9 — City atmosphere (investigation, narration) | *"September, the streets slick and capsizing, draining everything down into the gutters at the corners."* — Tom outside the pharmacy after visiting Birdie | Please |
+| F10 — Francois in interrogation (fragmented speech) | *"Don't know if I can hold on... Don't know if I'm that strong... 'Til the colours come flashing and the lights go on."* — Francois loses thread mid-interrogation | The Playboy Mansion |
 
 **Used lines by song** (to prevent reuse in future sessions):
 
@@ -159,7 +177,9 @@ Characters infected by the album unknowingly speak/think in its lyrics. Only Fra
 - **If God Will Send His Angels** (used 1×): *"Where is the hope, and where is the faith?"*
 - **Last Night on Earth** (used 1×): *"She felt the ground was giving way / Better off that way"*
 - **Discothèque** (used 1×): *"You know you're chewing bubble gum"* (F0 — Vivian's list, found during investigation)
-- **Do You Feel Loved, If You Wear That Velvet Dress, Miami, Mofo, Please, The Playboy Mansion**: unused — available.
+- **Please** (used 1×): *"September, streets capsizing / Spilling over and down the drains"* (F9 — city atmosphere, narration)
+- **The Playboy Mansion** (used 1×): *"Don't know if I can hold on / Don't know if I'm that strong... 'Til the colours come flashing and the lights go on"* (F10 — Francois in interrogation)
+- **Do You Feel Loved, If You Wear That Velvet Dress, Miami, Mofo**: unused — available.
 
 **What was deliberately left alone:** Francois's final words through the observation window (*"I don't regret a thing... I'd do anything to hear that sound again"*) contain no lyric. This protects the dual-interpretation of that moment — whether the corruption is reveling or the real Francois is performing. Do not insert a lyric here.
 
