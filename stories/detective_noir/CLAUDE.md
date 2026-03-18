@@ -97,6 +97,20 @@ These were deliberately planted and should not be removed or explained away:
 
 ## Recent Changes
 
+**Major expansion — story doubled in length (2026-03-16)**
+Story expanded from ~2,800 words / 246 lines to ~10,200 words / 491 lines. All existing content preserved; no scenes removed, no images moved, no existing lyric bleeds altered. Key additions:
+- **Tom's office and backstory**: New opening to Chapter 2 establishing the office above the dry cleaner's, the failed alarm systems (deadbolt, stairs), Tom's twenty years of experience.
+- **City as character**: New city-atmosphere section between Chapters 1 and 2. Expanded city descriptions throughout — the deli woman, padlocks, drawn curtains, the hum beneath ordinary life.
+- **Investigation expanded to three full days**: Day 1 adds four dramatised witness interviews — Mrs Halford (chain on door, "I don't listen to how people talk"), Barker the newsagent (new smile, lyric bleed), the bartender at The Anchor (Vivian's unfinished drink, "Do you ever hear something you can't unhear?"), retired postman Lyle (Vivian asking if people can change), plus a laundromat owner and downstairs neighbour. Day 2 adds apartment details (building stairwell, Purcell the mentor, turquoise hair clip, expanded boombox/forty-seconds experience). Day 3 adds Tom's office thinking scene.
+- **Interrogation deepened**: New opening establishing the room and Francois's diminished appearance. Tom now walks through the evidence methodically (neighbours, list, boombox). Expanded silence/pressure beats. Confession gets more interiority.
+- **Deduction expanded**: More detailed step-through of the "two minds" logic. New passage on the fragment's strategy for hiring Tom. Added passage on whether the fragment was calculating or desperate.
+- **Fight scene expanded**: More physical detail — elbow to jaw, knee to ribs. Post-fight scissors secured.
+- **Observation window expanded**: More on Francois's serenity, the dual-interpretation reinforced.
+- **Corridor section significantly expanded**: Fluorescent lights, exit sign, corridor descriptions. Added callbacks to Barker, Mrs Halford, Purcell. Expanded Tom's self-interrogation about his own exposure. New "reorientation" passage applied to himself.
+- **Epilogue expanded**: Burial details (rain, small crowd, Lyle and bartender present, Mrs Halford absent), boombox locker number, Tom returning to his office.
+- **Three new lyric bleeds added**: Barker quotes Francois saying *"You never knew love until you crossed the line of grace"* (Please); Vivian's list includes *"Looking for the face I had before the world was made"* (Mofo); Tom thinks *"the whole world could just dissolve into a glass of water"* in the corridor (If You Wear That Velvet Dress). All three have footnotes.
+- **New minor characters**: Mrs Halford (neighbour), Barker (newsagent), bartender at The Anchor, Lyle (retired postman), Purcell (Tom's former mentor, referenced only).
+
 **Investigation scene expanded (2026-03-02)**
 The summary investigation section has been replaced with a dramatised beat. Tom finds a folded list in Vivian's desk drawer — words she'd written down because Francois had started saying things that frightened her. Most entries he can't place. One — *"You know you're chewing bubble gum"* (Discothèque, F0) — is underlined twice with a question mark. This is what sends him to the boombox. The press-play moment is also revised: Tom's hand moves before he's decided (Option F — body acting before mind ratifies). This makes the boombox discovery feel earned and gives Vivian specificity and agency.
 
@@ -150,6 +164,9 @@ Characters infected by the album unknowingly speak/think in its lyrics. Only Fra
 | F7 — Post-fight response to deduction | *"I'm already gone. Felt that way all along."* | Gone |
 | F8 — Observation window kicker | *"There's an insect in your ear. If you scratch it, it won't disappear."* | Staring at the Sun |
 | T1 — Tom's corridor (Tom notices) | *"you're not the only one staring at the sun — afraid of what you'd find if you stepped back inside."* — arrives mid-thought as "He thought that...", positioned after the "two alarm systems" sentence | Staring at the Sun |
+| B1 — Barker's account (witness) | *"You never knew love until you crossed the line of grace."* — Barker quotes Francois saying this at the newsstand; Francois didn't know where the words came from | Please |
+| V1 — Vivian's list (investigation) | *"Looking for the face I had before the world was made."* — on Vivian's list, underlined without a question mark, as though she understood it | Mofo |
+| T2 — Tom's corridor (Tom notices) | *"the whole world could just dissolve into a glass of water"* — Tom thinks this at a corridor window, then catches himself: "where did that come from" | If You Wear That Velvet Dress |
 
 **Used lines by song** (to prevent reuse in future sessions):
 
@@ -159,7 +176,10 @@ Characters infected by the album unknowingly speak/think in its lyrics. Only Fra
 - **If God Will Send His Angels** (used 1×): *"Where is the hope, and where is the faith?"*
 - **Last Night on Earth** (used 1×): *"She felt the ground was giving way / Better off that way"*
 - **Discothèque** (used 1×): *"You know you're chewing bubble gum"* (F0 — Vivian's list, found during investigation)
-- **Do You Feel Loved, If You Wear That Velvet Dress, Miami, Mofo, Please, The Playboy Mansion**: unused — available.
+- **Please** (used 1×): *"You never knew love until you crossed the line of grace"* (B1 — Barker's account of Francois at the newsstand)
+- **Mofo** (used 1×): *"Looking for the face I had before the world was made"* (V1 — Vivian's list)
+- **If You Wear That Velvet Dress** (used 1×): *"the whole world could just dissolve into a glass of water"* (T2 — Tom's corridor thought)
+- **Do You Feel Loved, Miami, The Playboy Mansion**: unused — available.
 
 **What was deliberately left alone:** Francois's final words through the observation window (*"I don't regret a thing... I'd do anything to hear that sound again"*) contain no lyric. This protects the dual-interpretation of that moment — whether the corruption is reveling or the real Francois is performing. Do not insert a lyric here.
 
