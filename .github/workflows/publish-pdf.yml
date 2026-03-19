@@ -6,7 +6,7 @@ on:
     paths:
       - stories/detective_noir/forty_seconds.md
       - stories/detective_noir/story-template.typ
-      - stories/detective_noir/cover.png
+      - stories/detective_noir/cover/cover.psd
       - .github/workflows/publish-pdf.yml
 
 jobs:
@@ -70,6 +70,11 @@ jobs:
           md = re.sub(r'\((../../images/[^)]+)\)', inline, md)
           pathlib.Path('forty_seconds.md').write_text(md)
           "
+
+      - name: Convert cover PSD to PNG
+        run: >
+          convert 'stories/detective_noir/cover/cover.psd[0]'
+          stories/detective_noir/cover.png
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
