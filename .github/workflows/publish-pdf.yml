@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - stories/detective_noir/forty_seconds.md
+      - stories/detective_noir/11.forty_seconds.md
       - stories/detective_noir/story-template.typ
       - stories/detective_noir/cover/cover.psd
       - .github/workflows/publish-pdf.yml
@@ -35,7 +35,7 @@ jobs:
         run: |
           pandoc \
             -f markdown-yaml_metadata_block \
-            forty_seconds.md \
+            11.forty_seconds.md \
             -o forty_seconds_with_refs.pdf \
             --pdf-engine=typst \
             --template=story-template.typ
@@ -45,7 +45,7 @@ jobs:
         run: |
           python3 -c "
           import re, pathlib
-          md = pathlib.Path('forty_seconds.md').read_text()
+          md = pathlib.Path('11.forty_seconds.md').read_text()
           md = re.sub(r'\[\^[^\]]+\]', '', md)
           md = re.sub(r'^\[\^[^\]]+\]:.*\n?', '', md, flags=re.MULTILINE)
           pathlib.Path('forty_seconds_no_lyrics.md').write_text(md)
@@ -62,13 +62,13 @@ jobs:
         run: |
           python3 -c "
           import re, base64, pathlib
-          md = pathlib.Path('forty_seconds.md').read_text()
+          md = pathlib.Path('11.forty_seconds.md').read_text()
           def inline(m):
               path = m.group(1)
               data = base64.b64encode(pathlib.Path(path).read_bytes()).decode()
               return '(' + 'data:image/jpeg;base64,' + data + ')'
           md = re.sub(r'\((../../images/[^)]+)\)', inline, md)
-          pathlib.Path('forty_seconds.md').write_text(md)
+          pathlib.Path('11.forty_seconds.md').write_text(md)
           "
 
       - name: Convert cover PSD to PNG
@@ -84,5 +84,5 @@ jobs:
           files: |
             stories/detective_noir/forty_seconds.pdf
             stories/detective_noir/forty_seconds_with_refs.pdf
-            stories/detective_noir/forty_seconds.md
+            stories/detective_noir/11.forty_seconds.md
             stories/detective_noir/cover.png
