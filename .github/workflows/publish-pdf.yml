@@ -72,9 +72,9 @@ jobs:
           "
 
       - name: Convert cover PSD to PNG
-        run: >
-          convert 'stories/detective_noir/cover/cover.psd[0]'
-          stories/detective_noir/cover.png
+        run: |
+          sudo apt-get install -y imagemagick
+          convert 'stories/detective_noir/cover/cover.psd[0]' stories/detective_noir/cover.png
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
