@@ -14,7 +14,12 @@ After finishing a task, ask before committing. Commits must be atomic — split 
 
 ## Images
 
-PSD files are gitignored — they are too large for GitHub (up to 296 MB) and Git LFS caused data loss. Never track PSDs in git. They live on disk only and are backed up outside of git.
+PSD files are tracked via Git LFS (`.gitattributes`). They are gitignored so they don't appear in the working tree as pointers — the real files live on disk untracked. CRITICAL rules:
+
+1. **Never remove LFS tracking** — the git history references LFS objects that must stay on the server.
+2. **After any operation that adds or modifies LFS-tracked files, ALWAYS run `git lfs push --all origin`** before or alongside `git push`. Forgetting this caused data loss previously.
+3. **If LFS objects go missing locally**, check `../Becky.old/.git/lfs/objects/` for cached copies.
+4. **Never commit PSD files without LFS** — they exceed GitHub's 100 MB limit.
 
 ## PDF Generation
 
