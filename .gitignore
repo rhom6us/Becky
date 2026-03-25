@@ -7,5 +7,5 @@ stories/detective_noir/forty_seconds.html
 stories/detective_noir/Forty Seconds.pdf
 stories/detective_noir/Forty Seconds.booklet.pdf
 trash/
-images-raw/*.png
+# images-raw/*.png
 stories/detective_noir/cover/cover.pngs
