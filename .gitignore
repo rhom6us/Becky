@@ -5,6 +5,7 @@ stories/detective_noir/forty_seconds.html
 **/~*.docx
 **/~*.tmp
 **/Thumbs.db
+*.psd
 stories/detective_noir/Forty Seconds.pdf
 stories/detective_noir/Forty Seconds.booklet.pdf
 trash/
