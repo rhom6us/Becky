@@ -13,6 +13,20 @@
         "@modelcontextprotocol/server-filesystem",
         "."
       ]
+    },
+    "adobe-mcp": {
+      "command": "adobe-mcp",
+      "args": []
+    },
+    "indesign-exec": {
+      "command": "python",
+      "args": ["exec_server.py"],
+      "cwd": "C:\\Users\\thoma\\.claude\\mcp-servers\\indesign-scripting-mcp"
+    },
+    "indesign-dom": {
+      "command": "python",
+      "args": ["server.py"],
+      "cwd": "C:\\Users\\thoma\\.claude\\mcp-servers\\indesign-scripting-mcp"
     }
   }
 }

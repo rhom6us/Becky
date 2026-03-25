@@ -1,0 +1,10 @@
+{
+  "enabledMcpjsonServers": [
+    "word-document-server",
+    "filesystem-project",
+    "adobe-mcp",
+    "indesign-exec",
+    "indesign-dom"
+  ],
+  "enableAllProjectMcpServers": true
+}
